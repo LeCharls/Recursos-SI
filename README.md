@@ -25,7 +25,7 @@ Mejores CDN:
 - https://www.cloudflare.com/
 - 
 
-Diseño y buileers web:
+Diseño y builders web:
 
 - https://bootstrapstudio.io/
 - https://www.figma.com/
