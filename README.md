@@ -32,6 +32,15 @@ Mejores librerías de animaciones web:
 - https://www.minimamente.com/project/magic/
 - https://lottiefiles.com/
 
+Segudiad web:
+
+- https://www.php.net/manual/en/security.php
+- https://docs.php.earth/security/intro/
+- https://learn.microsoft.com/en-us/iis/application-frameworks/install-and-configure-php-on-iis/secure-php-with-configuration-settings
+- https://www.digitalocean.com/community/tools/nginx
+- https://cisofy.com/lynis/
+- https://docs.npmjs.com/cli/v9/commands/npm-audit
+- 
 
 Mejores CDN:
 
@@ -212,6 +221,7 @@ Herramientas para análisis forense y peritaje informático:
 Webs para decodificar/desencriptar:
 
 - https://gchq.github.io/
+- https://www.aperisolve.com/
 - https://www.boxentriq.com/
 - https://futureboy.us/stegano/
 - https://stylesuxx.github.io/steganography/
