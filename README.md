@@ -17,6 +17,10 @@ Mejores domain registar:
 Mejores Frameworks web y app:
 
 
+Animaciones 3d para web:
+
+- https://spline.design/
+- https://threejs.org/
 
 Mejores librerías de animaciones web:
 
