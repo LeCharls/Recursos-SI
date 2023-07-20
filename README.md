@@ -13,7 +13,15 @@ Comprobar si estas en botnet:
 
 Virtualizacion Local:
 
+- https://www.virtualbox.org
+- https://www.vmware.com/es/products/workstation-player.html
+
 Virtualizacion en Red:
+
+- https://www.proxmox.com/en/proxmox-ve
+- https://www.vagrantup.com
+- https://www.vmware.com/es/products/esxi-and-esx.html
+
 
 Automatizaciones y programacion de tareas:
 
