@@ -239,6 +239,13 @@ Gestor de feeds y noticias:
 
 Editores de código:
 
+- https://www.gitkraken.com/blog/gitkraken-v4-0
+- https://github.com/features/codespaces
+- https://code.visualstudio.com/
+- https://visualstudio.microsoft.com/es/
+- https://brackets.io/
+
+
 Herramienta de Inventario y gestión:
 
 - https://glpi-project.org/ #+plugin inventory
