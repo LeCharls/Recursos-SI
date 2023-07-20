@@ -127,6 +127,7 @@ Plugins VSCode muy usados:
 
 - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+- https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
 Herramientas para red team:
 
