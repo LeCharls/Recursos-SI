@@ -67,6 +67,16 @@ Plantillas y code blocks gratis:
 
 - https://www.builtatlightspeed.com/
 
+
+CyberSecurity Framework Linux Based Distros:
+
+- https://subgraph.com/
+- https://www.qubes-os.org/
+- https://www.whonix.org/
+- https://tails.net/index.es.html
+- https://selinuxproject.org/page/Main_Page
+- https://apparmor.net/ (APP)
+
 Webservers:
 
 - https://httpd.apache.org/
