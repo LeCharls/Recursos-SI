@@ -89,11 +89,28 @@ Soluciones Cloud:
 
 Servidores y herramientas para cloud:
 
+Esquemas online y mapas conecptuales:
+
+-  https://miro.com
+
+- https://app.diagrams.net
+
 Gestores de proyectos online:
 
 -  https://www.atlassian.com/es/software/jira
 
+Meetings:
+
+- https://www.microsoft.com/es-es/microsoft-teams/group-chat-software
+- https://meet.google.com
+- https://www.webex.com/
+
 Gestores de notas:
+
+- https://obsidian.md
+- https://www.onenote.com
+- https://www.notion.so
+- https://keep.google.com/
 
 Gestor de feeds y noticias:
 
