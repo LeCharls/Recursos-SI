@@ -1,6 +1,10 @@
 # Herramientas útiles para diferentes especializaciones y labores 
 Diseño web:
 
+Gestor de dependencias php:
+
+Estilos css:
+
 Plantillas y code blocks gratis:
 
 - https://www.builtatlightspeed.com/
