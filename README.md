@@ -196,6 +196,21 @@ Herramientas para análisis forense y peritaje informático:
 
 Webs para decodificar/desencriptar:
 
+- https://gchq.github.io/
+- https://futureboy.us/stegano/
+- https://stylesuxx.github.io/steganography/
+- https://330k.github.io/misc_tools/unicode_steganography_iframe.html
+- https://stegonline.georgeom.net/upload
+- https://it-tools.tech/
+- https://hexed.it/
+- https://sange.fi/esoteric/brainfuck/impl/interp/i.html
+- https://cyber.meme.tips/jpdump/#
+- https://www.metadata2go.com/
+- https://330k.github.io/misc_tools/unicode_steganography.html
+- https://www.boxentriq.com/code-breaking/caesar-cipher
+- http://www.sunshine2k.de/coding/javascript/onlineelfviewer/onlineelfviewer.html#
+- https://incoherency.co.uk/image-steganography/#unhide
+
 Herramientas de auditoria Linux:
 
 -  https://cisofy.com/lynis/ #herramienta de auditoria interna linux
