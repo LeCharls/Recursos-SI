@@ -3,7 +3,7 @@ Diseño web:
 
 Herramientas SEO:
 
-Auditoria Web:
+Auditoría Web:
 
 Virtualizacion Local:
 
