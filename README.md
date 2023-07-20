@@ -1,6 +1,11 @@
 # Herramientas útiles para diferentes especializaciones y labores 
 Diseño web:
 
+Proxy:
+
+- https://nginxproxymanager.com
+- https://www.cloudflare.com
+
 Herramientas SEO:
 
 -  https://pagespeed.web.dev   #herramienta de google para analizar velocidad y buenas prácticas en web
@@ -50,6 +55,7 @@ Webs Bases de datos de vulnerabilidades:
 Gestion SSL:
 
 -  https://certbot.eff.org #gestor de certificados ssl Let´s Encrypt en linux compatible con muchos webservers y distros
+-  https://www.cloudflare.com
 
 Comprobar headers de seguridad en  respuesta http online:
 
