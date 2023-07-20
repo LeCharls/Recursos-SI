@@ -1,5 +1,5 @@
 # Herramientas útiles para diferentes especializaciones y labores 
-Diseño web
+Diseño web:
 
 Virtualizacion Local:
 
