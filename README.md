@@ -16,6 +16,7 @@ Automatizaciones y programacion de tareas:
 Seguridad en Red:
 
 Gestion SSL:
+https://certbot.eff.org #gestor de certificados ssl Let´s Encrypt en linux compatible con muchos webservers y distros, 
 
 Seguridad de endpoints:
 
