@@ -1,6 +1,8 @@
 # Herramientas útiles para diferentes especializaciones y labores 
 Diseño web:
 
+Plantillas y templates y code blocks gratis:
+
 Webservers:
 
 - https://httpd.apache.org/
