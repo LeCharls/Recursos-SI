@@ -189,6 +189,8 @@ Servidores de monitorización:
 
 Servidores de seguridad:
 
+- https://securityonionsolutions.com/
+
 Servidores Intrusion Detection System or XDR Extended Detection Response:
 
 - https://wazuh.com/
