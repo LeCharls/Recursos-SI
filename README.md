@@ -167,6 +167,10 @@ Mejores Distribuciones Linux:
 
 Mejores IAs-AI:
 
+Libros grado informática medio y superior:
+
+- https://pc-solucion.es/bibliotecas/
+
 Herramientas windows:
 
 Programas windows recomendados:
