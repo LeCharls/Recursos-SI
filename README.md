@@ -252,6 +252,23 @@ Herramienta de Inventario y gestión:
 
 Mejores Distribuciones Linux:
 
+- https://www.debian.org/
+- https://www.gentoo.org/
+- https://www.redhat.com
+- https://www.centos.org/
+- https://fedoraproject.org/
+- https://archlinux.org/
+- https://www.opensuse.org/
+- https://pop.system76.com/
+- https://elementary.io/
+- https://zorin.com/os/
+- https://www.linuxliteos.com/
+- https://mxlinux.org/
+- https://www.windowsfx.org/
+- https://linuxmint.com/
+- https://manjaro.org/
+- https://ubuntu.com/
+
 Mejores IAs-AI:
 
 Comunidad IA:
