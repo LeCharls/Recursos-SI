@@ -131,6 +131,9 @@ Plugins VSCode muy usados:
 - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
+Homelab Manager Panel:
+
+
 Herramientas para red team:
 
 Herramientas para blue team:
