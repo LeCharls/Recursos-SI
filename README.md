@@ -102,7 +102,6 @@ Servidor NAS o cabinas de discos:
 Automatizaciones y programacion de tareas:
 
 - https://crontab.guru/
-- 
 
 Seguridad en Red:
 
