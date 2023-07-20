@@ -211,9 +211,26 @@ VSCode IAS:
 
 Herramientas para red team:
 
+- https://www.kali.org/
+- https://www.parrotsec.org/
+- https://blackarch.org/
+- https://www.pentoo.ch/
+- https://www.backbox.org/
+
 Herramientas para blue team:
 
-Herramientas para detección de vulnerabilidades:
+Herramientas para detección de vulnerabilidades y herramientas escaneo:
+
+- https://www.tenable.com/tenable-for-education/nessus-essentials
+- https://www.wireshark.org/download.html
+- https://nmap.org/
+- https://github.com/projectdiscovery/nuclei
+- https://github.com/tinwaninja/Simple-Backdoor-Scanner-PHP
+- https://github.com/danielmiessler/SecLists
+- https://github.com/emposha/PHP-Shell-Detector
+- https://github.com/Neo23x0/Loki
+- https://github.com/Gh0stroot/Crypton
+- https://github.com/blackhatethicalhacking
 
 Herramientas para análisis forense y peritaje informático:
 
