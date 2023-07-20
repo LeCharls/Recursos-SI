@@ -19,6 +19,10 @@ Gestion SSL:
 
 https://certbot.eff.org #gestor de certificados ssl Let´s Encrypt en linux compatible con muchos webservers y distros
 
+Comprobar headers de seguridad en  respuesta http online:
+
+https://securityheaders.com
+
 Comprobar certificado ssl online:
 
 https://www.ssllabs.com/ssltest/ 
