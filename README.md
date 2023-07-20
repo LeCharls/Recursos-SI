@@ -17,7 +17,8 @@ Herramientas SEO:
 
 Auditoría Web:
 
-- https://observatory.mozilla.org/ 
+- https://observatory.mozilla.org/
+- https://hostedscan.com/
 
 Comprobar si estas en botnet:
 
