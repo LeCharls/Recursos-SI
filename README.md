@@ -1,4 +1,30 @@
 # Herramientas útiles para diferentes especializaciones y labores 
+Plataforma de servicios web, Hosting y vps:
+
+- https://aws.amazon.com/
+- https://www.hostinger.com/
+- https://www.oracle.com/cloud/
+- https://www.ovhcloud.com/en/
+
+Mejores domain registar:
+
+- https://www.domain.com/
+- https://www.cloudflare.com/
+
+Mejores Frameworks web y app:
+
+
+
+Mejores librerías de animaciones web:
+
+
+
+Mejores CDN:
+
+- https://cdnjs.com/
+- https://www.cloudflare.com/
+- 
+
 Diseño y buileers web:
 
 - https://bootstrapstudio.io/
