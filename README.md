@@ -1,6 +1,10 @@
 # Herramientas útiles para diferentes especializaciones y labores 
 Diseño web:
 
+Herramientas SEO:
+
+Auditoria Web:
+
 Virtualizacion Local:
 
 Virtualizacion en Red:
