@@ -1,4 +1,7 @@
 # Herramientas útiles para diferentes especializaciones y labores 
+Biblioteca en línea de software y webs:
+- http://web.archive.org/
+
 Plataforma de servicios web, Hosting y vps:
 
 - https://aws.amazon.com/
