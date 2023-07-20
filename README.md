@@ -17,6 +17,8 @@ Herramientas SEO:
 
 Auditoría Web:
 
+- https://observatory.mozilla.org/ 
+
 Comprobar si estas en botnet:
 
 -  https://www.incibe.es/empresas/te-ayudamos/servicio-antibotnet
