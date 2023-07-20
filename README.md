@@ -108,6 +108,12 @@ Servidores de seguridad:
 
 Servidores Intrusion Detection System:
 
+- https://wazuh.com/
+
+Servidores Intrusion Response System:
+
+- https://wazuh.com/
+
 Servidores Intrusion Prevention System:
 
 Servidores SIEM System Information and Events Manager:
