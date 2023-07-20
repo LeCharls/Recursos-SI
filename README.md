@@ -23,7 +23,6 @@ Mejores CDN:
 
 - https://cdnjs.com/
 - https://www.cloudflare.com/
-- 
 
 Diseño y builders web:
 
