@@ -41,6 +41,7 @@ Virtualizacion en Red:
 
 Cálculadora Raid:
 
+- https://www.synology.com/en-us/support/RAID_calculator
 
 Servidor NAS o cabinas de discos:
 
