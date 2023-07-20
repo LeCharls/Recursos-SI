@@ -167,6 +167,8 @@ Editores de código:
 
 Herramienta de Inventario y gestión:
 
+- https://glpi-project.org/ #+plugin inventory
+
 Mejores Distribuciones Linux:
 
 Mejores IAs-AI:
