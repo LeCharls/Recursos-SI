@@ -5,6 +5,7 @@ Proxy:
 
 - https://nginxproxymanager.com
 - https://www.cloudflare.com
+- http://www.squid-cache.org
 
 Herramientas SEO:
 
