@@ -3,7 +3,7 @@ Diseño web:
 
 Herramientas SEO:
 
-https://pagespeed.web.dev #herramienta de google para analizar velocidad y buenas prácticas en web
+https://pagespeed.web.dev   #herramienta de google para analizar velocidad y buenas prácticas en web
 
 Auditoría Web:
 
