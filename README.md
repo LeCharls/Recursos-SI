@@ -105,6 +105,7 @@ Seguridad de endpoints:
 Servidores de monitorización:
 
 - https://icinga.com/
+- https://www.nagios.org/
 
 Servidores de seguridad:
 
