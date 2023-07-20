@@ -17,7 +17,17 @@ Seguridad en Red:
 
 Gestion SSL:
 
-https://certbot.eff.org #gestor de certificados ssl Let´s Encrypt en linux compatible con muchos webservers y distros, 
+https://certbot.eff.org #gestor de certificados ssl Let´s Encrypt en linux compatible con muchos webservers y distros
+
+Comprobar certificado ssl online:
+
+https://www.ssllabs.com/ssltest/ 
+
+https://www.sslshopper.com/ssl-checker.html
+
+https://www.sslchecker.com/sslchecker
+
+https://www.digicert.com/help/
 
 Seguridad de endpoints:
 
