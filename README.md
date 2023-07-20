@@ -205,6 +205,9 @@ Herramientas para detección de vulnerabilidades:
 
 Herramientas para análisis forense y peritaje informático:
 
+- https://www.autopsy.com/
+- https://www.sleuthkit.org/sleuthkit/
+
 Webs para decodificar/desencriptar:
 
 - https://gchq.github.io/
