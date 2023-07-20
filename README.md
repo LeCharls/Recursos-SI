@@ -125,6 +125,8 @@ Entornos de desarrollo:
 
 Plugins VSCode muy usados:
 
+- https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
 Herramientas para red team:
 
 Herramientas para blue team:
