@@ -176,6 +176,15 @@ Plugins VSCode muy usados:
 Homelab Manager Panel:
 
 
+VSCode IAS:
+
+- https://visualstudio.microsoft.com/es/services/intellicode/
+- https://k6.io/docs/es/misc/intellisense/
+- https://github.com/features/copilot
+- https://www.tabnine.com/
+- https://www.useblackbox.io/
+- https://plugins.jetbrains.com/plugin/7638-codota-ai-autocomplete-for-java-and-javascript
+
 Herramientas para red team:
 
 Herramientas para blue team:
