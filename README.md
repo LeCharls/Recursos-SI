@@ -39,12 +39,18 @@ Virtualizacion en Red:
 - https://www.vagrantup.com
 - https://www.vmware.com/es/products/esxi-and-esx.html
 
+Cálculadora Raid:
+
+
 Servidor NAS o cabinas de discos:
 
 - https://www.netapp.com/es/
 - https://www.truenas.com
 
 Automatizaciones y programacion de tareas:
+
+- https://crontab.guru/
+- 
 
 Seguridad en Red:
 
