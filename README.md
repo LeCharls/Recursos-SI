@@ -207,6 +207,7 @@ Herramientas para análisis forense y peritaje informático:
 
 - https://www.autopsy.com/
 - https://www.sleuthkit.org/sleuthkit/
+- https://www.lifewire.com/free-pc-audit-review-2625765
 
 Webs para decodificar/desencriptar:
 
@@ -233,6 +234,7 @@ Herramientas de auditoria Linux:
 Herramientas de auditoría, reparación, gestión   y seguridad Windows:
 
 - https://learn.microsoft.com/en-us/sysinternals/
+- https://www.lifewire.com/free-pc-audit-review-2625765
 - https://www.autopsy.com/
 - https://ericzimmerman.github.io/#!index.md
 - https://live.sysinternals.com/
