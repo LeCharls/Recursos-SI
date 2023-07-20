@@ -9,6 +9,8 @@ Editor hexadecimal:
 
 Generador de config nginx:
 
+- https://www.digitalocean.com/community/tools/nginx
+
 Proxy:
 
 - https://nginxproxymanager.com
