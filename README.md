@@ -190,9 +190,12 @@ Herramientas de auditoria Linux:
 
 -  https://cisofy.com/lynis/ #herramienta de auditoria interna linux
 
-Herramientas de auditoría, reparación y seguridad Windows:
+Herramientas de auditoría, reparación, gestión   y seguridad Windows:
 
 - https://learn.microsoft.com/en-us/sysinternals/
+- https://www.autopsy.com/
+- https://ericzimmerman.github.io/#!index.md
+- https://live.sysinternals.com/
 
 Soluciones Cloud:
 
