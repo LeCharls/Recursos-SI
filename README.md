@@ -25,7 +25,7 @@ Servidores SIEM System Information and Events Manager
 
 Entornos de desarrollo
 
-Plugins VSCODE muy usados
+Plugins VSCode muy usados
 
 Herramientas para red team
 
