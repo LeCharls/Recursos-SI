@@ -85,7 +85,6 @@ Balanceador de carga:
 
 - https://www.haproxy.org/
 
-
 Editor hexadecimal:
 
 - https://hexed.it/
@@ -133,7 +132,7 @@ Servidor NAS o cabinas de discos:
 - https://www.netapp.com/es/
 - https://www.truenas.com
 
-Automatizaciones y programacion de tareas:
+Automatizaciones y programar tareas:
 
 - https://crontab.guru/
 
@@ -143,7 +142,7 @@ Firewall Linux:
 
 - https://iptablesgenerator.totalbits.com/ #https://linux.die.net/man/8/iptables #https://man7.org/linux/man-pages/man8/iptables.8.html
 - https://manpages.ubuntu.com/manpages/trusty/man8/ufw.8.html
-- 
+
 
 Webs Bases de datos de vulnerabilidades:
 
@@ -235,6 +234,11 @@ Herramientas para red team:
 - https://blackarch.org/
 - https://www.pentoo.ch/
 - https://www.backbox.org/
+- https://crackstation.net/
+- https://hashcat.net/hashcat/
+- https://www.openwall.com/john/
+- https://en.kali.tools/all/?tool=1332
+- https://en.kali.tools/all/?
 
 Herramientas para blue team:
 
