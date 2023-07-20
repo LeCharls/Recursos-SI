@@ -198,6 +198,7 @@ Plugins VSCode muy usados:
 
 Homelab Manager Panel:
 
+- https://dashy.to/
 
 VSCode IAS:
 
