@@ -193,12 +193,15 @@ Servidores Intrusion Detection System or XDR Extended Detection Response:
 
 - https://wazuh.com/
 - https://www.ossec.net/ossec-downloads/
+- https://suricata.io/
 
 Servidores Intrusion Response System:
 
 - https://wazuh.com/
 
 Servidores Intrusion Prevention System:
+
+- https://suricata.io/
 
 Servidores SIEM System Information and Events Manager:
 
