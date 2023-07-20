@@ -91,6 +91,8 @@ Servidores y herramientas para cloud:
 
 Gestores de proyectos online:
 
+-  https://www.atlassian.com/es/software/jira
+
 Gestores de notas:
 
 Gestor de feeds y noticias:
