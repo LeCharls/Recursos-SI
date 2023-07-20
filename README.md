@@ -93,6 +93,8 @@ Gestores de proyectos online:
 
 Gestores de notas:
 
+Gestor de feeds y noticias:
+
 Editores de código:
 
 Mejores Distribuciones Linux:
