@@ -219,12 +219,18 @@ Esquemas online y mapas conecptuales:
 Gestores de proyectos online:
 
 -  https://www.atlassian.com/es/software/jira
+-  https://www.atlassian.com/software/jira/guides/integrations/overview#recommended-tools-for-it
+-  
 
 Meetings:
 
 - https://www.microsoft.com/es-es/microsoft-teams/group-chat-software
 - https://meet.google.com
 - https://www.webex.com/
+
+Chat y comunidad de desarrollo para productividad:
+
+- https://slack.com/intl/es-es
 
 Gestores de notas:
 
