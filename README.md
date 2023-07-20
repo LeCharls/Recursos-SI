@@ -212,6 +212,7 @@ Herramientas para análisis forense y peritaje informático:
 Webs para decodificar/desencriptar:
 
 - https://gchq.github.io/
+- https://www.boxentriq.com/
 - https://futureboy.us/stegano/
 - https://stylesuxx.github.io/steganography/
 - https://330k.github.io/misc_tools/unicode_steganography_iframe.html
