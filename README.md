@@ -210,6 +210,7 @@ Webs para decodificar/desencriptar:
 - https://www.boxentriq.com/code-breaking/caesar-cipher
 - http://www.sunshine2k.de/coding/javascript/onlineelfviewer/onlineelfviewer.html#
 - https://incoherency.co.uk/image-steganography/#unhide
+- https://www.sslshopper.com/certificate-decoder.html
 
 Herramientas de auditoria Linux:
 
