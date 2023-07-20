@@ -165,6 +165,8 @@ Gestor de feeds y noticias:
 
 Editores de código:
 
+Herramienta de Inventario y gestión:
+
 Mejores Distribuciones Linux:
 
 Mejores IAs-AI:
