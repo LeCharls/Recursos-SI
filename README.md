@@ -3,13 +3,13 @@ Diseño web:
 
 Herramientas SEO:
 
-https://pagespeed.web.dev   #herramienta de google para analizar velocidad y buenas prácticas en web
+-  https://pagespeed.web.dev   #herramienta de google para analizar velocidad y buenas prácticas en web
 
 Auditoría Web:
 
 Comprobar si estas en botnet:
 
-https://www.incibe.es/empresas/te-ayudamos/servicio-antibotnet
+-  https://www.incibe.es/empresas/te-ayudamos/servicio-antibotnet
 
 Virtualizacion Local:
 
@@ -33,25 +33,25 @@ Webs Bases de datos de vulnerabilidades:
 
 -  https://www.exploit-db.com/google-hacking-database
 
-https://www.exploit-db.com
+-  https://www.exploit-db.com
 
 Gestion SSL:
 
-https://certbot.eff.org #gestor de certificados ssl Let´s Encrypt en linux compatible con muchos webservers y distros
+-  https://certbot.eff.org #gestor de certificados ssl Let´s Encrypt en linux compatible con muchos webservers y distros
 
 Comprobar headers de seguridad en  respuesta http online:
 
-https://securityheaders.com
+-  https://securityheaders.com
 
 Comprobar certificado ssl online:
 
-https://www.ssllabs.com/ssltest/ 
+-  https://www.ssllabs.com/ssltest/ 
 
-https://www.sslshopper.com/ssl-checker.html
+-  https://www.sslshopper.com/ssl-checker.html
 
-https://www.sslchecker.com/sslchecker
+-  https://www.sslchecker.com/sslchecker
 
-https://www.digicert.com/help/
+-  https://www.digicert.com/help/
 
 Seguridad de endpoints:
 
@@ -80,7 +80,8 @@ Herramientas para análisis forense y peritaje informático:
 Webs para decodificar/desencriptar:
 
 Herramientas de auditoria Linux:
-https://cisofy.com/lynis/ #herramienta de auditoria interna linux
+
+-  https://cisofy.com/lynis/ #herramienta de auditoria interna linux
 
 Herramientas de auditoria Windows:
 
