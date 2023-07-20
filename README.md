@@ -3,6 +3,10 @@ Diseño web:
 
 Webservers:
 
+Editor hexadecimal:
+
+- https://hexed.it/
+
 Generador de config nginx:
 
 Proxy:
