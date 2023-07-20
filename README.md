@@ -24,6 +24,13 @@ Animaciones 3d para web:
 
 Mejores librerías de animaciones web:
 
+- https://animate.style/
+- https://michalsnik.github.io/aos/
+- https://greensock.com/gsap/
+- https://mojs.github.io/
+- http://ianlunn.github.io/Hover/
+- https://www.minimamente.com/project/magic/
+- https://lottiefiles.com/
 
 
 Mejores CDN:
