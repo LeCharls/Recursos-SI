@@ -237,7 +237,6 @@ Gestores de proyectos online:
 
 -  https://www.atlassian.com/es/software/jira
 -  https://www.atlassian.com/software/jira/guides/integrations/overview#recommended-tools-for-it
--  
 
 Meetings:
 
