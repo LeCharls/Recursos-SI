@@ -32,7 +32,7 @@ Mejores librerías de animaciones web:
 - https://www.minimamente.com/project/magic/
 - https://lottiefiles.com/
 
-Segudiad web:
+Seguridad web:
 
 - https://www.php.net/manual/en/security.php
 - https://docs.php.earth/security/intro/
