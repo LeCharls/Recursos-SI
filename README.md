@@ -5,6 +5,9 @@ Gestor de dependencias php:
 
 Estilos css:
 
+- https://getbootstrap.com/
+- https://tailwindcss.com/
+
 Plantillas y code blocks gratis:
 
 - https://www.builtatlightspeed.com/
