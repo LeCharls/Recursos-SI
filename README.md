@@ -167,6 +167,10 @@ Mejores Distribuciones Linux:
 
 Mejores IAs-AI:
 
+Comunidad IA:
+
+- https://huggingface.co/
+
 Libros grado informática medio y superior:
 
 - https://pc-solucion.es/bibliotecas/
