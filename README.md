@@ -58,3 +58,17 @@ Mejores IAs-AI
 Herramientas windows
 
 Programas windows recomendados 
+
+_____________________________________________________
+
+ _______\)%%%%%%%%._              
+`''''-'-;   % % % % %'-._         
+        :b) \            '-.      
+        : :__)'    .'    .'       si no te gustan los 
+        :.::/  '.'   .'           unicornios pues
+        o_i/   :    ;             es porque nunca
+               :   .'             has visto uno :)
+                ''`
+
+___________________________________________________
+
