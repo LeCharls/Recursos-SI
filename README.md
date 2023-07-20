@@ -1,74 +1,68 @@
 # Herramientas útiles para diferentes especializaciones y labores 
 Diseño web
 
-Virtualizacion Local
+Virtualizacion Local:
 
-Virtualizacion en Red
+Virtualizacion en Red:
 
-Automatizaciones y programacion de tareas
+Automatizaciones y programacion de tareas:
 
-Seguridad en Red
+Seguridad en Red:
 
-Gestion SSL
+Gestion SSL:
 
-Seguridad de endpoints
+Seguridad de endpoints:
 
-Servidores de monitorización
+Servidores de monitorización:
 
-Servidores de seguridad
+Servidores de seguridad:
 
-Servidores Intrusion Detection System
+Servidores Intrusion Detection System:
 
-Servidores Intrusion Prevention System
+Servidores Intrusion Prevention System:
 
-Servidores SIEM System Information and Events Manager
+Servidores SIEM System Information and Events Manager:
 
-Entornos de desarrollo
+Entornos de desarrollo:
 
-Plugins VSCode muy usados
+Plugins VSCode muy usados:
 
-Herramientas para red team
+Herramientas para red team:
 
-Herramientas para blue team
+Herramientas para blue team:
 
-Herramientas para detección de vulnerabilidades
+Herramientas para detección de vulnerabilidades:
 
-Herramientas para análisis forense y peritaje informático 
+Herramientas para análisis forense y peritaje informático:
 
-Webs para decodificar/desencriptar
+Webs para decodificar/desencriptar:
 
-Herramientas de auditoria Linux
+Herramientas de auditoria Linux:
 
-Herramientas de auditoria Windows
+Herramientas de auditoria Windows:
 
-Soluciones Cloud
+Soluciones Cloud:
 
-Servidores y herramientas para cloud
+Servidores y herramientas para cloud:
 
-Gestores de proyectos online
+Gestores de proyectos online:
 
-Gestores de notas 
+Gestores de notas:
 
-Editores de código
+Editores de código:
 
-Mejores Distribuciones Linux 
+Mejores Distribuciones Linux:
 
-Mejores IAs-AI
+Mejores IAs-AI:
 
-Herramientas windows
+Herramientas windows:
 
-Programas windows recomendados 
+Programas windows recomendados:
 
-_____________________________________________________
+______________________________
+Lista de lenguajes de programacion:
 
- _______\)%%%%%%%%._              
-`''''-'-;   % % % % %'-._         
-        :b) \            '-.      
-        : :__)'    .'    .'       si no te gustan los 
-        :.::/  '.'   .'           unicornios pues
-        o_i/   :    ;             es porque nunca
-               :   .'             has visto uno :)
-                ''`
+Lista de programas:
 
-___________________________________________________
+Lista de webs:
 
