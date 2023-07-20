@@ -5,6 +5,9 @@ Webservers:
 
 Balanceador de carga:
 
+- https://www.haproxy.org/
+
+
 Editor hexadecimal:
 
 - https://hexed.it/
