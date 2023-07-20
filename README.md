@@ -1,6 +1,10 @@
 # Herramientas útiles para diferentes especializaciones y labores 
 Diseño web:
 
+Webservers:
+
+Generador de config nginx:
+
 Proxy:
 
 - https://nginxproxymanager.com
