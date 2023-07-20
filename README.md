@@ -280,6 +280,7 @@ Webs para decodificar/desencriptar:
 - http://www.sunshine2k.de/coding/javascript/onlineelfviewer/onlineelfviewer.html#
 - https://incoherency.co.uk/image-steganography/#unhide
 - https://www.sslshopper.com/certificate-decoder.html
+- https://v2.cryptii.com/text/select
 
 Herramientas de auditoria Linux:
 
