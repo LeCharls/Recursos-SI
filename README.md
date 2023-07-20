@@ -161,6 +161,8 @@ Gestores de notas:
 
 Gestor de feeds y noticias:
 
+- https://feedly.com
+
 Editores de código:
 
 Mejores Distribuciones Linux:
