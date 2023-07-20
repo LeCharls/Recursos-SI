@@ -40,6 +40,8 @@ Segudiad web:
 - https://www.digitalocean.com/community/tools/nginx
 - https://cisofy.com/lynis/
 - https://docs.npmjs.com/cli/v9/commands/npm-audit
+- https://developer.mozilla.org/en-US/docs/Learn/Server-side/Apache_Configuration_htaccess
+- https://www.wpsysadmin.com/seguridad/hosting/htaccess/
 - 
 
 Mejores CDN:
