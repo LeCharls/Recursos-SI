@@ -44,6 +44,7 @@ Herramientas para análisis forense y peritaje informático:
 Webs para decodificar/desencriptar:
 
 Herramientas de auditoria Linux:
+https://cisofy.com/lynis/ #herramienta de auditoria interna linux
 
 Herramientas de auditoria Windows:
 
