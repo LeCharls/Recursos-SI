@@ -307,8 +307,6 @@ Herramientas para red team:
 - https://en.kali.tools/all/?tool=1332
 - https://en.kali.tools/all/?
 
-Herramientas para blue team:
-
 Herramientas para detección de vulnerabilidades y herramientas escaneo:
 
 - https://www.tenable.com/tenable-for-education/nessus-essentials
