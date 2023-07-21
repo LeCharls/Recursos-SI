@@ -121,6 +121,8 @@ Auditoría Web:
 
 - https://observatory.mozilla.org/
 - https://hostedscan.com/
+- https://www.zaproxy.org/
+
 
 Comprobar si estas en botnet:
 
@@ -331,11 +333,15 @@ Webs para decodificar/desencriptar:
 - https://www.sslshopper.com/certificate-decoder.html
 - https://v2.cryptii.com/text/select
 
-Herramientas de auditoria Linux:
+Herramientas de auditoria:
 
--  https://cisofy.com/lynis/ #herramienta de auditoria interna linux
+-  https://cisofy.com/lynis/
+- https://www.autopsy.com/
+-  https://openvas.org/
+-  https://www.open-scap.org/getting-started/
+-  https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro
 
-Herramientas de auditoría, reparación, gestión   y seguridad Windows:
+Herramientas reparación, gestión y seguridad Windows:
 
 - https://learn.microsoft.com/en-us/sysinternals/
 - https://www.lifewire.com/free-pc-audit-review-2625765
