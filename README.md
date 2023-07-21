@@ -156,7 +156,12 @@ Servidor NAS o cabinas de discos:
 - https://www.netapp.com/es/
 - https://www.truenas.com
 
-Automatizaciones y programar tareas:
+Automatizaciones & API:
+
+- https://www.autohotkey.com/
+- https://www.make.com/en/integrations/cloudflare
+
+Programador tareas:
 
 - https://crontab.guru/
 
@@ -177,12 +182,14 @@ Firewall Linux:
 Webs Bases de datos de vulnerabilidades:
 
 -  https://nvd.nist.gov/vuln/search
+-  https://vuldb.com/
 -  https://cve.mitre.org
 -  https://www.cvedetails.com
 -  https://www.cve.org
 -  https://www.incibe.es/incibe-cert/alerta-temprana/vulnerabilidades
 -  https://www.exploit-db.com/google-hacking-database
 -  https://www.exploit-db.com
+-  https://www.opencve.io/welcome
 
 Gestion SSL:
 
@@ -266,6 +273,7 @@ Herramientas para red team:
 - https://blackarch.org/
 - https://www.pentoo.ch/
 - https://www.backbox.org/
+- https://www.samurai-wtf.org/
 - https://crackstation.net/
 - https://hashcat.net/hashcat/
 - https://www.openwall.com/john/
@@ -414,6 +422,21 @@ Mejores Distribuciones Linux:
 - https://ubuntu.com/
 
 Mejores IAs-AI:
+- https://www.jasper.ai/?fpr=uniteai
+- https://murf.ai/?lmref=oW5IkA
+- https://synthesys.io/
+- https://lovo.ai/?lmref=aQMezw
+- https://images.ai/
+- https://fireflies.ai/?gr_pk=ZqLO&gr_uid=5xqA
+- https://speechify.com/?source=fb-for-mobile&via=uniteai
+- https://reply.io/
+- https://www.seedrs.com/invest/marketplace?sort=trending_desc&sort_collection=businesses
+- https://www.feathery.io/?ref=mwu0ntq
+- https://www.neuraltext.com/?via=uniteai
+- https://anyword.com/?fpr=uniteai
+- https://poe.com/
+- https://www.tailwindapp.com/ghostwriter?signup-with-email-first-exp=2
+- https://notebooklm.google.com/about
 
 Comunidad IA:
 
