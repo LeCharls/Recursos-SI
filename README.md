@@ -120,11 +120,20 @@ Auditoría Web:
 Comprobar si estas en botnet:
 
 -  https://www.incibe.es/empresas/te-ayudamos/servicio-antibotnet
+-  
+Contenedorización:
+
+- https://www.docker.com/
+- https://linuxcontainers.org/
+- 
 
 Virtualizacion Local:
 
 - https://www.virtualbox.org
 - https://www.vmware.com/es/products/workstation-player.html
+- https://www.vagrantup.com
+- https://www.qemu.org/
+- https://www.linux-kvm.org/page/Main_Page
 
 Virtualizacion en Red:
 
@@ -146,6 +155,9 @@ Automatizaciones y programar tareas:
 - https://crontab.guru/
 
 Seguridad en Red:
+
+- https://www.fortinet.com/
+- 
 
 Firewall Linux:
 
