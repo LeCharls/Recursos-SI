@@ -490,6 +490,28 @@ Mejores IAs-AI:
 - https://www.tailwindapp.com/ghostwriter?signup-with-email-first-exp=2
 - https://notebooklm.google.com/about
 
+LiveBOOT tools:
+1. GParted
+2. Clonezilla
+3. TestDisk
+4. Memtest86
+5. SystemRescueCD
+6. Parted Magic
+7. Hiren's BootCD
+8. Ultimate Boot CD (UBCD)
+9. DBAN (Darik's Boot and Nuke)
+10. Trinity Rescue Kit
+11. AVG Rescue CD
+12. Kaspersky Rescue Disk
+13. Super Grub2 Disk
+14. LinuxLive USB Creator (LiLi)
+15. Rufus
+16. UNetbootin
+17. YUMI (Your Universal Multiboot Installer)
+18. MultiBootUSB
+19. Ventoy2Disk (Ventoy's installation utility)
+
+
 Comunidad IA:
 
 - https://huggingface.co/
