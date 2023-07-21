@@ -531,3 +531,8 @@ Lista de programas:
 
 Lista de webs:
 
+_______________________________
+Servidores de juego :
+
+- https://pterodactyl.io/
+- https://ctrlpanel.gg/ #para billing
