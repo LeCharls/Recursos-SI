@@ -9,6 +9,10 @@ Plataforma de servicios web, Hosting y vps:
 - https://www.oracle.com/cloud/
 - https://www.ovhcloud.com/en/
 
+Mejor CRM:
+
+- https://www.zendesk.es/
+
 Mejores domain registar:
 
 - https://www.domain.com/
