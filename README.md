@@ -336,8 +336,9 @@ Webs para decodificar/desencriptar:
 Herramientas de auditoria:
 
 -  https://cisofy.com/lynis/
-- https://www.autopsy.com/
+-  https://www.autopsy.com/
 -  https://openvas.org/
+-  https://www.zaproxy.org/
 -  https://www.open-scap.org/getting-started/
 -  https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro
 
