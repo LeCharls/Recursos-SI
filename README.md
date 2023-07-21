@@ -99,6 +99,15 @@ Proxy:
 - https://www.cloudflare.com
 - http://www.squid-cache.org
 
+Base de datos:
+
+- https://redis.io/
+- https://surrealdb.com/ #https://surrealist.starlane.studio/
+- https://www.oracle.com/database/sqldeveloper/
+- https://www.postgresql.org/
+- https://www.mysql.com/
+- https://mariadb.org/
+
 Herramientas SEO:
 
 -  https://pagespeed.web.dev
