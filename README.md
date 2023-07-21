@@ -396,6 +396,16 @@ Editores de código:
 - https://code.visualstudio.com/
 - https://visualstudio.microsoft.com/es/
 - https://brackets.io/
+- https://www.jetbrains.com/idea/
+- https://code.visualstudio.com/
+- https://developer.android.com/studio
+- https://www.jetbrains.com/es-es/webstorm/
+- https://www.activestate.com/products/komodo-edit/
+- https://visualstudio.microsoft.com/es/services/intellicode/
+- https://snyk.io/platform/deepcode-ai/
+- https://www.gitkraken.com/blog/gitkraken-v4-0
+- https://coderunnerapp.com/
+- https://grapesjs.com/
 
 
 Herramienta de Inventario y gestión:
