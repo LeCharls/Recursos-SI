@@ -46,13 +46,11 @@ Seguridad web:
 Mejores CDN:
 
 - https://cdnjs.com/
-
 - https://www.cloudflare.com/
 
 Diseño y builders web:
 
 - https://bootstrapstudio.io/
-
 - https://www.figma.com/
 
 Gestor de dependencias php:
@@ -62,7 +60,6 @@ Gestor de dependencias php:
 Estilos css:
 
 - https://getbootstrap.com/
-
 - https://tailwindcss.com/
 
 Plantillas y code blocks gratis:
@@ -73,15 +70,10 @@ Plantillas y code blocks gratis:
 CyberSecurity Framework Linux Based Distros:
 
 - https://subgraph.com/
-
 - https://www.qubes-os.org/
-
 - https://www.whonix.org/
-
 - https://tails.net/index.es.html
-
 - https://selinuxproject.org/page/Main_Page
-
 - https://apparmor.net/ (APP)
 
 Webservers:
@@ -104,23 +96,16 @@ Generador de config nginx:
 Proxy:
 
 - https://nginxproxymanager.com
-
 - https://www.cloudflare.com
-
 - http://www.squid-cache.org
 
 Base de datos:
 
 - https://redis.io/
-
 - https://surrealdb.com/ #https://surrealist.starlane.studio/
-
 - https://www.oracle.com/database/sqldeveloper/
-
 - https://www.postgresql.org/
-
 - https://www.mysql.com/
-
 - https://mariadb.org/
 
 Herramientas SEO:
@@ -130,7 +115,6 @@ Herramientas SEO:
 Auditoría Web:
 
 - https://observatory.mozilla.org/
-
 - https://hostedscan.com/
 
 Comprobar si estas en botnet:
@@ -140,27 +124,20 @@ Comprobar si estas en botnet:
 Contenedorización:
 
 - https://www.docker.com/
-
 - https://linuxcontainers.org/
 
 Virtualizacion Local:
 
 - https://www.virtualbox.org
-  
 - https://www.vmware.com/es/products/workstation-player.html
-  
 - https://www.vagrantup.com
-  
 - https://www.qemu.org/
-  
 - https://www.linux-kvm.org/page/Main_Page
 
 Virtualizacion en Red:
 
 - https://www.proxmox.com/en/proxmox-ve
-
 - https://www.vagrantup.com
-
 - https://www.vmware.com/es/products/esxi-and-esx.html
 
 Cálculadora Raid:
@@ -179,42 +156,30 @@ Automatizaciones y programar tareas:
 Seguridad en Red:
 
 - https://www.fortinet.com/
-
 - https://opnsense.org/
-
 - https://www.pfsense.org/
-
 - https://vyos.io/
 
 Firewall Linux:
 
 - https://iptablesgenerator.totalbits.com/ #https://linux.die.net/man/8/iptables #https://man7.org/linux/man-pages/man8/iptables.8.html
-
 - https://manpages.ubuntu.com/manpages/trusty/man8/ufw.8.html
-
 - https://vyos.io/
 
 
 Webs Bases de datos de vulnerabilidades:
 
 -  https://nvd.nist.gov/vuln/search
-
 -  https://cve.mitre.org
-
 -  https://www.cvedetails.com
-
 -  https://www.cve.org
-
 -  https://www.incibe.es/incibe-cert/alerta-temprana/vulnerabilidades
-
 -  https://www.exploit-db.com/google-hacking-database
-
 -  https://www.exploit-db.com
 
 Gestion SSL:
 
 -  https://certbot.eff.org #gestor de certificados ssl Let´s Encrypt en linux compatible con muchos webservers y distros
-
 -  https://www.cloudflare.com
 
 Comprobar headers de seguridad en  respuesta http online:
@@ -224,11 +189,8 @@ Comprobar headers de seguridad en  respuesta http online:
 Comprobar certificado ssl online:
 
 -  https://www.ssllabs.com/ssltest/ 
-
 -  https://www.sslshopper.com/ssl-checker.html
-
 -  https://www.sslchecker.com/sslchecker
-
 -  https://www.digicert.com/help/
 
 Seguridad de endpoints:
@@ -236,15 +198,12 @@ Seguridad de endpoints:
 Servidores de monitorización:
 
 - https://icinga.com/
-
 - https://www.nagios.org/
 
-Cloud Solutions:
+Cloud:
 
 - https://www.oracle.com/es/cloud/
-
 - https://azure.microsoft.com/es-es/
-
 - https://aws.amazon.com/
 
 Servidores de seguridad:
@@ -254,9 +213,7 @@ Servidores de seguridad:
 Servidores Intrusion Detection System or XDR Extended Detection Response:
 
 - https://wazuh.com/
-
 - https://www.ossec.net/ossec-downloads/
-
 - https://suricata.io/
 
 Servidores Extended Intrusion Response System XDR:
@@ -266,7 +223,6 @@ Servidores Extended Intrusion Response System XDR:
 Servidores Intrusion Prevention System:
 
 - https://suricata.io/
-
 - https://www.snort.org/
 
 Servidores SIEM System Information and Events Manager:
@@ -361,14 +317,9 @@ Herramientas de auditoría, reparación, gestión   y seguridad Windows:
 - https://ericzimmerman.github.io/#!index.md
 - https://live.sysinternals.com/
 
-Soluciones Cloud:
-
-Servidores y herramientas para cloud:
-
 Esquemas online y mapas conecptuales:
 
 -  https://miro.com
-
 - https://app.diagrams.net
 
 Gestores de proyectos online:
