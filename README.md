@@ -23,6 +23,10 @@ Mejores Frameworks web y app:
 - ReactJS
 - NextJS
 
+DevOPS:
+
+- https://www.jit.io/
+
 Animaciones 3d para web:
 
 - https://spline.design/
@@ -85,10 +89,20 @@ Webservers:
 
 - https://httpd.apache.org/
 - https://www.nginx.com/ #https://nginx.org/
+- https://ngrok.com/
 
 Balanceador de carga:
 
 - https://www.haproxy.org/
+
+Checkers de virus, antivirus, cleaners y debloaters:
+
+- https://www.virustotal.com/gui/
+- https://es.malwarebytes.com/
+- https://www.kaspersky.es/
+- https://www.mcafee.com/es-es/index.html
+- https://www.ccleaner.com/
+
 
 Editor hexadecimal:
 
@@ -101,6 +115,7 @@ Generador de config nginx:
 Proxy:
 
 - https://nginxproxymanager.com
+- https://mitmproxy.org/
 - https://www.cloudflare.com
 - http://www.squid-cache.org
 
@@ -215,6 +230,7 @@ Servidores de monitorización:
 
 - https://icinga.com/
 - https://www.nagios.org/
+- https://hetrixtools.com/
 
 Cloud:
 
@@ -277,8 +293,8 @@ Herramientas para red team:
 - https://crackstation.net/
 - https://hashcat.net/hashcat/
 - https://www.openwall.com/john/
-- https://en.kali.tools/all/?tool=1332
 - https://en.kali.tools/all/?
+- https://www.radare.org/n/
 
 Herramientas para detección de vulnerabilidades y herramientas escaneo:
 
@@ -317,6 +333,7 @@ Herramientas para análisis forense y peritaje informático:
 - https://www.autopsy.com/
 - https://www.sleuthkit.org/sleuthkit/
 - https://www.lifewire.com/free-pc-audit-review-2625765
+- https://remnux.org/
 
 Webs para decodificar/desencriptar:
 
@@ -349,6 +366,9 @@ Herramientas de auditoria:
 -  https://www.zaproxy.org/
 -  https://www.open-scap.org/getting-started/
 -  https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro
+-  https://www.clamav.net/
+-  https://remnux.org/
+-  https://www.nongnu.org/tiger/
 
 Herramientas reparación, gestión y seguridad Windows:
 
@@ -357,6 +377,8 @@ Herramientas reparación, gestión y seguridad Windows:
 - https://www.autopsy.com/
 - https://ericzimmerman.github.io/#!index.md
 - https://live.sysinternals.com/
+- https://www.chkrootkit.org/
+- https://rkhunter.sourceforge.net/
 
 Esquemas online y mapas conecptuales:
 
