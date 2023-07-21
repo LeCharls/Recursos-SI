@@ -20,6 +20,8 @@ Mejores domain registar:
 
 Mejores Frameworks web y app:
 
+- ReactJS
+- NextJS
 
 Animaciones 3d para web:
 
@@ -69,7 +71,6 @@ Estilos css:
 Plantillas y code blocks gratis:
 
 - https://www.builtatlightspeed.com/
-
 
 CyberSecurity Framework Linux Based Distros:
 
@@ -199,6 +200,8 @@ Comprobar certificado ssl online:
 
 Seguridad de endpoints:
 
+-
+
 Servidores de monitorización:
 
 - https://icinga.com/
@@ -279,6 +282,25 @@ Herramientas para detección de vulnerabilidades y herramientas escaneo:
 - https://github.com/Neo23x0/Loki
 - https://github.com/Gh0stroot/Crypton
 - https://github.com/blackhatethicalhacking
+- https://www.urlvoid.com/
+- https://urlscan.io/
+- https://who.is/
+- https://any.run/
+- https://pentest-tools.com/
+- https://hostedscan.com/
+- https://www.ssllabs.com/ssltest/
+- https://securityheaders.com/
+- https://observatory.mozilla.org/
+- https://www.sitelock.com/free-website-scan/
+- https://dnsdumpster.com/
+- https://cirt.net/Nikto2
+- https://portswigger.net/burp
+- https://www.metasploit.com/
+- https://w3af.org/
+- https://learn.microsoft.com/es-es/sysinternals/downloads/sysinternals-suite
+- https://github.com/PowerShellMafia/PowerSploit
+- https://github.com/emposha/PHP-Shell-Detector
+- https://github.com/topics/armitage
 
 Herramientas para análisis forense y peritaje informático:
 
@@ -323,7 +345,7 @@ Herramientas de auditoría, reparación, gestión   y seguridad Windows:
 
 Esquemas online y mapas conecptuales:
 
--  https://miro.com
+- https://miro.com
 - https://app.diagrams.net
 
 Gestores de proyectos online:
