@@ -331,6 +331,8 @@ Herramientas para análisis forense y peritaje informático:
 Webs para decodificar/desencriptar:
 
 - https://gchq.github.io/
+- https://crackstation.net/
+- https://hashes.com/en/tools/hash_identifier
 - https://www.aperisolve.com/
 - https://www.boxentriq.com/
 - https://futureboy.us/stegano/
