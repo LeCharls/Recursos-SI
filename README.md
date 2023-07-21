@@ -157,7 +157,9 @@ Automatizaciones y programar tareas:
 Seguridad en Red:
 
 - https://www.fortinet.com/
-- 
+- https://opnsense.org/
+- https://www.pfsense.org/
+- https://vyos.io/
 
 Firewall Linux:
 
@@ -208,6 +210,12 @@ Servidores de monitorización:
 - https://icinga.com/
 - https://www.nagios.org/
 
+Cloud Solutions:
+
+- https://www.oracle.com/es/cloud/
+- https://azure.microsoft.com/es-es/
+- https://aws.amazon.com/
+
 Servidores de seguridad:
 
 - https://securityonionsolutions.com/
@@ -218,15 +226,19 @@ Servidores Intrusion Detection System or XDR Extended Detection Response:
 - https://www.ossec.net/ossec-downloads/
 - https://suricata.io/
 
-Servidores Intrusion Response System:
+Servidores Extended Intrusion Response System XDR:
 
 - https://wazuh.com/
 
 Servidores Intrusion Prevention System:
 
 - https://suricata.io/
+- https://www.snort.org/
 
 Servidores SIEM System Information and Events Manager:
+
+- https://cybersecurity.att.com/products/ossim
+- 
 
 Entornos de desarrollo:
 
