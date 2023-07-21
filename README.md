@@ -327,6 +327,10 @@ Herramientas para detección de vulnerabilidades y herramientas escaneo:
 - https://github.com/PowerShellMafia/PowerSploit
 - https://github.com/emposha/PHP-Shell-Detector
 - https://github.com/topics/armitage
+- https://www.shodan.io/
+- https://censys.io/
+- https://www.paloaltonetworks.es/
+- https://dorksearch.com/
 
 Herramientas para análisis forense y peritaje informático:
 
