@@ -13,6 +13,28 @@ Mejor CRM:
 
 - https://www.zendesk.es/
 
+Servicios de procesamiento de pagos:
+
+
+
+Plataformas de comercio electrónico:
+
+
+Servicios de análisis web y seguimiento de usuarios: 
+
+
+Plataformas de automatización de marketing: 
+
+
+Servicios de bases de datos en la nube:
+
+
+Plataformas de comunicación, colaboración y productividad :
+
+
+Servicios de alojamiento web y servidores:
+
+
 Mejores domain registar:
 
 - https://www.domain.com/
@@ -155,6 +177,28 @@ Virtualizacion Local:
 - https://www.vagrantup.com
 - https://www.qemu.org/
 - https://www.linux-kvm.org/page/Main_Page
+
+Virtualización de servidores:
+
+
+Virtualización de escritorios:
+
+
+Virtualización de redes:
+
+
+
+Virtualización de almacenamiento:
+
+
+
+
+Virtualización de aplicaciones:
+
+
+Virtualización de aceleración gráfica:
+
+
 
 Virtualizacion en Red:
 
