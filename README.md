@@ -240,6 +240,8 @@ Cloud:
 
 Servidores de seguridad:
 
+- https://www.ibm.com/es-es/qradar
+
 - https://securityonionsolutions.com/
 
 Servidores Intrusion Detection System or XDR Extended Detection Response:
