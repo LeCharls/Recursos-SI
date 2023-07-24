@@ -582,3 +582,6 @@ Servidores de juego :
 
 - https://pterodactyl.io/
 - https://ctrlpanel.gg/ #para billing
+
+
+terraform aws cloudformation azure resource manager y google deployment manager
