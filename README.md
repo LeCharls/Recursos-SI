@@ -13,11 +13,13 @@ Mejor CRM:
 
 - https://www.zendesk.es/
 
-CLOUD:
+Soluciones CLOUD:
 
 - https://cloud.google.com/?hl=es
 - https://azure.microsoft.com/
 - https://aws.amazon.com/es/
+- https://www.oracle.com/es/cloud/
+- https://www.ovhcloud.com/
 
 Servicios de procesamiento de pagos:
 
