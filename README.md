@@ -13,6 +13,9 @@ Website dev checklist:
 
 - https://www.toptal.com/developers/webdevchecklist
 
+API management:
+
+- https://www.graphqlbin.com/v2/new
 
 Mejor CRM:
 
