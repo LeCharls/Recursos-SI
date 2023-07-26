@@ -9,6 +9,9 @@ Plataforma de servicios web, Hosting y vps:
 - https://www.oracle.com/cloud/
 - https://www.ovhcloud.com/en/
 
+
+
+
 Mejor CRM:
 
 - https://www.zendesk.es/
@@ -21,6 +24,14 @@ Soluciones CLOUD:
 - https://www.oracle.com/es/cloud/
 - https://www.ovhcloud.com/
 
+Health server Manager:
+
+- https://theforeman.org/
+
+Source Code Searcher:
+
+- https://oracle.github.io/opengrok/
+- 
 Servicios de procesamiento de pagos:
 
 
