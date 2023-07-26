@@ -17,6 +17,12 @@ API management:
 
 - https://www.graphqlbin.com/v2/new
 
+
+Online IDE:
+
+- https://jsfiddle.net/
+
+
 Mejor CRM:
 
 - https://www.zendesk.es/
