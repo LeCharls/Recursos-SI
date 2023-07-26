@@ -225,6 +225,7 @@ Servidor NAS o cabinas de discos:
 
 Automatizaciones & API:
 
+- https://www.terraform.io/
 - https://www.autohotkey.com/
 - https://www.make.com/en/integrations/cloudflare
 
