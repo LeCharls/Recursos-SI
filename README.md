@@ -99,6 +99,7 @@ Mejores librerías de animaciones web:
 Seguridad web:
 
 - https://www.toptal.com/developers/webdevchecklist
+- https://www.toptal.com/developers/webdevchecklist
 - https://www.php.net/manual/en/security.php
 - https://docs.php.earth/security/intro/
 - https://learn.microsoft.com/en-us/iis/application-frameworks/install-and-configure-php-on-iis/secure-php-with-configuration-settings
@@ -189,6 +190,7 @@ Herramientas SEO:
 
 Auditoría Web:
 
+- https://www.toptal.com/developers/webdevchecklist
 - https://observatory.mozilla.org/
 - https://hostedscan.com/
 - https://www.zaproxy.org/
