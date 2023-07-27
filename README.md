@@ -444,6 +444,7 @@ Webs para decodificar/desencriptar:
 
 Herramientas de auditoria:
 
+-  https://manpages.ubuntu.com/manpages/xenial/en/man8/auditd.8.html
 -  https://cisofy.com/lynis/
 -  https://www.autopsy.com/
 -  https://openvas.org/
