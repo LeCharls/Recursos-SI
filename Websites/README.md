@@ -1,7 +1,7 @@
 Best Practices
 
 Required:
-- ix broken link
+- fix broken link
    - [ ] [W3C link checker](https://validator.w3.org/checklink)
 - Spelling & grammar
    - [ ] [Capitalization](https://en.wikipedia.org/wiki/Capitalization)
