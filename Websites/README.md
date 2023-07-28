@@ -80,6 +80,9 @@ optional:
 Website Security
 Required:
 - Follow best practices
+   - [ ] [Observatory by  mozilla](https://observatory.mozilla.org/)
+   - [ ] [Page Speed](https://pagespeed.web.dev/)
+   - [ ] [Google transparency](https://transparencyreport.google.com/)
 - Cross site scripting
 - Cross stie request forgery
 - SSL validation
