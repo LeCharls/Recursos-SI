@@ -52,6 +52,9 @@ Required:
 SEO
 Required:
 - google rich snippets
+   - [ ] [Page Speed](https://pagespeed.web.dev/)
+   - [ ] [Online Tester](https://search.google.com/test/rich-results)
+   - [ ] [Getting start](https://schema.org/docs/gs.html)
 - robots.txt
 - xml sitemap
    
