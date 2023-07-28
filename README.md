@@ -311,6 +311,8 @@ Servidores de monitorización:
 - https://icinga.com/
 - https://www.nagios.org/
 - https://hetrixtools.com/
+- https://uptimerobot.com/
+- https://www.statuscake.com/
 
 Cloud:
 
