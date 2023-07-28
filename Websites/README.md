@@ -1,8 +1,9 @@
 Best Practices
+
 Required:
-   Fix broken link
+- ix broken link
    - [ ] [W3C link checker](https://validator.w3.org/checklink)
-   Spelling & grammar
+- Spelling & grammar
    - [ ] [Capitalization](https://en.wikipedia.org/wiki/Capitalization)
    - [ ] [writing style](https://en.wikipedia.org/wiki/Writing_style)
    - [ ] [word variations](https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences)
