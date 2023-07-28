@@ -24,87 +24,86 @@ Required:
 
 Performance
 Required:
-  Google page speed score 90+
-  optimize http headers
-  optimize images
-  minify css/js/html
+- Google page speed score 90+
+- Optimize http headers
+- Optimize images
+- Minify css/js/html
   
 
 Usability
 Required:
-   html5/css3 compatibility check
-   custom 404
-   favicon
-   friendly url
-   friendly css
+- html5/css3 compatibility check
+- custom 404
+- favicon
+- friendly url
+- friendly css
 
 Optional:
-   search feature on website
-   enviroment integration
+- search feature on website
+- enviroment integration
 
 
 Semantics
 Required:
-   add meaning to structure data
-   check semantics
+- add meaning to structure data
+- check semantics
    
 SEO
 Required:
-   google rich snippets
-   robots.txt
-   xml sitemap
+- google rich snippets
+- robots.txt
+- xml sitemap
    
 Code Quality
 Required:
-   html validation
-   css validation
-   js validation
-   run css linit
-   run jslint/hint
-   world ready
+- html validation
+- css validation
+- js validation
+- run css linit
+- run jslint/hint
+- world ready
    
 Accessibility
 Required:
-   accesibility validation
-   color contrast
-   wai-aria landmarks
-   font size
+- accesibility validation
+- color contrast
+- wai-aria landmarks
+- font size
 optional:
-   color modes
+- color modes
    
 
 Website Security
 Required:
-   Follow best practices
-   Cross site scripting
-   Cross stie request forgery
-   SSL validation
-   Security headers all enaled
-   Security.txt
+- Follow best practices
+- Cross site scripting
+- Cross stie request forgery
+- SSL validation
+- Security headers all enaled
+- Security.txt
 
 Webserver security:
 Required:
-   Security headers
-   Remove server info
-   ssl config
-   rutes server path deny rules
-   redirects
-   php.ini config
-   webserver audit
-   limit requests time and frequency
+- Security headers
+- Remove server info
+- ssl config
+- rutes server path deny rules
+- redirects
+- php.ini config
+- webserver audit
+- limit requests time and frequency
    
 Social Media & Structured Data
 Optional:
-   structured data for google search
-   open graph protocol
-   twitter cards
-   facebook
-   instagram
-   reddit
+- structured data for google search
+- open graph protocol
+- twitter cards
+- facebook
+- instagram
+- reddit
 
-...and finally
 Optional:
-   add humans.txt
+- add humans.txt
 
 
 
