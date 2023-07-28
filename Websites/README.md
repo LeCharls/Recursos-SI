@@ -85,7 +85,8 @@ Required:
 
 Webserver security:
 Required:
-- Security headers
+- Check Security headers
+   - [ ] [HTTP Security Headers ](https://securityheaders.com/)
 - Remove server info
 - ssl config
 - rutes server path deny rules
