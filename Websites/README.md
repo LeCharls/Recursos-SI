@@ -1,30 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Dark Mode</title>
-<style>
-body {
-  background-color: #222;
-  color: #fff;
-}
-a {
-  color: #0099ff;
-}
-img {
-  brightness: 0.8;
-  contrast: 1.2;
-}
-button {
-  background-color: #0099ff;
-}
-</style>
-</head>
-<body>
-<h1>This is a dark mode page</h1>
-<p>This is some text in dark mode.</p>
-<a href="#">Click here to learn more about dark mode</a>
-<img src="image.jpg" alt="A dark image">
-<button>Click me</button>
-</body>
-</html>
-
+   - [ ] One-liner explaining the purpose of the module
+   - [ ] Necessary background context & links
+   - [ ] Potentially unfamiliar terms link to informative sources
+   - [ ] Clear, *runnable* example of usage
+   - [ ] Installation instructions
+   - [ ] Extensive API documentation
+   - [ ] Performs [cognitive funneling](https://github.com/noffle/art-of-readme#cognitive-funneling)
+   - [ ] Caveats and limitations mentioned up-front
+   - [ ] Doesn't rely on images to relay critical information
+   - [ ] License
