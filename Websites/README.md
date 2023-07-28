@@ -10,17 +10,17 @@ Required:
 Mobile
 
 Required:
- Mobile frindly test
- Use viewport metatag
- use correct inputs types
- test using real devices
+- Mobile frindly test
+- Use viewport metatag
+- Use correct inputs types
+- Test using real devices
  
 Analytics & Monitoring
 
 Required:
-  Uptime monitor
-  traffic analisis
-  status monitor
+- Uptime monitor
+- traffic analisis
+- status monitor
 
 Performance
 Required:
