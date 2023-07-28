@@ -8,6 +8,7 @@ Required:
    - [ ] [word variations](https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences)
 
 Mobile
+
 Required:
  Mobile frindly test
  Use viewport metatag
@@ -15,6 +16,7 @@ Required:
  test using real devices
  
 Analytics & Monitoring
+
 Required:
   Uptime monitor
   traffic analisis
