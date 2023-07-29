@@ -84,15 +84,22 @@ Required:
    - [ ] [Page Speed](https://pagespeed.web.dev/)
    - [ ] [Google transparency](https://transparencyreport.google.com/)
 - Cross site scripting
+   - [ ] [Cheat shett XSS](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+   - [ ] [Cheat shett DOM XSS](https://cheatsheetseries.owasp.org/cheatsheets/DOM_based_XSS_Prevention_Cheat_Sheet.html)
 - Cross stie request forgery
+   - [ ] [Explanation and walkthrough](https://blog.codinghorror.com/cross-site-request-forgeries-and-you/)
+   - [ ] [CSRF cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
 - SSL validation
+   - [ ] [ssl cert check](https://www.ssllabs.com/)
 - Security headers all enaled
+   - [ ] [HTTP Security Headers](https://securityheaders.com/)
 - Security.txt
+   - [ ] [security file proposed](https://securitytxt.org/)
 
 Webserver security:
 Required:
 - Check Security headers
-   - [ ] [HTTP Security Headers ](https://securityheaders.com/)
+   - [ ] [HTTP Security Headers](https://securityheaders.com/)
 - Remove server info
 - ssl config
 - rutes server path deny rules
