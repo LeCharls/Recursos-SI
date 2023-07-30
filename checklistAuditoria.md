@@ -68,6 +68,16 @@
 - [ ] ¿Los empleados están utilizando contraseñas seguras?
 - [ ] ¿Los empleados están evitando el uso de software no seguro?
 - [ ] ¿Los empleados están informados sobre las últimas amenazas de seguridad?
+- [ ] ¿Los empleados están informados sobre la política de seguridad?
+- [ ] ¿La organización utiliza los siguientes controles de seguridad del usuario:
+      
+      Formación en seguridad
+      Formación contra el phishing
+      Política de contraseñas
+      Software seguro
+      Perfiles usuario non-root
+      Concienciación sobre amenazas
+      Monitoreo de perfiles
 
 **6. Gestión de incidentes**
 
