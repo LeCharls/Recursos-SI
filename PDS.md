@@ -40,9 +40,9 @@
     
   - 5.2.Medidas de seguridad en líneas de negocio
     
-  - 5.3Proyectos
+  - 5.3.Proyectos
     
-- 6.Clasificación de proyectos por seguridad
+  - 5.3.1.Clasificación de proyectos por seguridad
   
 - 7.Implantación de la seguridad
   
