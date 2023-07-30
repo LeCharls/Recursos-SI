@@ -21,6 +21,13 @@
 - [ ] ¿Los permisos de acceso se asignan y revocan de forma apropiada?
 - [ ] ¿Los sistemas y datos están protegidos contra el acceso no autorizado?
 - [ ] ¿Los empleados están formados sobre las políticas de seguridad de acceso?
+- [ ] ¿La organización utiliza los siguientes controles de acceso:
+      
+      Usuarios y grupos
+      Permisos
+      Autenticación
+      Autorización
+      Auditoria
 
 **3. Seguridad de la red**
 
