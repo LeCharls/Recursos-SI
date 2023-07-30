@@ -4,13 +4,13 @@
 
 - 3.Situación actual de la empresa
 
-  - 3.1.Física
+  - 3.1.Situacion Física
   
   - 3.1.1.Controles
     
   - 3.1.1.Medidas de prevencion 
     
-  - 3.2.Tecnológica
+  - 3.2.Situacion Tecnológica
     
    -  3.2.1.Evaluación de material
      
@@ -18,7 +18,7 @@
      
    -  3.2.1.Evaluación de servicios y servidores
      
-  - 3.3.Estructura organizativa
+  - 3.3.Situacion organizativa
     
   - 3.4.Número de trabajadores
     
