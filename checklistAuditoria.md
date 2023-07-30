@@ -35,6 +35,15 @@
 - [ ] ¿Los dispositivos de seguridad de red están configurados correctamente?
 - [ ] ¿La red está protegida contra el acceso no autorizado?
 - [ ] ¿La red está monitoreada para detectar amenazas?
+- [ ] ¿La organización utiliza los siguientes controles de seguridad de red:
+      
+      Firewalls
+      IPS/IDS
+      VPN
+      Filtrado de contenido
+      Antivirus
+      Antispyware
+      Seguridad web
 
 **4. Seguridad de los datos**
 
