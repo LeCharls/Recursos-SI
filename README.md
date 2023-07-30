@@ -12,6 +12,7 @@ Plataforma de servicios web, Hosting y vps:
 Website dev checklist:
 
 - https://www.toptal.com/developers/webdevchecklist
+- https://www.freecodecamp.org/news/clean-coding-for-beginners/
 
 API management:
 
