@@ -85,6 +85,15 @@
 - [ ] ¿El plan de gestión de incidentes está probado y actualizado?
 - [ ] ¿Los incidentes de seguridad se informan y se investigan de forma rápida y eficiente?
 - [ ] ¿Las lecciones aprendidas de los incidentes se utilizan para mejorar la seguridad?
+- [ ] ¿La organización utiliza los siguientes controles de gestión de incidentes:
+      
+      Plan de gestión de incidentes
+      Equipo de gestión de incidentes
+      Procedimiento de notificación
+      Procedimiento de investigación
+      Procedimiento de recuperación
+      Procedimiento de reflexion
+      Realizar de mejora continua
 
 **7. Cumplimiento de la ley**
 
