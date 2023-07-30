@@ -10,7 +10,7 @@ Claro, aquí tienes una lista de verificación de auditoría de seguridad inform
 
 **2. Control de acceso**
 
-- [ ]¿La organización utiliza un sistema de control de acceso basado en roles?
+- [ ] ¿La organización utiliza un sistema de control de acceso basado en roles?
 - [ ] ¿Los permisos de acceso se asignan y revocan de forma apropiada?
 - [ ] ¿Los sistemas y datos están protegidos contra el acceso no autorizado?
 - [ ] ¿Los empleados están formados sobre las políticas de seguridad de acceso?
