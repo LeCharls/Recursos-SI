@@ -1,11 +1,11 @@
 Claro, aquí tienes una lista de verificación de auditoría de seguridad informática que incluye buenas prácticas en seguridad informática y el cumplimiento de las leyes obligatorias actuales en materia de seguridad:
 
-**1. Política de seguridad**
+1. Política de seguridad
 
-* ¿La organización tiene una política de seguridad escrita y vigente?
-* ¿La política de seguridad está alineada con las necesidades y riesgos de la organización?
-* ¿La política de seguridad es conocida y entendida por todos los empleados?
-* ¿La política de seguridad se revisa y actualiza periódicamente?
+- [ ] ¿La organización tiene una política de seguridad escrita y vigente?
+- [ ] ¿La política de seguridad está alineada con las necesidades y riesgos de la organización?
+- [ ] ¿La política de seguridad es conocida y entendida por todos los empleados?
+- [ ] ¿La política de seguridad se revisa y actualiza periódicamente?
 
 **2. Control de acceso**
 
