@@ -51,6 +51,16 @@
 - [ ] ¿Los datos están almacenados de forma segura?
 - [ ] ¿Los datos están protegidos contra el acceso no autorizado?
 - [ ] ¿Los datos están respaldados regularmente?
+- [ ] ¿La organización utiliza los siguientes controles de seguridad de datos:
+      
+      
+      Almacenamiento seguro
+      Autenticación
+      Encriptación
+      Autorización
+      Auditoria
+      3 copias de seguridad
+      
 
 **5. Seguridad del usuario**
 
