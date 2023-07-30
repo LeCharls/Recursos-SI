@@ -101,4 +101,11 @@
 - [ ] ¿La organización tiene un proceso para identificar y gestionar los riesgos de seguridad?
 - [ ] ¿La organización tiene un proceso para comunicar los riesgos de seguridad a los responsables?
 
+
+**8.Cumplimiento de las normas**
+
+- [ ] ¿La organización cumple con las normas ISO/IEC 27001 e ISO/IEC 27002?
+- [ ] ¿La organización cumple con las normas ISO/IEC 27017 e ISO/IEC 27018?
+- [ ] ¿La organización cumple con las recomendaciones del Centro Nacional de Inteligencia de Amenazas (CNI)?
+
 Esta lista de verificación es sólo un punto de partida. La organización debe adaptar la lista de verificación a sus propias necesidades y riesgos específicos.
