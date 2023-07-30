@@ -5,6 +5,7 @@
 - [ ] ¿La política de seguridad es conocida y entendida por todos los empleados?
 - [ ] ¿La política de seguridad se revisa y actualiza periódicamente?
 - [ ] ¿La política de seguridad incluye los siguientes elementos:
+      
         Declaración de intenciones
         Alcance
         Definiciones
