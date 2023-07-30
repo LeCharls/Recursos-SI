@@ -4,6 +4,15 @@
 - [ ] ¿La política de seguridad está alineada con las necesidades y riesgos de la organización?
 - [ ] ¿La política de seguridad es conocida y entendida por todos los empleados?
 - [ ] ¿La política de seguridad se revisa y actualiza periódicamente?
+- [ ] ¿La política de seguridad incluye los siguientes elementos:
+        Declaración de intenciones
+        Alcance
+        Definiciones
+        Principios de seguridad
+        Responsabilidades
+        Procedimientos
+        Recursos
+        Monitoreo y evaluación
 
 **2. Control de acceso**
 
