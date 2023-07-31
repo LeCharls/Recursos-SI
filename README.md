@@ -313,6 +313,7 @@ Seguridad de endpoints:
 
 Servidores de monitorización:
 
+- https://www.zabbix.com/
 - https://icinga.com/
 - https://www.nagios.org/
 - https://hetrixtools.com/
