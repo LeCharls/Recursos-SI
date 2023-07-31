@@ -325,6 +325,7 @@ Cloud:
 - https://www.oracle.com/es/cloud/
 - https://azure.microsoft.com/es-es/
 - https://aws.amazon.com/
+- https://www.openstack.org/software/
 
 Servidores de seguridad:
 
@@ -332,24 +333,61 @@ Servidores de seguridad:
 
 - https://securityonionsolutions.com/
 
-Servidores Intrusion Detection System or XDR Extended Detection Response:
+- wazuh.com
+
+Servidores firewall & fisicos:
+
+- https://www.pfsense.org/
+- https://vyos.io/
+- https://edge.arista.com/
+
+
+Servidores Intrusion Detection System:
 
 - https://wazuh.com/
-- https://www.ossec.net/ossec-downloads/
+- https://www.ossec.net/ossec-downloads/ (HIDS)
 - https://suricata.io/
 
 Servidores Extended Intrusion Response System XDR:
 
 - https://wazuh.com/
+- https://www.crowdstrike.com/
+- https://www.paloaltonetworks.com/cortex
 
 Servidores Intrusion Prevention System:
 
 - https://suricata.io/
 - https://www.snort.org/
+- https://zeek.org/
 
 Servidores SIEM System Information and Events Manager:
 
 - https://cybersecurity.att.com/products/ossim
+- https://www.elastic.co/es/security/siem
+- https://www.splunk.com/
+
+VPN:
+
+- https://www.wireguard.com/
+
+Zero Trust security:
+
+- https://www.openstack.org/software/
+- https://docs.saltproject.io/en/getstarted/
+
+Backups:
+
+- https://linux.die.net/man/1/rsync
+- https://www.bacula.org/
+- https://www.duplicati.com/
+- https://www.acronis.com/es-es/products/true-image/
+- https://rclone.org/
+
+Herramientas contra ransomware:
+
+- https://www.trendmicro.com/es_es/forHome/products/free-tools.html
+- https://shadowexplorer.com/downloads.html
+
 
 Entornos de desarrollo:
 
