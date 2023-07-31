@@ -220,25 +220,15 @@ Virtualizacion Local:
 
 Virtualización de servidores:
 
-
 Virtualización de escritorios:
-
 
 Virtualización de redes:
 
-
-
 Virtualización de almacenamiento:
-
-
-
 
 Virtualización de aplicaciones:
 
-
 Virtualización de aceleración gráfica:
-
-
 
 Virtualizacion en Red:
 
@@ -309,8 +299,6 @@ Comprobar certificado ssl online:
 
 Seguridad de endpoints:
 
--
-
 Servidores de monitorización:
 
 - https://www.zabbix.com/
@@ -330,9 +318,7 @@ Cloud:
 Servidores de seguridad:
 
 - https://www.ibm.com/es-es/qradar
-
 - https://securityonionsolutions.com/
-
 - wazuh.com
 
 Servidores firewall & fisicos:
@@ -366,9 +352,28 @@ Servidores SIEM System Information and Events Manager:
 - https://www.elastic.co/es/security/siem
 - https://www.splunk.com/
 
+Anti Phishing solutions:
+
+- https://fraudbuster.trendmicro.com/?utm_source=FMA&utm_medium=freeToolProductDropdownList
+- https://phishtrap.io/
+- https://getgophish.com/
+- https://openphish.com/
+- https://phishtank.org/
+
+Antivirus antimalware:
+
+- https://www.clamav.net/
+- https://www.bitdefender.com/solutions/free.html
+- https://www.pandasecurity.com/
+- https://es.malwarebytes.com/
+- https://www.virustotal.com/gui/
+
 VPN:
 
 - https://www.wireguard.com/
+- https://openvpn.net/
+- https://pritunl.com/
+- https://www.softether.org/
 
 Zero Trust security:
 
