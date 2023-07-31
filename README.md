@@ -32,6 +32,10 @@ Mejor CRM:
 
 - https://www.zendesk.es/
 
+Formulario web:
+
+- https://www.typeform.com/
+
 Soluciones CLOUD:
 
 - https://cloud.google.com/?hl=es
