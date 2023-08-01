@@ -273,6 +273,17 @@ Programador tareas:
 
 - https://crontab.guru/
 
+Gestor de contraseñas:
+
+- https://www.lastpass.com/es
+
+2FA:
+
+- https://support.google.com/accounts/answer/1066447?hl=es&co=GENIE.Platform%3DAndroid
+
+MFA:
+
+
 Seguridad en Red:
 
 - https://www.fortinet.com/
