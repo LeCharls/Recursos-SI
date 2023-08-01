@@ -307,7 +307,15 @@ Comprobar certificado ssl online:
 -  https://www.sslchecker.com/sslchecker
 -  https://www.digicert.com/help/
 
-Seguridad de endpoints:
+Seguridad de endpoints EDR:
+
+- https://www.elastic.co/es/what-is/elk-stack
+- https://wazuh.com/
+- https://suricata.io/
+- https://thehive-project.org/
+- https://www.ossec.net/
+- https://osquery.io/
+- https://www.sangfor.com/cybersecurity/products/edr-endpoint-security
 
 Servidores de monitorización:
 
