@@ -14,6 +14,14 @@ Website dev checklist:
 - https://www.toptal.com/developers/webdevchecklist
 - https://www.freecodecamp.org/news/clean-coding-for-beginners/
 
+Account in a data breach checker:
+
+- https://haveibeenpwned.com/
+
+BotNet ip checker:
+
+- https://www.incibe.es/empresas/te-ayudamos/servicio-antibotnet
+
 API management:
 
 - https://www.graphqlbin.com/v2/new
