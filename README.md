@@ -307,6 +307,16 @@ Comprobar certificado ssl online:
 -  https://www.sslchecker.com/sslchecker
 -  https://www.digicert.com/help/
 
+Apache updates directory:
+
+- https://cwiki.apache.org/confluence/#all-updates
+
+Antispam:
+
+- https://spamassassin.apache.org/
+- https://www.rspamd.com/
+- https://www.mailscanner.info/
+
 Seguridad de endpoints EDR:
 
 - https://www.elastic.co/es/what-is/elk-stack
