@@ -1,4 +1,8 @@
 # Herramientas útiles para diferentes especializaciones y labores 
+Madre de las bestias:
+
+- https://www.ibm.com/es-es/qradar
+
 Biblioteca en línea de software y webs:
 - http://web.archive.org/
 
