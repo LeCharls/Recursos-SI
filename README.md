@@ -437,6 +437,10 @@ Zero Trust security:
 - https://www.openstack.org/software/
 - https://docs.saltproject.io/en/getstarted/
 
+Almacenamiento:
+
+- https://www.hitachi.com/businesses/index.html
+
 Backups:
 
 - https://linux.die.net/man/1/rsync
@@ -444,6 +448,7 @@ Backups:
 - https://www.duplicati.com/
 - https://www.acronis.com/es-es/products/true-image/
 - https://rclone.org/
+- https://www.cohesity.com/solutions/backup-and-recovery/
 
 Herramientas contra ransomware:
 
