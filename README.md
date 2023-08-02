@@ -91,6 +91,21 @@ Plataformas de comunicación, colaboración y productividad :
 Servicios de alojamiento web y servidores:
 
 
+Virtual Desktop Infraestructure:
+
+- https://xenproject.org/
+- https://opennebula.io/
+- https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-virtual-desktop-infrastructure-vdi/#what-is-virtualization
+
+
+Disaster Recovery Solutions:
+
+- https://drlm.org/
+- https://www.bacula.org/
+- https://www.bareos.com/
+- https://www.zmanda.com/cloud-disaster-recovery/
+- https://linbit.com/drbd/
+
 SD-WAN:
 
 - https://flexiwan.com/
