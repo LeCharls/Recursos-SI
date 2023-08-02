@@ -263,6 +263,11 @@ Virtualización de servidores:
 
 Virtualización de escritorios:
 
+- https://www.vmware.com/es/products/horizon.html
+- https://www.citrix.com/downloads/xenapp/
+- https://azure.microsoft.com/es-es/products/virtual-desktop/
+- https://www.parallels.com/es/products/ras/remote-application-server/
+
 Virtualización de redes:
 
 Virtualización de almacenamiento:
