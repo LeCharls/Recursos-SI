@@ -105,6 +105,8 @@ Disaster Recovery Solutions:
 - https://www.bareos.com/
 - https://www.zmanda.com/cloud-disaster-recovery/
 - https://linbit.com/drbd/
+- https://es.wikipedia.org/wiki/ZFS_%28sistema_de_archivos%29
+- https://www.lustre.org/
 
 SD-WAN:
 
@@ -319,6 +321,16 @@ Seguridad en Red:
 - https://www.pfsense.org/
 - https://vyos.io/
 
+Identity management:
+
+- https://www.okta.com/
+
+Firewall Fortinet:
+
+- https://www.fortinet.com/products/next-generation-firewall
+- https://docs.fortinet.com/document/fortigate/hardware/fortigate-rugged-60d-quickstart-guide (antivirus module)
+- https://www.fortinet.com/resources/cyberglossary/unified-threat-management
+
 Firewall Linux:
 
 - https://iptablesgenerator.totalbits.com/ #https://linux.die.net/man/8/iptables #https://man7.org/linux/man-pages/man8/iptables.8.html
@@ -384,6 +396,7 @@ Servidores de monitorización:
 - https://hetrixtools.com/
 - https://uptimerobot.com/
 - https://www.statuscake.com/
+- https://www.paessler.com/es/prtg
 
 Cloud:
 
@@ -404,6 +417,20 @@ Servidores firewall & fisicos:
 - https://vyos.io/
 - https://edge.arista.com/
 
+Gestion de activos IT & servicios IT e incidencias:
+
+- https://www.lansweeper.com/
+- https://glpi-project.org/es/
+- https://learn.microsoft.com/es-es/mem/intune/fundamentals/what-is-intune
+
+
+Almacenamiento:
+
+- https://www.hitachivantara.com/
+
+Managed Detection and Response:
+
+- https://www.sophos.com/es-es
 
 Servidores Intrusion Detection System:
 
@@ -416,6 +443,7 @@ Servidores Extended Intrusion Response System XDR:
 - https://wazuh.com/
 - https://www.crowdstrike.com/
 - https://www.paloaltonetworks.com/cortex
+- https://www.paloaltonetworks.lat/resources/datasheets/endpoint-protection
 
 Servidores Intrusion Prevention System:
 
@@ -437,6 +465,15 @@ Anti Phishing solutions:
 - https://openphish.com/
 - https://phishtank.org/
 
+
+HCI Infraestructura hiperconvergente para centro de datos:
+
+- https://nexenta.com/products/nexentastor
+- https://www.openstack.org/
+- https://www.rancher.com/
+- https://www.proxmox.com/en/proxmox-virtual-environment/overview
+- https://opennebula.io/
+
 Antivirus antimalware:
 
 - https://www.clamav.net/
@@ -457,6 +494,14 @@ Zero Trust security:
 - https://www.openstack.org/software/
 - https://docs.saltproject.io/en/getstarted/
 
+Red:
+
+- https://www.nvidia.com/es-la/networking/ethernet-switching/
+
+Dell:
+
+- https://www.dell.com/support/kbdoc/es-es/000179517/dell-poweredge-como-configurar-idrac-y-las-opciones-de-administracion-de-sistemas-en-los-servidores
+
 Almacenamiento:
 
 - https://www.hitachi.com/businesses/index.html
@@ -469,6 +514,7 @@ Backups:
 - https://www.acronis.com/es-es/products/true-image/
 - https://rclone.org/
 - https://www.cohesity.com/solutions/backup-and-recovery/
+- https://www.veeam.com/
 
 Herramientas contra ransomware:
 
