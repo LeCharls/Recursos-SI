@@ -1,4 +1,4 @@
-# Herramientas útiles para desarrollo web, seguridad informática, administración de sistemas, infraestructura, virtualización y buenas prácticas en desarrollo.  
+# Herramientas útiles para desarrollo web y buenas prácticas, seguridad informática, administración de sistemas, infraestructura, virtualización y variedad.  
 Madre de las bestias en seguridad:
 
 - https://www.ibm.com/es-es/qradar
