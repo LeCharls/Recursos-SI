@@ -1,4 +1,4 @@
-# Herramientas útiles para diferentes especializaciones y labores 
+# Herramientas útiles para diferentes especializaciones y trabajos IT 
 Madre de las bestias:
 
 - https://www.ibm.com/es-es/qradar
