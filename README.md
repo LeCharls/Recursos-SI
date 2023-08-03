@@ -215,6 +215,7 @@ Editor hexadecimal:
 Generador de config nginx:
 
 - https://www.digitalocean.com/community/tools/nginx
+- https://www.nginxconfig.org/
 
 Proxy:
 
