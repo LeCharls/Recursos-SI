@@ -15,6 +15,10 @@ PHP manual:
 - https://codesnippets.pro/
 - https://phpbuilder.com/category/snippet/
 - https://css-tricks.com/snippets/php/
+  
+Wordpress + php builder:
+
+- https://nicepage.com/
 
 React Builder:
 
@@ -52,7 +56,6 @@ Online IDE:
 
 - https://jsfiddle.net/
 
-
 Mejor CRM:
 
 - https://www.zendesk.es/
@@ -81,7 +84,11 @@ Source Code/Programs/Codes Searcher/Repository:
 
 Servicios de procesamiento de pagos:
 
-
+- http://www.redsys.es/
+- https://stripe.com/
+- https://www.paypal.com/es/home
+- https://www.braintreepayments.com/
+- https://www.adyen.com/
 
 Plataformas de comercio electrónico:
 
