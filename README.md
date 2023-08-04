@@ -6,6 +6,18 @@ Madre de las bestias en seguridad:
 Biblioteca en línea de software y webs:
 - http://web.archive.org/
 
+
+Graphs panel dash:
+
+- https://plotly.com/examples/
+
+Developer Docs:
+
+- https://devdocs.io/
+- https://zealdocs.org/
+- https://kapeli.com/dash
+- https://wiki.gnome.org/Apps/Devhelp
+
 PHP manual:
 
 - https://www.php.net/manual/en/
