@@ -6,6 +6,16 @@ Madre de las bestias en seguridad:
 Biblioteca en línea de software y webs:
 - http://web.archive.org/
 
+PHP manual:
+
+- https://www.php.net/manual/en/
+- https://lzone.de/examples/PHP%20Examples
+- https://www.tutorialspoint.com/php/index.htm
+- https://www.w3schools.com/php/
+- https://codesnippets.pro/
+- https://phpbuilder.com/category/snippet/
+- https://css-tricks.com/snippets/php/
+
 React Builder:
 
 - https://quarkly.io/
