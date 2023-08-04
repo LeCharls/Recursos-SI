@@ -589,7 +589,7 @@ Herramientas para red team:
 - https://www.radare.org/n/
 
 Herramientas para detección de vulnerabilidades y herramientas escaneo:
-
+- 
 - https://www.tenable.com/tenable-for-education/nessus-essentials
 - https://www.wireshark.org/download.html
 - https://nmap.org/
