@@ -43,10 +43,11 @@ Plataforma de servicios web, Hosting y vps:
 - https://www.oracle.com/cloud/
 - https://www.ovhcloud.com/en/
 
-Website dev checklist:
+Checklist seguridad:
 
 - https://www.toptal.com/developers/webdevchecklist
 - https://www.freecodecamp.org/news/clean-coding-for-beginners/
+- https://safetyculture.com/checklists/security-audit/
 
 Account in a data breach checker:
 
