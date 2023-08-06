@@ -8,9 +8,9 @@
   
   - 3.1.1.Controles
     
-  - 3.1.1.Medidas de prevencion 
+  - 3.1.1.Medidas de prevención 
     
-  - 3.2.Situacion Tecnológica
+  - 3.2.Situación Tecnológica
     
    -  3.2.1.Evaluación de material
      
