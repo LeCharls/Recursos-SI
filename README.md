@@ -11,6 +11,16 @@ Graphs panel dash:
 
 - https://plotly.com/examples/
 
+
+
+UI/UX:
+
+
+- https://visualgo.net/en
+- https://uiverse.io/
+- https://designrevision.com/downloads/shards-react/
+- https://avvvatars.com/
+
 Developer Docs:
 
 - https://devdocs.io/
