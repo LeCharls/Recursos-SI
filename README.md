@@ -352,6 +352,10 @@ Seguridad en Red:
 - https://www.pfsense.org/
 - https://vyos.io/
 
+Api, Webapps, interconection security:
+
+- https://www.hashicorp.com/products/vault
+
 Identity management:
 
 - https://www.okta.com/
