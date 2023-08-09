@@ -21,12 +21,13 @@ Graphs panel dash:
 
 - https://plotly.com/examples/
 
+Data flux :
 
+- https://visualgo.net/en
 
 UI/UX:
 
 
-- https://visualgo.net/en
 - https://uiverse.io/
 - https://designrevision.com/downloads/shards-react/
 - https://avvvatars.com/
