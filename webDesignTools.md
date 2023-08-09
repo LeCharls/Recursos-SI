@@ -74,3 +74,27 @@
 | URL                                    | Classification     |
 |----------------------------------------|--------------------|
 | https://tailpress.io/                 | Related to wordpress |
+
+
+| URL                                           | Classification      |
+|-----------------------------------------------|---------------------|
+| https://www.creative-tim.com/                 | Related to UI/UX libraries |
+| https://tailwindtoolbox.com/                  | Related to UI/UX libraries |
+| https://tailwindtemplates.co/                | Related to UI/UX libraries |
+| https://scrollrevealjs.org/                  | Related to UI/UX libraries |
+| https://wowjs.uk/                           | Related to UI/UX libraries |
+| https://animate.style/                     | Related to UI/UX libraries |
+| https://greensock.com/                    | Related to UI/UX libraries |
+| https://www.minimamente.com/project/magic/ | Related to UI/UX libraries |
+| https://animejs.com/                    | Related to UI/UX libraries |
+| https://popmotion.io/                  | Related to UI/UX libraries |
+| https://threejs.org/                  | Related to UI/UX libraries |
+| https://uiverse.io/             | Related to UI/UX libraries |
+| https://avvvatars.com/             | Related to UI/UX libraries |
+
+
+| URL                                           | Classification      |
+|-----------------------------------------------|---------------------|
+| https://visualgo.net/en            | Related to Data structures |
+
+
