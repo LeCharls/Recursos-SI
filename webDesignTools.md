@@ -93,6 +93,25 @@
 | https://avvvatars.com/             | Related to UI/UX libraries |
 
 
+
+| ORM Name    | Description                                | Website                           |
+|-------------|--------------------------------------------|-----------------------------------|
+| Prisma      | Modern database toolkit and ORM for Node.js| [prisma.io](https://www.prisma.io)|
+| TypeORM     | ORM for TypeScript and JavaScript         | [typeorm.io](https://typeorm.io)   |
+| Sequelize   | Promise-based ORM for Node.js             | [sequelize.org](https://sequelize.org)|
+| Hibernate   | ORM for Java                               | [hibernate.org](https://hibernate.org)|
+| Django ORM  | ORM for Python (used in Django framework) | [djangoproject.com](https://www.djangoproject.com)|
+| SQLAlchemy | SQL toolkit and ORM for Python            | [sqlalchemy.org](https://www.sqlalchemy.org)|
+
+
+| Database    | Description                                      | Website                           |
+|-------------|--------------------------------------------------|-----------------------------------|
+| MongoDB     | NoSQL database                                   | [mongodb.com](https://www.mongodb.com)|
+| Firebase    | Realtime Database and Firestore (NoSQL)          | [firebase.google.com](https://firebase.google.com)|
+| Amazon DynamoDB | Fully managed NoSQL database                | [aws.amazon.com/dynamodb](https://aws.amazon.com/dynamodb)|
+| Microsoft Azure Cosmos DB | Globally distributed database service | [azure.microsoft.com/services/cosmos-db](https://azure.microsoft.com/services/cosmos-db)|
+
+
 | URL                                           | Classification      |
 |-----------------------------------------------|---------------------|
 | https://visualgo.net/en            | Related to Data structures |
