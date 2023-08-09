@@ -7,6 +7,13 @@ Biblioteca en línea de software y webs:
 - http://web.archive.org/
 
 
+Google recomends:
+
+- https://bazel.build/?hl=es-419
+- https://fuchsia.dev/fuchsia-src/development/languages/fidl
+- https://cloud.google.com/vertex-ai/docs/start/migrating-to-vertex-ai?hl=es-419
+- https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=es
+
 Graphs panel dash:
 
 - https://plotly.com/examples/
