@@ -1,11 +1,12 @@
 # Herramientas útiles para desarrollo web y buenas prácticas, seguridad informática, administración de sistemas, infraestructura, virtualización y variedad.  
+
 Madre de las bestias en seguridad:
 
 - https://www.ibm.com/es-es/qradar
 
 Biblioteca en línea de software y webs:
-- http://web.archive.org/
 
+- http://web.archive.org/
 
 Building projects:
 
@@ -26,7 +27,6 @@ Data flux :
 - https://visualgo.net/en
 
 UI/UX:
-
 
 - https://uiverse.io/
 - https://designrevision.com/downloads/shards-react/
