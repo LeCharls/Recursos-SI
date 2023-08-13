@@ -14,6 +14,7 @@ Welcome to the ultimate list of tools and resources for various domains includin
 - [Productivity](#productivity)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Books](#books)
+- [Cheat Sheets](#cheatsheets)
 
 ## Security
 
