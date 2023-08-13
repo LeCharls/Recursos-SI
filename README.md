@@ -244,6 +244,34 @@ Welcome to the ultimate list of tools and resources for various domains includin
 ### Code Editors and IDEs
 - [Visual Studio Code](https://code.visualstudio.com/): Lightweight code editor with powerful features and extensions.
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/): Java IDE for high productivity coding.
+- [GitKraken Blog](https://www.gitkraken.com/blog/gitkraken-v4-0)
+- [GitHub Codespaces](https://github.com/features/codespaces)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio](https://visualstudio.microsoft.com/es/)
+- [Brackets](https://brackets.io/)
+- [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [Android Studio](https://developer.android.com/studio)
+- [JetBrains WebStorm](https://www.jetbrains.com/es-es/webstorm/)
+- [ActiveState Komodo Edit](https://www.activestate.com/products/komodo-edit/)
+- [Visual Studio IntelliCode](https://visualstudio.microsoft.com/es/services/intellicode/)
+- [Snyk DeepCode AI](https://snyk.io/platform/deepcode-ai/)
+- [CodeRunner](https://coderunnerapp.com/)
+- [GrapesJS](https://grapesjs.com/)
+- [Replit](https://replit.com/)
+- [CodePen](https://codepen.io/)
+- [Visual Studio Code Dev](https://vscode.dev/)
+- [Glitch](https://glitch.com/)
+- [StackBlitz](https://stackblitz.com/)
+- [JSFiddle](https://jsfiddle.net/)
+- [PythonAnywhere](https://www.pythonanywhere.com/)
+- [Google Colab](https://colab.research.google.com/)
+- [JSBin](https://jsbin.com/)
+- [CodeSandbox](https://codesandbox.io/)
+- [Dcoder](https://dcoder.tech/)
+- [Gitpod](https://www.gitpod.io/)
+- [W3Schools](https://www.w3schools.com/)
+- [Bootstrap Studio](https://bootstrapstudio.io/)
+
 
 ### Version Control
 - [GitHub](https://github.com/): Web-based platform for version control using Git.
