@@ -17,6 +17,89 @@ Welcome to the ultimate list of tools and resources for various domains includin
 
 ## Security
 
+### Security Tools for Various Environments
+
+### IBM
+
+| Category   | Tool Name                        | Website                                |
+|------------|----------------------------------|----------------------------------------|
+| IPS        | IBM Security Network IPS         | [Website](https://www.ibm.com/security/network-intrusion-prevention) |
+| SIEM       | IBM Security QRadar              | [Website](https://www.ibm.com/security/security-intelligence/qradar) |
+| IDS        | IBM Security Guardium            | [Website](https://www.ibm.com/security/data-security/guardium) |
+| Firewall   | IBM Security Firewall Manager    | [Website](https://www.ibm.com/security/network-security/firewall-manager) |
+
+### AWS
+
+| Category   | Tool Name                        | Website                                |
+|------------|----------------------------------|----------------------------------------|
+| IPS        | AWS Network Firewall             | [Website](https://aws.amazon.com/network-firewall/) |
+| SIEM       | Amazon GuardDuty                | [Website](https://aws.amazon.com/guardduty/) |
+| IDS        | AWS Inspector                   | [Website](https://aws.amazon.com/inspector/) |
+| Firewall   | AWS Web Application Firewall (WAF) | [Website](https://aws.amazon.com/waf/) |
+
+### Windows AD
+
+| Category   | Tool Name                        | Website                                |
+|------------|----------------------------------|----------------------------------------|
+| IPS        | Microsoft Defender for Endpoint | [Website](https://www.microsoft.com/en-us/microsoft-365/windows/microsoft-defender-endpoint) |
+| SIEM       | Microsoft Sentinel              | [Website](https://azure.microsoft.com/en-us/services/azure-sentinel/) |
+| IDS        | Microsoft Advanced Threat Analytics (ATA) | [Website](https://www.microsoft.com/en-us/cloud-platform/advanced-threat-analytics) |
+| Firewall   | Microsoft Windows Defender Firewall with Advanced Security | [Website](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/windows-firewall-with-advanced-security) |
+
+### Microsoft Azure & 365
+
+| Category   | Tool Name                        | Website                                |
+|------------|----------------------------------|----------------------------------------|
+| IPS        | Azure Firewall                  | [Website](https://azure.microsoft.com/en-us/services/azure-firewall/) |
+| SIEM       | Azure Sentinel                  | [Website](https://azure.microsoft.com/en-us/services/azure-sentinel/) |
+| IDS        | Azure Security Center           | [Website](https://azure.microsoft.com/en-us/services/security-center/) |
+| Firewall   | Azure Web Application Firewall (WAF) | [Website](https://azure.microsoft.com/en-us/services/web-application-firewall/) |
+
+### Linux Server
+
+| Category   | Tool Name                        | Website                                |
+|------------|----------------------------------|----------------------------------------|
+| IPS        | Fail2ban                        | [Website](https://www.fail2ban.org/) |
+| SIEM       | ELK Stack                       | [Website](https://www.elastic.co/what-is/elk-stack) |
+| IDS        | OSSEC                           | [Website](https://www.ossec.net/) |
+| Firewall   | iptables                        | [Website](https://netfilter.org/projects/iptables/index.html) |
+
+### Databases
+
+| Category   | Tool Name                        | Website                                |
+|------------|----------------------------------|----------------------------------------|
+| IPS        | Percona InnoDB Cluster Firewall | [Website](https://www.percona.com/software/mysql-database/percona-xtradb-cluster) |
+| SIEM       | Loggly                          | [Website](https://www.loggly.com/) |
+| IDS        | OSSEC                           | [Website](https://www.ossec.net/) |
+| Firewall   | Percona XtraDB Cluster Firewall | [Website](https://www.percona.com/software/mysql-database/percona-xtradb-cluster) |
+
+### Websites
+
+| Category   | Tool Name                        | Website                                |
+|------------|----------------------------------|----------------------------------------|
+| IPS        | ModSecurity                     | [Website](https://www.modsecurity.org/) |
+| SIEM       | Graylog                         | [Website](https://www.graylog.org/) |
+| IDS        | Suricata                        | [Website](https://suricata-ids.org/) |
+| Firewall   | Cloudflare                      | [Website](https://www.cloudflare.com/) |
+
+### Applications
+
+| Category   | Tool Name                        | Website                                |
+|------------|----------------------------------|----------------------------------------|
+| IPS        | AppWall                         | [Website](https://www.radware.com/products/application-security/appwall/) |
+| SIEM       | Splunk                          | [Website](https://www.splunk.com/) |
+| IDS        | Snort                           | [Website](https://www.snort.org/) |
+| Firewall   | Palo Alto Networks Next-Generation Firewall | [Website](https://www.paloaltonetworks.com/network-security/next-generation-firewall) |
+
+### Virtualization
+
+| Category   | Tool Name                        | Website                                |
+|------------|----------------------------------|----------------------------------------|
+| IPS        | VMware NSX Distributed Firewall | [Website](https://www.vmware.com/products/nsx.html) |
+| SIEM       | VMware vRealize Log Insight     | [Website](https://www.vmware.com/products/vrealize-log-insight.html) |
+| IDS        | VMware Carbon Black             | [Website](https://www.carbonblack.com/products/cb-response/) |
+| Firewall   | VMware NSX Edge Firewall        | [Website](https://www.vmware.com/products/nsx.html) |
+
 ### Security Frameworks and Tools
 - [IBM QRadar](https://www.ibm.com/es-es/qradar): Advanced security information and event management solution.
 - [OpenVAS](https://openvas.org/): Open Vulnerability Assessment System for network security scanning.
