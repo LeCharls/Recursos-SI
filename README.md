@@ -4,6 +4,7 @@ Welcome to the ultimate list of tools and resources for various domains includin
 
 ## Table of Contents
 - [Security](#security)
+- [Pentest & Cracking](#pentest&crack)
 - [Distros](#linux)
 - [Development](#development)
 - [Infrastructure](#infrastructure)
@@ -28,6 +29,26 @@ Welcome to the ultimate list of tools and resources for various domains includin
 - [Wireshark](https://www.wireshark.org/download.html): Network protocol analyzer for packet capture and analysis.
 - [Nmap](https://nmap.org/): Open-source utility for network discovery and security auditing.
 
+## Pentest&crack
+
+### Google dorks data search
+
+- 
+
+### Password Hashes
+
+- [CrackStation](https://crackstation.net/)
+- [Hashcat](https://hashcat.net/hashcat/)
+- [John](https://www.openwall.com/john/)
+
+### Decrypt
+
+
+
+### Scaners 
+
+### Pentest
+
 
 ## Linux
 
@@ -39,6 +60,15 @@ Welcome to the ultimate list of tools and resources for various domains includin
 - [Tails](https://tails.net/index.es.html)
 - [SELinux](https://selinuxproject.org/page/Main_Page)
 - [AppArmor (software)](https://apparmor.net/)
+
+## Linux for RedTeam:
+
+- [Kali](hhttps://www.kali.org/)
+- [Parrot OS](https://www.parrotsec.org/)
+- [BlackArch](https://blackarch.org/)
+- [Pentoo](https://www.pentoo.ch/)
+- [BackBox](https://www.backbox.org/)
+- [Samurai](https://www.samurai-wtf.org/)
 
 
 ## Development
