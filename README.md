@@ -4,7 +4,7 @@ Welcome to the ultimate list of tools and resources for various domains includin
 
 ## Table of Contents
 - [Security](#security)
-- [Pentest & Cracking](#pentest&crack)
+- [Pentest & Cracking](#redTeam)
 - [Distros](#linux)
 - [Development](#development)
 - [Infrastructure](#infrastructure)
@@ -29,11 +29,12 @@ Welcome to the ultimate list of tools and resources for various domains includin
 - [Wireshark](https://www.wireshark.org/download.html): Network protocol analyzer for packet capture and analysis.
 - [Nmap](https://nmap.org/): Open-source utility for network discovery and security auditing.
 
-## Pentest&crack
+## ReadTeam
 
 ### Google dorks data search
 
-- 
+- https://dorksearch.com/
+- https://www.exploit-db.com/google-hacking-database
 
 ### Password Hashes
 
@@ -43,11 +44,46 @@ Welcome to the ultimate list of tools and resources for various domains includin
 
 ### Decrypt
 
+### Vulnearability Scanners 
+
+## Index
+
+- [Nessus Essentials](https://www.tenable.com/tenable-for-education/nessus-essentials)
+- [Wireshark](https://www.wireshark.org/download.html)
+- [Nmap](https://nmap.org/)
+- [Nuclei](https://github.com/projectdiscovery/nuclei)
+- [Simple Backdoor Scanner PHP](https://github.com/tinwaninja/Simple-Backdoor-Scanner-PHP)
+- [SecLists](https://github.com/danielmiessler/SecLists)
+- [PHP Shell Detector](https://github.com/emposha/PHP-Shell-Detector)
+- [Loki](https://github.com/Neo23x0/Loki)
+- [Crypton](https://github.com/Gh0stroot/Crypton)
+- [URLVoid](https://www.urlvoid.com/)
+- [urlscan.io](https://urlscan.io/)
+- [Who.is](https://who.is/)
+- [Any.Run](https://any.run/)
+- [Pentest-Tools](https://pentest-tools.com/)
+- [HostedScan](https://hostedscan.com/)
+- [SSL Labs](https://www.ssllabs.com/ssltest/)
+- [SecurityHeaders.com](https://securityheaders.com/)
+- [Mozilla Observatory](https://observatory.mozilla.org/)
+- [SiteLock Free Website Scan](https://www.sitelock.com/free-website-scan/)
+- [DNS Dumpster](https://dnsdumpster.com/)
+- [Nikto](https://cirt.net/Nikto2)
+- [Burp Suite](https://portswigger.net/burp)
+- [Metasploit](https://www.metasploit.com/)
+- [w3af](https://w3af.org/)
+- [Sysinternals Suite](https://learn.microsoft.com/es-es/sysinternals/downloads/sysinternals-suite)
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
+- [Armitage](https://github.com/topics/armitage)
+- [Shodan](https://www.shodan.io/)
+- [Censys](https://censys.io/)
+- [Palo Alto Networks](https://www.paloaltonetworks.es/)
+- [DorkSearch](https://dorksearch.com/)
 
 
-### Scaners 
+### Reverse Engineering Framework
 
-### Pentest
+- [Radare](https://www.radare.org/n/)
 
 
 ## Linux
