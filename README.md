@@ -29,7 +29,7 @@ Welcome to the ultimate list of tools and resources for various domains includin
 - [Wireshark](https://www.wireshark.org/download.html): Network protocol analyzer for packet capture and analysis.
 - [Nmap](https://nmap.org/): Open-source utility for network discovery and security auditing.
 
-## Readteam
+## Redteam
 
 ### Google dorks data search
 
