@@ -4,7 +4,7 @@ Welcome to the ultimate list of tools and resources for various domains includin
 
 ## Table of Contents
 - [Security](#security)
-- [Pentest & Cracking](#redteam)
+- [Redteam](#redteam)
 - [Distros](#linux)
 - [Development](#development)
 - [Infrastructure](#infrastructure)
