@@ -42,7 +42,29 @@ Welcome to the ultimate list of tools and resources for various domains includin
 - [Hashcat](https://hashcat.net/hashcat/)
 - [John](https://www.openwall.com/john/)
 
-### Decrypt
+### Decode and Encode
+
+- [GCHQ CyberChef](https://gchq.github.io/)
+- [CrackStation](https://crackstation.net/)
+- [Hash Identifier](https://hashes.com/en/tools/hash_identifier)
+- [Aperi Solve](https://www.aperisolve.com/)
+- [Boxentriq](https://www.boxentriq.com/)
+- [Futureboy Steganography](https://futureboy.us/stegano/)
+- [Steganography Online](https://stylesuxx.github.io/steganography/)
+- [Unicode Steganography Iframe](https://330k.github.io/misc_tools/unicode_steganography_iframe.html)
+- [StegOnline](https://stegonline.georgeom.net/upload)
+- [IT-Tools](https://it-tools.tech/)
+- [HexEd.it](https://hexed.it/)
+- [Brainfuck Interpreter](https://sange.fi/esoteric/brainfuck/impl/interp/i.html)
+- [JPdump CyberMeme](https://cyber.meme.tips/jpdump/)
+- [Metadata2Go](https://www.metadata2go.com/)
+- [Unicode Steganography](https://330k.github.io/misc_tools/unicode_steganography.html)
+- [Caesar Cipher](https://www.boxentriq.com/code-breaking/caesar-cipher)
+- [Online ELF Viewer](http://www.sunshine2k.de/coding/javascript/onlineelfviewer/onlineelfviewer.html#)
+- [Image Steganography](https://incoherency.co.uk/image-steganography/#unhide)
+- [SSLShopper Certificate Decoder](https://www.sslshopper.com/certificate-decoder.html)
+- [Cryptii](https://v2.cryptii.com/text/select)
+
 
 ### Vulnearability Scanners 
 
