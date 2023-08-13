@@ -77,7 +77,7 @@ Welcome to the ultimate list of tools and resources for various domains includin
 
 | Category   | Tool Name                        | Website                                |
 |------------|----------------------------------|----------------------------------------|
-| IPS        | ModSecurity                     | [Website](https://www.modsecurity.org/) |
+| IPS        | Fail2ban                        | [Website](https://www.fail2ban.org/) |
 | SIEM       | Graylog                         | [Website](https://www.graylog.org/) |
 | IDS        | Suricata                        | [Website](https://suricata-ids.org/) |
 | Firewall   | Cloudflare                      | [Website](https://www.cloudflare.com/) |
@@ -86,7 +86,7 @@ Welcome to the ultimate list of tools and resources for various domains includin
 
 | Category   | Tool Name                        | Website                                |
 |------------|----------------------------------|----------------------------------------|
-| IPS        | AppWall                         | [Website](https://www.radware.com/products/application-security/appwall/) |
+| IPS        | AppWall                         | [Website](https://www.radware.com/) |
 | SIEM       | Splunk                          | [Website](https://www.splunk.com/) |
 | IDS        | Snort                           | [Website](https://www.snort.org/) |
 | Firewall   | Palo Alto Networks Next-Generation Firewall | [Website](https://www.paloaltonetworks.com/network-security/next-generation-firewall) |
