@@ -4,6 +4,7 @@ Welcome to the ultimate list of tools and resources for various domains includin
 
 ## Table of Contents
 - [Security](#security)
+- [Distros](#linux)
 - [Development](#development)
 - [Infrastructure](#infrastructure)
 - [Virtualization](#virtualization)
@@ -26,6 +27,19 @@ Welcome to the ultimate list of tools and resources for various domains includin
 ### Network Analysis and Scanning
 - [Wireshark](https://www.wireshark.org/download.html): Network protocol analyzer for packet capture and analysis.
 - [Nmap](https://nmap.org/): Open-source utility for network discovery and security auditing.
+
+
+## Linux
+
+## CyberSecurity Framework Linux  Distros:
+
+- [SubGraph](https://subgraph.com/)
+- [QUBE OS](https://www.qubes-os.org/)
+- [Whonix](https://www.whonix.org/)
+- [Tails](https://tails.net/index.es.html)
+- [SELinux](https://selinuxproject.org/page/Main_Page)
+- [AppArmor (software)](https://apparmor.net/)
+
 
 ## Development
 
