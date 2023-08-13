@@ -4,7 +4,7 @@ Welcome to the ultimate list of tools and resources for various domains includin
 
 ## Table of Contents
 - [Security](#security)
-- [Pentest & Cracking](#redTeam)
+- [Pentest & Cracking](#redteam)
 - [Distros](#linux)
 - [Development](#development)
 - [Infrastructure](#infrastructure)
@@ -29,7 +29,7 @@ Welcome to the ultimate list of tools and resources for various domains includin
 - [Wireshark](https://www.wireshark.org/download.html): Network protocol analyzer for packet capture and analysis.
 - [Nmap](https://nmap.org/): Open-source utility for network discovery and security auditing.
 
-## ReadTeam
+## Readteam
 
 ### Google dorks data search
 
@@ -45,8 +45,6 @@ Welcome to the ultimate list of tools and resources for various domains includin
 ### Decrypt
 
 ### Vulnearability Scanners 
-
-## Index
 
 - [Nessus Essentials](https://www.tenable.com/tenable-for-education/nessus-essentials)
 - [Wireshark](https://www.wireshark.org/download.html)
