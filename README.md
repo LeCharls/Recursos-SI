@@ -29,6 +29,30 @@ Welcome to the ultimate list of tools and resources for various domains includin
 - [Wireshark](https://www.wireshark.org/download.html): Network protocol analyzer for packet capture and analysis.
 - [Nmap](https://nmap.org/): Open-source utility for network discovery and security auditing.
 
+### Audit Tools
+
+- [auditd Man Page](https://manpages.ubuntu.com/manpages/xenial/en/man8/auditd.8.html)
+- [Lynis](https://cisofy.com/lynis/)
+- [Autopsy](https://www.autopsy.com/)
+- [OpenVAS](https://openvas.org/)
+- [OWASP ZAP](https://www.zaproxy.org/)
+- [OpenSCAP Getting Started](https://www.open-scap.org/getting-started/)
+- [CIS-CAT Pro](https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro)
+- [ClamAV](https://www.clamav.net/)
+- [REMnux](https://remnux.org/)
+- [Tiger](https://www.nongnu.org/tiger/)
+
+### For windows
+
+- [Microsoft Sysinternals](https://learn.microsoft.com/en-us/sysinternals/)
+- [Lifewire - Free PC Audit Review](https://www.lifewire.com/free-pc-audit-review-2625765)
+- [Autopsy](https://www.autopsy.com/)
+- [Eric Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md)
+- [Live Sysinternals](https://live.sysinternals.com/)
+- [chkrootkit](https://www.chkrootkit.org/)
+- [Rootkit Hunter (rkhunter)](https://rkhunter.sourceforge.net/)
+
+
 ## Redteam
 
 ### Google dorks data search
