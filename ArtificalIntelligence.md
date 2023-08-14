@@ -1,6 +1,6 @@
 <!-- Project Title -->
 <p align="center">
-  <img src="project_logo.png" alt="Project Logo">
+  <img src="https://images.unsplash.com/photo-1655891709738-a48aad482a3d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80" alt="Project Logo">
   <h3 align="center">AI Resources for Professionals</h3>
   <p align="center">
     A curated list of AI resources categorized by professional domains.
