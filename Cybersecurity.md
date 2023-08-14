@@ -57,35 +57,43 @@ Ensure seamless continuity with robust disaster recovery tools:
 
 | Website                                                | Website                                              | Website                                      | Website                                      |
 | ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-| [DRBD](https://linbit.com/drbd/) | [bareos](https://www.bareos.com/) | [Rsync](https://linux.die.net/man/1/rsync) | [Lustre](https://wiki.lustre.org/Backing_Up_a_Lustre_File_System) |
+| [DRBD](https://linbit.com/drbd/) | [bareos](https://www.bareos.com/) | [Rsync](https://linux.die.net/man/1/rsync) | [Lustre](https://www.lustre.org/) |
 
 
 ### Monitoring Systems
 
 | Website                                                | Website                                              | Website                                      | Website                                      |
 | ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-| [Nagios](https://www.nagios.org/) | [Icinga](https://icinga.com/) | [Zabbix](https://www.zabbix.com/) | [DataDog](https://www.datadoghq.com/) |
+| [Nagios](https://www.nagios.org/) | [Icinga](https://icinga.com/) | [Zabbix](https://www.zabbix.com/) | [DataDog](https://www.datadoghq.com/) | 
+| [Hertix](https://hetrixtools.com/) | [uptimerobot](https://uptimerobot.com/)  | [statuscake](https://www.statuscake.com/) | [paessler](https://www.paessler.com/es/prtg) |
 
 
-### Network Security  Firewall 
+### SD WAN
+
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [flexiwan](https://flexiwan.com/) | [cloudify](https://cloudify.co/) | [zevenet](https://www.zevenet.com/) | [opendaylight](https://www.opendaylight.org/) |
+
+### Network Security  Firewall  
 
 | Website                                                | Website                                              | Website                                      | Website                                      |
 | ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
 | [VyOS](https://vyos.io/) | [OPNsense](https://opnsense.org/) | [PFsense](https://www.pfsense.org/) | [Untangle](https://www.vialynk.com/untangle) |
-
+| [smoothwall](https://www.smoothwall.com/education/) ||||
 
 ### Website Security
 
 | Website                                                | Website                                              | Website                                      | Website                                      |
 | ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
 | [Nginx Proxy](https://nginxproxymanager.com/) | [CloudFlare](https://www.cloudflare.com/) | [SSL Config Builder](https://ssl-config.mozilla.org/) | [Nginx Config Builder](https://www.digitalocean.com/community/tools/nginx?global.app.lang=es) |
-
+| [Certbot](https://certbot.eff.org) | [Headers](https://securityheaders.com) | [SSLCheck](https://www.ssllabs.com/ssltest/) ||
 
 ### Cloud Security
 
 | Website                                                | Website                                              | Website                                      | Website                                      |
 | ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-| [AWS Security Hub](https://aws.amazon.com/security-hub/) | [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/) | [Google Cloud Security](https://cloud.google.com/security) |  [Oracle OCI Security](https://www.oracle.com/security/cloud-security/)                                        |
+| [AWS Security Hub](https://aws.amazon.com/security-hub/) | [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/) | [Google Cloud Security](https://cloud.google.com/security) |  [Oracle OCI Security](https://www.oracle.com/security/cloud-security/) |
+
 
 
 ### Check Lists
@@ -95,6 +103,32 @@ Ensure seamless continuity with robust disaster recovery tools:
 | [Web Security Check List](https://www.toptal.com/developers/webdevchecklist) | [Auditing Checklists](https://safetyculture.com/checklists/security-audit/) |                                            |                                            |
 
 
+### Anti Virus
+
+- https://www.virustotal.com/gui/
+- https://es.malwarebytes.com/
+- https://www.kaspersky.es/
+- https://www.mcafee.com/es-es/index.html
+- https://www.ccleaner.com/
+
+### Proxy Software
+
+- https://nginxproxymanager.com
+- https://mitmproxy.org/
+- https://www.cloudflare.com
+- http://www.squid-cache.org
+
+### Identity Managment
+
+- https://www.okta.com/
+
+
+### Website Audit
+
+- https://www.toptal.com/developers/webdevchecklist
+- https://observatory.mozilla.org/
+- https://hostedscan.com/
+- https://www.zaproxy.org/
 
 ### AntiBotNet IP Checker
 
@@ -105,7 +139,6 @@ Ensure seamless continuity with robust disaster recovery tools:
 | Website                                                | Website                                              | Website                                      | Website                                      |
 | ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
 | [PrivacyToolsList](https://privacytools.io/) | [ProtonMail](https://proton.me/es-es/mail) | [Tails](https://tails.net/) | [ProtonVPN](https://protonvpn.com/) |
-
 
 ### Security Policy and Compliance
 
