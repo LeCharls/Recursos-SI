@@ -12,6 +12,7 @@ The tools are categorized into different sections based on their functionality.
 - [Clusterization](#)
 - [Storage management](#)
 - [Mobile Device Management (MDM)](#)
+- [VoIP network manager](#)
 - [Services & Support management](#)
 - [Inventory management](#)
 - [Backup management](#)
