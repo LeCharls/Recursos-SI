@@ -94,7 +94,31 @@ Ensure seamless continuity with robust disaster recovery tools:
 - [SSL Config Builder](https://ssl-config.mozilla.org/)
 - [Nginx Config Builder](https://www.digitalocean.com/community/tools/nginx?global.app.lang=es)
 
+### Cloud Security
 
+- [AWS Security Hub](https://aws.amazon.com/security-hub/)
+- [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/)
+- [Google Cloud Security](https://cloud.google.com/security)
+
+### Check Lists
+
+- [Web Security Check List](https://www.toptal.com/developers/webdevchecklist)
+- [Auditing Checklists](https://safetyculture.com/checklists/security-audit/)
+
+
+### AntiBotNet IP Checker
+
+- [INCIBE AntiBotNet](https://www.incibe.es/ciudadania/herramientas/servicio-antibotnet)
+
+### Privacy Tools
+
+- [PrivacyToolsList](https://privacytools.io/)
+- [ProtonMail](https://proton.me/es-es/mail)
+- [Tails](https://tails.net/)
+- [ProtonVPN](https://protonvpn.com/)
+
+  
+_______________________________________
 ## Security Tools and Platforms Redteam
 
 ### Vulnerability Assessment and Management
@@ -162,7 +186,6 @@ Stay informed with timely security news and insights from trusted sources:
 - [PicoCTF](https://picoctf.org/)
 - [VulnHub](https://www.vulnhub.com/)
 - [OverTheWire Wargames](https://overthewire.org/wargames/)
-
 
 ### Curses And Certs Platforms
 - [Google Cloud Certification](https://cloud.google.com/certification)
@@ -238,119 +261,30 @@ Stay informed with timely security news and insights from trusted sources:
 
 
 
-### Cloud Security
-
-- [AWS Security Hub](https://aws.amazon.com/security-hub/)
-- [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/)
-- [Google Cloud Security](https://cloud.google.com/security)
-
-### Network Security
-
-- [Cisco Firepower](https://www.cisco.com/c/en/us/products/security/firepower-threat-defense/index.html)
-- [Fortinet Next-Gen Firewall](https://www.fortinet.com/products/next-generation-firewall)
-- [Juniper Networks SRX](https://www.juniper.net/us/en/products/security/srx-series/)
-
-### Antivirus and Endpoint Security
-
-- [Symantec Endpoint Protection](https://www.symantec.com/products/endpoint-protection)
-- [McAfee Total Protection](https://www.mcafee.com/enterprise/en-us/home.html)
-- [Bitdefender Endpoint Security](https://www.bitdefender.com/business/endpoint-security.html)
-
-### Encryption and Privacy Tools
-
-- [VeraCrypt](https://www.veracrypt.fr/)
-- [GPG (GNU Privacy Guard)](https://gnupg.org/)
-- [Tor Browser](https://www.torproject.org/)
 
 
 
-## Security Auditor Tools
-
-### Check Lists
-
-- [Web Security Check List](https://www.toptal.com/developers/webdevchecklist)
-- [Auditing Checklists](https://safetyculture.com/checklists/security-audit/)
-
-### Software 
-
-### AntiBotNet
-
-- [INCIBE AntiBotNet](https://www.incibe.es/ciudadania/herramientas/servicio-antibotnet)
 
 
-## Learning and Skill Development
 
-### Online Learning Platforms
 
-- [Coursera](https://www.coursera.org/)
-- [edX](https://www.edx.org/)
-- [Udemy](https://www.udemy.com/)
-- [Pluralsight](https://www.pluralsight.com/)
 
-### Cybersecurity Learning Paths
 
-- [CompTIA Certifications](https://www.comptia.org/certifications)
-- [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/cissp)
-- [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 
-### Capture The Flag (CTF) Platforms
 
-- [Hack The Box](https://www.hackthebox.eu/)
-- [TryHackMe](https://tryhackme.com/)
-- [PicoCTF](https://picoctf.org/)
-- [VulnHub](https://www.vulnhub.com/)
 
-### Online Security Courses
 
-- [Stanford Online - Computer and Cybersecurity Courses](https://online.stanford.edu/courses)
-- [Cybrary](https://www.cybrary.it/)
-- [SANS Institute](https://www.sans.org/)
 
-### Books and Resources
 
-- [OWASP Top Ten Project](https://owasp.org/www-project-top-ten/)
-- [Metasploit: The Penetration Tester's Guide](https://www.metasploitunleashed.com/)
-- [The Web Application Hacker's Handbook](https://www.wiley.com/en-us/The+Web+Application+Hacker%27s+Handbook%2C+2nd+Edition-p-9781118026472)
-- [Hacking: The Art of Exploitation](http://www.nostarch.com/hacking2.htm)
 
-## Security News and Blogs
 
-- [KrebsOnSecurity](https://krebsonsecurity.com/)
-- [Dark Reading](https://www.darkreading.com/)
-- [Threatpost](https://threatpost.com/)
-- [The Hacker News](https://thehackernews.com/)
 
-## Security Communities and Forums
 
-- [Reddit - r/netsec](https://www.reddit.com/r/netsec/)
-- [Stack Exchange - Information Security](https://security.stackexchange.com/)
-- [Cybersecurity Forum on TechExams](https://community.infosecinstitute.com/categories/certifications)
 
-## Security Conferences and Events
 
-- [Black Hat](https://www.blackhat.com/)
-- [DEF CON](https://www.defcon.org/)
-- [RSA Conference](https://www.rsaconference.com/)
 
-## Security Certifications
 
-- [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/cissp)
-- [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
-- [CompTIA Security+](https://www.comptia.org/certifications/security)
-- [Certified Information Security Manager (CISM)](https://www.isaca.org/credentialing/cism)
-- [Certified Information Systems Auditor (CISA)](https://www.isaca.org/credentialing/cisa)
 
-## Security Podcasts
-
-- [Security Now](https://www.grc.com/securitynow.htm)
-- [Risky Business](https://risky.biz/)
-- [Darknet Diaries](https://darknetdiaries.com/)
-
-## Privacy and Anonymity Tools
-
-- [Tails](https://tails.net/)
-- [ProtonVPN](https://protonvpn.com/)
-- [PrivacyTools](https://privacytools.io/)
 
 ## Security Policy and Compliance
 
