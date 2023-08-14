@@ -23,6 +23,16 @@ Welcome to a curated compilation of cybersecurity and IT security resources. Whe
 
 Empower your security stance with advanced tools for intrusion detection and prevention:
 
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [CrowdSec](https://www.crowdsec.net/)                   | [Fail2Ban](https://www.fail2ban.org/)               | [Wazuh](https://wazuh.com/)                 | [Suricata](https://suricata.io/)           |
+| [Snort](https://www.snort.org/)                        | [Zeek (formerly Bro)](https://zeek.org/)           | [Cisco Firepower](https://www.cisco.com/)   | [OSSEC](https://www.ossec.net/)            |
+| [IpFire](https://www.ipfire.org/)                      | [OpenVAS](https://openvas.org/)                   | [Scapy](https://scapy.net/)                 | [ModSecurity](https://github.com/SpiderLabs/ModSecurity) |
+| [Security Onion](https://securityonionsolutions.com/) | [Brocade Intrusion Manager](https://www.broadcom.com/) | [Symantec Network Security](https://www.symantec.com/) | [Trellix](https://www.trellix.com/es-es/index.html) |
+| [Juniper Networks Sky Advanced Threat Prevention](https://www.juniper.net/) | [Palo Alto Networks Threat Prevention](https://www.paloaltonetworks.com/) | [Fortinet Intrusion Prevention System](https://www.fortinet.com/products/next-generation-firewall) | |
+
+
+
 - [CrowdSec](https://www.crowdsec.net/)
 - [Fail2Ban](https://www.fail2ban.org/)
 - [Wazuh](https://wazuh.com/)
