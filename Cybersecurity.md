@@ -105,18 +105,19 @@ Ensure seamless continuity with robust disaster recovery tools:
 
 ### Anti Virus
 
-- https://www.virustotal.com/gui/
-- https://es.malwarebytes.com/
-- https://www.kaspersky.es/
-- https://www.mcafee.com/es-es/index.html
-- https://www.ccleaner.com/
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [VirusTotal](https://www.virustotal.com/gui/) | [Malwarebytes](https://es.malwarebytes.com/) | [Kaspersky](https://www.kaspersky.es/) | [McAfee](https://www.mcafee.com/es-es/index.html) |
+| [CCleaner](https://www.ccleaner.com/) |                                            |                                            |                                            |
+
 
 ### Proxy Software
 
-- https://nginxproxymanager.com
-- https://mitmproxy.org/
-- https://www.cloudflare.com
-- http://www.squid-cache.org
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [Nginx Proxy Manager](https://nginxproxymanager.com) | [mitmproxy](https://mitmproxy.org/) | [Cloudflare](https://www.cloudflare.com) | [Squid](http://www.squid-cache.org) |
+|                                            |                                            |                                            |                                            |
+
 
 ### Identity Managment
 
@@ -125,10 +126,11 @@ Ensure seamless continuity with robust disaster recovery tools:
 
 ### Website Audit
 
-- https://www.toptal.com/developers/webdevchecklist
-- https://observatory.mozilla.org/
-- https://hostedscan.com/
-- https://www.zaproxy.org/
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [Web Security Checklist](https://www.toptal.com/developers/webdevchecklist) | [Mozilla Observatory](https://observatory.mozilla.org/) | [HostedScan](https://hostedscan.com/) | [ZAP (Zed Attack Proxy)](https://www.zaproxy.org/) |
+|                                            |                                            |                                            |                                            |
+
 
 ### AntiBotNet IP Checker
 
