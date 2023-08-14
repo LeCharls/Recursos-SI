@@ -11,14 +11,17 @@
 
 <!-- Table of Contents -->
 ## Table of Contents
+
 - [Data Science](#data-science)
 - [Machine Learning](#machine-learning)
 - [Natural Language Processing](#natural-language-processing)
 - [Computer Vision](#computer-vision)
 - [Robotics](#robotics)
+- [All](#list)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+
 
 <!-- Data Science -->
 ## Data Science
@@ -49,6 +52,10 @@
 - [ROS](https://www.ros.org/): Robot Operating System for building robotic software.
 - [OpenAI Gym](https://gym.openai.com/): Toolkit for developing and comparing reinforcement learning algorithms.
 - [Robotics: AI](https://roboticsai.github.io/): Online courses and resources on robotics and AI.
+
+## List
+- [theresanaifortha](https://theresanaiforthat.com/)
+- [huggingface](https://huggingface.co/)
 
 <!-- Contributing -->
 ## Contributing
