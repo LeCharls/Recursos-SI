@@ -7,6 +7,7 @@ The tools are categorized into different sections based on their functionality.
 ## Table of Contents
 
 - [Version Control](#)
+- [Automation manager](#)
 - [Virtualization](#)
 - [Clusterization](#)
 - [Storage management](#)
