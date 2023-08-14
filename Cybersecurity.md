@@ -46,51 +46,54 @@ Elevate your security monitoring with top-tier SIEM platforms:
 
 Explore cutting-edge XDR solutions to fortify your defenses:
 
-- [Cortex](https://www.paloaltonetworks.es/resources/datasheets/cortex-xdr)
-- [Cynet](https://www.cynet.com/)
-- [CrowdStryke](https://www.crowdstrike.com/cybersecurity-101/what-is-xdr/)
-- [SentinelOne](https://www.sentinelone.com/)
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [Cortex](https://www.paloaltonetworks.es/resources/datasheets/cortex-xdr) | [Cynet](https://www.cynet.com/) | [CrowdStryke](https://www.crowdstrike.com/cybersecurity-101/what-is-xdr/) | [SentinelOne](https://www.sentinelone.com/) |
+
 
 ### Disaster Recovery Plan (DRP)
 
 Ensure seamless continuity with robust disaster recovery tools:
 
-- [DRBD](https://linbit.com/drbd/)
-- [bareos](https://www.bareos.com/)
-- [Rsync](https://linux.die.net/man/1/rsync)
-- [Lustre](https://wiki.lustre.org/Backing_Up_a_Lustre_File_System)
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [DRBD](https://linbit.com/drbd/) | [bareos](https://www.bareos.com/) | [Rsync](https://linux.die.net/man/1/rsync) | [Lustre](https://wiki.lustre.org/Backing_Up_a_Lustre_File_System) |
+
 
 ### Monitoring Systems
 
-- [Nagios](https://www.nagios.org/)
-- [Icinga](https://icinga.com/)
-- [Zabbix](https://www.zabbix.com/)
-- [DataDog](https://www.datadoghq.com/)
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [Nagios](https://www.nagios.org/) | [Icinga](https://icinga.com/) | [Zabbix](https://www.zabbix.com/) | [DataDog](https://www.datadoghq.com/) |
+
 
 ### Network Security  Firewall 
 
-- [VyOS](https://vyos.io/)
-- [OPNsense](https://opnsense.org/)
-- [PFsense](https://www.pfsense.org/)
-- [Untangle](https://www.vialynk.com/untangle)
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [VyOS](https://vyos.io/) | [OPNsense](https://opnsense.org/) | [PFsense](https://www.pfsense.org/) | [Untangle](https://www.vialynk.com/untangle) |
+
 
 ### Website Security
 
-- [Nginx Proxy](https://nginxproxymanager.com/)
-- [CloudFlare](https://www.cloudflare.com/)
-- [SSL Config Builder](https://ssl-config.mozilla.org/)
-- [Nginx Config Builder](https://www.digitalocean.com/community/tools/nginx?global.app.lang=es)
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [Nginx Proxy](https://nginxproxymanager.com/) | [CloudFlare](https://www.cloudflare.com/) | [SSL Config Builder](https://ssl-config.mozilla.org/) | [Nginx Config Builder](https://www.digitalocean.com/community/tools/nginx?global.app.lang=es) |
+
 
 ### Cloud Security
 
-- [AWS Security Hub](https://aws.amazon.com/security-hub/)
-- [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/)
-- [Google Cloud Security](https://cloud.google.com/security)
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [AWS Security Hub](https://aws.amazon.com/security-hub/) | [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/) | [Google Cloud Security](https://cloud.google.com/security) |                                           |
+
 
 ### Check Lists
 
-- [Web Security Check List](https://www.toptal.com/developers/webdevchecklist)
-- [Auditing Checklists](https://safetyculture.com/checklists/security-audit/)
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [Web Security Check List](https://www.toptal.com/developers/webdevchecklist) | [Auditing Checklists](https://safetyculture.com/checklists/security-audit/) |                                            |                                            |
+
 
 
 ### AntiBotNet IP Checker
