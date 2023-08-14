@@ -43,6 +43,8 @@ The tools are categorized into different sections based on their functionality.
 - [Network Manager](#)
 - [Infraestructure](#)
 - [Online & Private Cloud](#)
+- [Schemas, notes and project manager](#)
+- [DevOps pltaforms](#)
 
 
 
