@@ -74,5 +74,5 @@ Distributed under the XYZ License. See `LICENSE` for more information.
 
 <!-- Contact -->
 ## Contact
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your@email.com
-Project Link: [https://github.com/yourusername/ai-professional-resources](https://github.com/yourusername/ai-professional-resources)
+Tomas Ruiz - [Linkedin](https://www.linkedin.com/in/tomas-ruiz-serrano/) - truizs2002@gmail.com
+Profile Link: [https://github.com/toruse2002](https://github.com/toruse2002)
