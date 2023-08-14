@@ -40,6 +40,9 @@ The tools are categorized into different sections based on their functionality.
 - [Meetings Software](#)
 - [Productivity & Contact](#)
 - [Mail Servers](#)
+- [Network Manager]
+- [Infraestructure](#)
+- [Online & Private Cloud](#)
 
 
 
@@ -79,5 +82,11 @@ The tools are categorized into different sections based on their functionality.
 | Processing Cluster        | [Hadoop](https://hadoop.apache.org/),[Spark](https://spark.apache.org/),[Kubernetes](https://kubernetes.io/),[Mesos](http://mesos.apache.org/),[IBM Spectrum Symphony](https://www.ibm.com/products/spectrum-symphony)  |
 | Virtualization Cluster    | [VMware vSphere ](https://www.vmware.com/products/vsphere.html),[Hyper-V Cluster](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/),[Proxmox](https://www.proxmox.com/proxmox-ve),[Red Hat Virtualization](https://www.redhat.com/en/technologies/virtualization),[XenServer](https://xenserver.org/)  |
 | Database Cluster          | [PostgreSQL Streaming Replication](https://www.postgresql.org/docs/current/warm-standby.html),[MySQL Group Replication](https://dev.mysql.com/doc/refman/8.0/en/group-replication.html),[Oracle RAC (Real Application Clusters)](https://www.oracle.com/database/technologies/rac.html),[CockroachDB](https://www.cockroachlabs.com/),[TiDB](https://pingcap.com/products/tidb/)     |
+| Meetings Software ||
+| Productivity & Contact ||
+| Mail Servers ||
+| Network Manager ||
+| Infraestructure ||
+| Online & Private Cloud ||
 
 
