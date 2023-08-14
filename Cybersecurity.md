@@ -35,13 +35,12 @@ Empower your security stance with advanced tools for intrusion detection and pre
 
 Elevate your security monitoring with top-tier SIEM platforms:
 
-- [Splunk](https://www.splunk.com/en_us/products/enterprise-security.html)
-- [Qradar](https://www.ibm.com/es-es/qradar)
-- [LogRythm](https://logrhythm.com/products/logrhythm-siem/)
-- [SolarWinds](https://try.solarwinds.com/)
-- [ArcSight](https://www.microfocus.com/en-us/cyberres/secops/arcsight-recon)
-- [Wazuh](https://wazuh.com/)
-- [Security Onion](https://securityonionsolutions.com/)
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [Splunk](https://www.splunk.com/en_us/products/enterprise-security.html) | [Qradar](https://www.ibm.com/es-es/qradar) | [LogRythm](https://logrhythm.com/products/logrhythm-siem/) | [SolarWinds](https://try.solarwinds.com/) |
+| [ArcSight](https://www.microfocus.com/en-us/cyberres/secops/arcsight-recon) | [Wazuh](https://wazuh.com/) | [Security Onion](https://securityonionsolutions.com/) |                                            |
+
+
 
 ### Extended Detection and Response (XDR)
 
