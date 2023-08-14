@@ -161,7 +161,7 @@ _______________________________________
 
 | Website                                                | Website                                              | Website                                      | Website                                      |
 | ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-| [OWASP](https://owasp.org/) | [Burp Suite](https://portswigger.net/burp) | [ZAP (Zed Attack Proxy)](https://www.zaproxy.org/) | [Nessus](hhttps://www.tenable.com/products/nessus) |
+| [OWASP](https://owasp.org/) | [Burp Suite](https://portswigger.net/burp) | [ZAP (Zed Attack Proxy)](https://www.zaproxy.org/) | [Nessus](https://www.tenable.com/products/nessus) |
 
 
 _________________________________
