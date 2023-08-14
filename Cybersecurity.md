@@ -181,8 +181,9 @@ _______________________________________
 
 | Website                                                | Website                                              | Website                                      | Website                                      |
 | ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-| [ParrotOS](https://www.parrotsec.org/) | [Kali](https://www.kali.org/) | [BlackArch](https://blackarch.org/) | [BackBox](https://www.backbox.org/) |
-
+| [Kali Linux](https://www.kali.org/) | [Parrot Security OS](https://www.parrotsec.org/) | [BlackArch Linux](https://blackarch.org/) | [BackBox](https://www.backbox.org/) |
+| [Pentoo](http://www.pentoo.ch/) | [ArchStrike](https://archstrike.org/) | [Network Security Toolkit (NST)](https://www.networksecuritytoolkit.org/) | [Samurai Web Testing Framework](https://samurai.inguardians.com/) |
+| [DEFT Linux](http://www.deftlinux.net/) | [Security Onion](https://securityonionsolutions.com/) | [CAINE](https://www.caine-live.net/) | |
 
 
 ### Full Privacy Based Linux Distros
