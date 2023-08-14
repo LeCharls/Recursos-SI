@@ -4,7 +4,8 @@ Welcome to a curated compilation of cybersecurity and IT security resources. Whe
 
 ## Table of Contents
 
-- [Security Tools and Platforms](#security-tools-and-platforms)
+- [Security Tools and Platforms for BlueTeam](#security-tools-and-platforms-blueteam)
+- [Pentest Tools and Platforms for RedTeam](#security-tools-and-platforms-redteam)
 - [Learning and Skill Development](#learning-and-skill-development)
 - [Security News and Blogs](#security-news-and-blogs)
 - [Security Communities and Forums](#security-communities-and-forums)
@@ -16,7 +17,7 @@ Welcome to a curated compilation of cybersecurity and IT security resources. Whe
 - [Vulnerability Databases and Threat Intelligence](#vulnerability-databases-and-threat-intelligence)
 - [Security Tools Repositories](#security-tools-repositories)
 
-## Security Tools and Platforms
+## Security Tools and Platforms Blueteam
 
 ### Intrusion Detection and Prevention Systems (IDS/IPS)
 
@@ -86,6 +87,16 @@ Ensure seamless continuity with robust disaster recovery tools:
 - [PFsense](https://www.pfsense.org/)
 - [Untangle](https://www.vialynk.com/untangle)
 
+### Website Security
+
+- [Nginx Proxy](https://nginxproxymanager.com/)
+- [CloudFlare](https://www.cloudflare.com/)
+- [SSL Config Builder](https://ssl-config.mozilla.org/)
+- [Nginx Config Builder](https://www.digitalocean.com/community/tools/nginx?global.app.lang=es)
+
+
+## Security Tools and Platforms Redteam
+
 ### Vulnerability Assessment and Management
 
 - [Nessus](https://explore.skillbuilder.aws/learn/external-ecommerce;view=none;redirectURL=?ctldoc-catalog-0=se-security)
@@ -124,10 +135,7 @@ Ensure seamless continuity with robust disaster recovery tools:
 - [OWASP](https://owasp.org/)
 - [Burp Suite](https://portswigger.net/burp)
 - [ZAP (Zed Attack Proxy)](https://www.zaproxy.org/)
-- [Nginx Proxy](https://nginxproxymanager.com/)
-- [CloudFlare](https://www.cloudflare.com/)
-- [SSL Config Builder](https://ssl-config.mozilla.org/)
-- [Nginx Config Builder](https://www.digitalocean.com/community/tools/nginx?global.app.lang=es)
+
 
 
 
