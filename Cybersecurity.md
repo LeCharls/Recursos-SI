@@ -129,7 +129,7 @@ Ensure seamless continuity with robust disaster recovery tools:
 ### Identity Managment
 |Website|
 |------------------------|
-| - [okta](https://www.okta.com/) |
+| [okta](https://www.okta.com/) |
 
 
 ### Website Audit
