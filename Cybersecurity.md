@@ -64,15 +64,6 @@ Make sure to visit the respective websites of these tools to learn more about th
 - [PFsense](https://www.pfsense.org/)
 - [Untangle](https://www.vialynk.com/untangle)
 
-
-## Contributing
-
-If you know of any other IDS/IPS tools that should be included in this list, feel free to open a pull request or raise an issue. Your contributions are greatly appreciated!
-
-## Disclaimer
-
-Please note that the information provided here is for informational purposes only. It's important to conduct thorough research and assessment before choosing and implementing any IDS/IPS tool.
-
 ### Vulnerability Assessment and Management
 
 - [Nessus](https://explore.skillbuilder.aws/learn/external-ecommerce;view=none;redirectURL=?ctldoc-catalog-0=se-security)
@@ -127,6 +118,30 @@ Please note that the information provided here is for informational purposes onl
 - [VeraCrypt](https://www.veracrypt.fr/)
 - [GPG (GNU Privacy Guard)](https://gnupg.org/)
 - [Tor Browser](https://www.torproject.org/)
+
+## Forensisc tools
+
+### Logs checker
+
+### Registry checker
+
+### Mail checker
+
+
+
+## Security Auditor Tools
+
+### Check Lists
+
+- [Web Security Check List](https://www.toptal.com/developers/webdevchecklist)
+- [Auditing Checklists](https://safetyculture.com/checklists/security-audit/)
+
+### Software 
+
+### AntiBotNet
+
+-[INCIBE AntiBotNet](https://www.incibe.es/ciudadania/herramientas/servicio-antibotnet)
+
 
 ## Learning and Skill Development
 
