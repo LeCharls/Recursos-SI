@@ -102,67 +102,67 @@ Ensure seamless continuity with robust disaster recovery tools:
 
 ### Privacy Tools
 
-- [PrivacyToolsList](https://privacytools.io/)
-- [ProtonMail](https://proton.me/es-es/mail)
-- [Tails](https://tails.net/)
-- [ProtonVPN](https://protonvpn.com/)
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [PrivacyToolsList](https://privacytools.io/) | [ProtonMail](https://proton.me/es-es/mail) | [Tails](https://tails.net/) | [ProtonVPN](https://protonvpn.com/) |
+
 
 ### Security Policy and Compliance
 
-- [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html)
-- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-- [GDPR](https://gdpr.eu/)
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html) | [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) | [GDPR](https://gdpr.eu/) |                                            |
+
 
 
 ## Vulnerability Databases and Threat Intelligence
 
-- [National Vulnerability Database (NVD)](https://nvd.nist.gov/vuln/search)
-- [CVE Details](https://www.cvedetails.com/)
-- [VulDB](https://vuldb.com/)
-- [AlienVault Open Threat Exchange (OTX)](https://otx.alienvault.com/)
-- [FireEye Threat Intelligence](https://www.fireeye.com/cyber-threat-intelligence.html)
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [National Vulnerability Database (NVD)](https://nvd.nist.gov/vuln/search) | [CVE Details](https://www.cvedetails.com/) | [VulDB](https://vuldb.com/) | [AlienVault Open Threat Exchange (OTX)](https://otx.alienvault.com/) |
+| [FireEye Threat Intelligence](https://www.fireeye.com/cyber-threat-intelligence.html) |                                            |                                            |                                            |
+
 
 _______________________________________
 ## Security Tools and Platforms Redteam
 
 ### Vulnerability Assessment and Management
 
-- [Nessus](https://explore.skillbuilder.aws/learn/external-ecommerce;view=none;redirectURL=?ctldoc-catalog-0=se-security)
-- [OpenVAS](https://www.openvas.org/)
-- [Nexpose](https://www.rapid7.com/products/nexpose/)
-- [Qualys](https://www.qualys.com/)
-- [NMAP](https://nmap.org/)
-- [Metasploit](https://www.metasploit.com/)
-- [InsightVM](https://www.rapid7.com/products/insightvm/)
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [Nessus](https://explore.skillbuilder.aws/learn/external-ecommerce;view=none;redirectURL=?ctldoc-catalog-0=se-security) | [OpenVAS](https://www.openvas.org/) | [Nexpose](https://www.rapid7.com/products/nexpose/) | [Qualys](https://www.qualys.com/) |
+| [NMAP](https://nmap.org/) | [Metasploit](https://www.metasploit.com/) | [InsightVM](https://www.rapid7.com/products/insightvm/) |                                            |
+
 
 ### Threat  Hunters
 
-- [Bazaar](https://bazaar.abuse.ch/)
-- [OpenIOC](https://github.com/fireeye/OpenIOC_1.1)
-- [Sigma](https://github.com/SigmaHQ/sigma)
-- [threatconnect](https://threatconnect.com/)
-- [threatq](https://www.threatq.com/)
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [Bazaar](https://bazaar.abuse.ch/) | [OpenIOC](https://github.com/fireeye/OpenIOC_1.1) | [Sigma](https://github.com/SigmaHQ/sigma) | [threatconnect](https://threatconnect.com/) |
+| [threatq](https://www.threatq.com/) |                                            |                                            |                                            |
+
 
 ### PenTesting Operating Systems
 
-- [ParrotOS](https://www.parrotsec.org/)
-- [Kali](https://www.kali.org/)
-- [BlackArch](https://blackarch.org/)
-- [BackBox](https://www.backbox.org/)
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [ParrotOS](https://www.parrotsec.org/) | [Kali](https://www.kali.org/) | [BlackArch](https://blackarch.org/) | [BackBox](https://www.backbox.org/) |
+
 
 
 ### Full Privacy Based Linux Distros
 
-- [SubGraph](https://subgraph.com/)
-- [QubeOS](https://www.qubes-os.org/)
-- [Whonix](https://www.whonix.org/)
-- [Tails](https://tails.net/index.es.html)
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [SubGraph](https://subgraph.com/) | [QubeOS](https://www.qubes-os.org/) | [Whonix](https://www.whonix.org/) | [Tails](https://tails.net/index.es.html) |
+
 
 ### Web Application Security
 
-- [OWASP](https://owasp.org/)
-- [Burp Suite](https://portswigger.net/burp)
-- [ZAP (Zed Attack Proxy)](https://www.zaproxy.org/)
+| Website                                                | Website                                              | Website                                      | Website                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [OWASP](https://owasp.org/) | [Burp Suite](https://portswigger.net/burp) | [ZAP (Zed Attack Proxy)](https://www.zaproxy.org/) | [Nessus](hhttps://www.tenable.com/products/nessus) |
+
 
 _________________________________
 ## Learning and Skill Development
