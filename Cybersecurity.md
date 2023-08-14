@@ -117,7 +117,21 @@ Ensure seamless continuity with robust disaster recovery tools:
 - [Tails](https://tails.net/)
 - [ProtonVPN](https://protonvpn.com/)
 
-  
+### Security Policy and Compliance
+
+- [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html)
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- [GDPR](https://gdpr.eu/)
+
+
+## Vulnerability Databases and Threat Intelligence
+
+- [National Vulnerability Database (NVD)](https://nvd.nist.gov/vuln/search)
+- [CVE Details](https://www.cvedetails.com/)
+- [VulDB](https://vuldb.com/)
+- [AlienVault Open Threat Exchange (OTX)](https://otx.alienvault.com/)
+- [FireEye Threat Intelligence](https://www.fireeye.com/cyber-threat-intelligence.html)
+
 _______________________________________
 ## Security Tools and Platforms Redteam
 
@@ -286,24 +300,8 @@ Stay informed with timely security news and insights from trusted sources:
 
 
 
-## Security Policy and Compliance
 
-- [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html)
-- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-- [GDPR](https://gdpr.eu/)
 
-## Vulnerability Databases and Threat Intelligence
-
-- [National Vulnerability Database (NVD)](https://nvd.nist.gov/vuln/search)
-- [CVE Details](https://www.cvedetails.com/)
-- [VulDB](https://vuldb.com/)
-- [AlienVault Open Threat Exchange (OTX)](https://otx.alienvault.com/)
-- [FireEye Threat Intelligence](https://www.fireeye.com/cyber-threat-intelligence.html)
-
-## Security Tools Repositories
-
-- [GitHub - Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-- [GitHub - OWASP](https://github.com/OWASP)
 
 ## Note
 
