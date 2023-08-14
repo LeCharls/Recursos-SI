@@ -59,31 +59,15 @@ The tools are categorized into different sections based on their functionality.
 | Database Servers         | [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [SQL Server](https://www.microsoft.com/en-us/sql-server), [Oracle](https://www.oracle.com/database/), [MongoDB](https://www.mongodb.com/) |
 | Routers & Switches        | [Cisco IOS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/index.html), [Juniper Junos](https://www.juniper.net/documentation/en_US/junos/information-products/pathway-pages/product/), [ArubaOS](https://www.arubanetworks.com/products/networking/switches/), [MikroTik RouterOS](https://mikrotik.com/software),[Huawei VRP](https://e.huawei.com/en/products/enterprise-networking/routers) |             
 | SAI (Switch Abstraction Interface) | [SONiC](https://azure.github.io/SONiC/) [Stratum](https://stratumproject.github.io/),[OpenNSL](https://github.com/Broadcom-Switch/OpenNSL),[Switchdev](https://www.switchdev.org/),[Broadcom SDK](https://www.broadcom.com/products/ethernet-connectivity/software)|
-| Access Point              | Cisco Aironet - [Link](https://www.cisco.com/c/en/us/products/wireless/aironet-series/index.html)   |
-|                           | Ubiquiti UniFi - [Link](https://www.ui.com/products/#unifi)                                        |
-|                           | Aruba Instant On - [Link](https://www.arubainstanton.com/)                                         |
-|                           | Ruckus Wireless - [Link](https://www.commscope.com/ruckus/)                                        |
-|                           | Meraki - [Link](https://meraki.cisco.com/)                                                          |
-| Biometric Access Control  | HID Biometric Readers - [Link](https://www.hidglobal.com/products/readers/hid-biometric-readers)  |
-|                           | Suprema Biostar - [Link](https://www.supremainc.com/en/node/4876)                                   |
-|                           | MorphoWave - [Link](https://www.idemia.com/morphowave)                                              |
-|                           | Invixium - [Link](https://www.invixium.com/)                                                        |
-|                           | ZKTeco - [Link](https://www.zkteco.com/)                                                            |
-| 2FA + MFA                 | Google Authenticator - [Link](https://github.com/google/google-authenticator)                     |
-|                           | Duo Security - [Link](https://duo.com/product/multi-factor-authentication-mfa)                     |
-|                           | YubiKey - [Link](https://www.yubico.com/)                                                           |
-|                           | RSA SecurID - [Link](https://www.rsa.com/en-us/products/rsa-securid-suite)                         |
-|                           | Authy - [Link](https://authy.com/)                                                                   |
-| Website Servers           | Apache HTTP Server - [Link](https://httpd.apache.org/)                                              |
-|                           | Nginx - [Link](https://www.nginx.com/)                                                               |
-|                           | IIS (Internet Information Services) - [Link](https://www.microsoft.com/en-us/cloud-platform/internet-information-services) |
-|                           | LiteSpeed - [Link](https://www.litespeedtech.com/)                                                  |
-|                           | Caddy - [Link](https://caddyserver.com/)                                                            |
-| Application Server        | Apache Tomcat - [Link](http://tomcat.apache.org/)                                                   |
-|                           | WildFly - [Link](https://www.wildfly.org/)                                                           |
-|                           | ASP.NET - [Link](https://dotnet.microsoft.com/apps/aspnet)                                          |
-|                           | WebSphere - [Link](https://www.ibm.com/cloud/websphere-application-platform)                        |
-|                           | Node.js - [Link](https://nodejs.org/)                                                                |
+| Access Point              | [Cisco Aironet](https://www.cisco.com/c/en/us/products/wireless/aironet-series/index.html), [Ubiquiti UniFi](https://www.ui.com/products/#unifi), [Aruba Instant On](https://www.arubainstanton.com/), [Ruckus Wireless](https://www.commscope.com/ruckus/), [Meraki](https://meraki.cisco.com/) |
+| Biometric Access Control  | [ HID Biometric Readers](https://www.hidglobal.com/products/readers/hid-biometric-readers), [Suprema Biostar](https://www.supremainc.com/en/node/4876), [MorphoWave](https://www.idemia.com/morphowave), [Invixium](https://www.invixium.com/), [ZKTeco](https://www.zkteco.com/) |
+| 2FA + MFA                 | [Google Authenticator](https://github.com/google/google-authenticator), [Duo Security](https://duo.com/product/multi-factor-authentication-mfa), [YubiKey](https://www.yubico.com/), [RSA SecurID](https://www.rsa.com/en-us/products/rsa-securid-suite), [Authy](https://authy.com/) |
+| Website Servers           | [Apache HTTP Server](https://httpd.apache.org/),[Nginx](https://www.nginx.com/), [IIS](https://www.microsoft.com/en-us/cloud-platform/internet-information-services), [LiteSpeed](https://www.litespeedtech.com/), [Caddy](https://caddyserver.com/) |
+| Application Server        | [Apache Tomcat](http://tomcat.apache.org/)                                                   |
+|                           | [WildFly](https://www.wildfly.org/)                                                           |
+|                           | [ASP.NET ](https://dotnet.microsoft.com/apps/aspnet)                                          |
+|                           | [WebSphere](https://www.ibm.com/cloud/websphere-application-platform)                        |
+|                           | [Node.js](https://nodejs.org/)                                                                |
 | Cloud Solutions           | AWS (Amazon Web Services) - [Link](https://aws.amazon.com/)                                         |
 |                           | Azure - [Link](https://azure.microsoft.com/)                                                         |
 |                           | GCP (Google Cloud Platform) - [Link](https://cloud.google.com/)                                      |
