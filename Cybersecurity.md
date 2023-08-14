@@ -87,7 +87,7 @@ Ensure seamless continuity with robust disaster recovery tools:
 | Website                                                | Website                                              | Website                                      | Website                                      |
 | ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
 | [Nginx Proxy](https://nginxproxymanager.com/) | [CloudFlare](https://www.cloudflare.com/) | [SSL Config Builder](https://ssl-config.mozilla.org/) | [Nginx Config Builder](https://www.digitalocean.com/community/tools/nginx?global.app.lang=es) |
-| [Certbot](https://certbot.eff.org) | [Headers](https://securityheaders.com) | [SSLCheck](https://www.ssllabs.com/ssltest/) ||
+| [Certbot](https://certbot.eff.org) | [Headers](https://securityheaders.com) | [SSLCheck](https://www.ssllabs.com/ssltest/) | [Web Security Check List](https://www.toptal.com/developers/webdevchecklist) |
 
 ### Cloud Security
 
