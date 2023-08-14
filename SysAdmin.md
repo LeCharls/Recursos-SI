@@ -37,20 +37,25 @@ The tools are categorized into different sections based on their functionality.
 - [Processing Cluster](#)
 - [Virtualization Cluster](#)
 - [Database Cluster](#)
+- [Meetings Software](#)
+- [Productivity & Contact](#)
+- [Mail Servers](#)
 
 
 
 
 # IT Infrastructure Tools
 
-| Element                  | Tools and URLs                                                              |
+| Element                  | Tools and URLs                                                               |
 |--------------------------|------------------------------------------------------------------------------|
 | Version Control          | [Git](https://git-scm.com/), [Subversion (SVN)](https://subversion.apache.org/), [Mercurial](https://www.mercurial-scm.org/), [Perforce](https://www.perforce.com/), [Bitbucket](https://bitbucket.org/) |
 | Automation Manager       | [Ansible](https://www.ansible.com/), [Puppet](https://puppet.com/), [Chef](https://www.chef.io/), [SaltStack](https://www.saltstack.com/), [Jenkins](https://www.jenkins.io/) |
 | Virtualization           | [VMware](https://www.vmware.com/), [VirtualBox](https://www.virtualbox.org/), [KVM](https://www.linux-kvm.org/), [Hyper-V](https://www.microsoft.com/en-us/cloud-platform/server-virtualization), [Xen](https://xenproject.org/) |
 | Clusterization           | [Kubernetes](https://kubernetes.io/), [Docker Swarm](https://docs.docker.com/engine/swarm/), [Mesos](https://mesos.apache.org/), [Amazon ECS](https://aws.amazon.com/ecs/), [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine) |
 | Storage Management       | [EMC ViPR](https://www.dellemc.com/en-us/storage/vipr-controller.htm), [NetApp ONTAP](https://www.netapp.com/), [IBM Spectrum Scale](https://www.ibm.com/cloud/spectrum-scale), [ZFS](https://zfsonlinux.org/), [GlusterFS](https://www.gluster.org/) |
-| Services & Support management       | [glpi](https://glpi-project.org/es/),[Jira service management](https://www.atlassian.com/software/jira/service-management) |
+| Mobile Device Management |   [Intune](https://www.microsoft.com/es-es/security/business/microsoft-intune), [ScaleFusion](https://scalefusion.com/es/), [manageengine](https://www.manageengine.com/es/mobile-device-management/), [Hexnode](https://www.hexnode.com/)  |
+| Services & Support management | [glpi](https://glpi-project.org/es/),[Jira service management](https://www.atlassian.com/software/jira/service-management),[zendesk](https://www.zendesk.es/) |
+| Inventory management       | [glpi](https://glpi-project.org/es/),[lansweeper](https://www.lansweeper.com/),[paessler prtg](https://www.paessler.com/prtg),[atera](https://www.atera.com/) |
 | Backup Management        | [Veeam Backup & Replication](https://www.veeam.com/), [Commvault](https://www.commvault.com/), [Acronis Backup](https://www.acronis.com/), [Veritas Backup Exec](https://www.veritas.com/backup-exec.html), [Bacula](https://www.bacula.org/) |
 | Local Domain Server      | [Microsoft Active Directory](https://www.microsoft.com/en-us/cloud-platform/active-directory), [FreeIPA](https://www.freeipa.org/), [Zentyal](https://zentyal.com/), [Samba](https://www.samba.org/), [OpenLDAP](https://www.openldap.org/) |
 | Configuration Management | [Ansible](https://www.ansible.com/), [Puppet](https://puppet.com/), [Chef](https://www.chef.io/), [SaltStack](https://www.saltstack.com/), [Terraform](https://www.terraform.io/) |
