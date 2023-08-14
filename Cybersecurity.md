@@ -26,7 +26,21 @@ Empower your security stance with advanced tools for intrusion detection and pre
 - [Fail2Ban](https://www.fail2ban.org/)
 - [Wazuh](https://wazuh.com/)
 - [Suricata](https://suricata.io/)
-- ... (and more)
+- [Snort](https://www.snort.org/)
+- [Zeek (formerly Bro)](https://zeek.org/)
+- [Cisco Firepower](https://www.cisco.com/c/es_es/products/security/firepower-1000-series/index.html)
+- [OSSEC](https://www.ossec.net/)
+- [IpFire](https://www.ipfire.org/)
+- [OpenVAS](https://openvas.org/)
+- [Scapy](https://scapy.net/)
+- [ModSecurity](https://github.com/SpiderLabs/ModSecurity)
+- [Security Onion](https://securityonionsolutions.com/)
+- [Brocade Intrusion Manager](https://www.broadcom.com/solutions/enterprise-security/enterprise-security-solutions/)
+- [Symantec Network Security](https://www.symantec.com/products/network-security)
+- [Trellix](https://www.trellix.com/es-es/index.html)
+- [Juniper Networks Sky Advanced Threat Prevention](https://www.juniper.net/)
+- [Palo Alto Networks Threat Prevention](https://www.paloaltonetworks.com/cyberpedia/)
+- [Fortinet Intrusion Prevention System](https://www.fortinet.com/products/next-generation-firewall)
 
 ### Security Information and Event Management (SIEM)
 
@@ -34,7 +48,11 @@ Elevate your security monitoring with top-tier SIEM platforms:
 
 - [Splunk](https://www.splunk.com/en_us/products/enterprise-security.html)
 - [Qradar](https://www.ibm.com/es-es/qradar)
-- ... (and more)
+- [LogRythm](https://logrhythm.com/products/logrhythm-siem/)
+- [SolarWinds](https://try.solarwinds.com/)
+- [ArcSight](https://www.microfocus.com/en-us/cyberres/secops/arcsight-recon)
+- [Wazuh](https://wazuh.com/)
+- [Security Onion](https://securityonionsolutions.com/)
 
 ### Extended Detection and Response (XDR)
 
@@ -42,7 +60,8 @@ Explore cutting-edge XDR solutions to fortify your defenses:
 
 - [Cortex](https://www.paloaltonetworks.es/resources/datasheets/cortex-xdr)
 - [Cynet](https://www.cynet.com/)
-- ... (and more)
+- [CrowdStryke](https://www.crowdstrike.com/cybersecurity-101/what-is-xdr/)
+- [SentinelOne](https://www.sentinelone.com/)
 
 ### Disaster Recovery Plan (DRP)
 
@@ -50,10 +69,69 @@ Ensure seamless continuity with robust disaster recovery tools:
 
 - [DRBD](https://linbit.com/drbd/)
 - [bareos](https://www.bareos.com/)
-- ... (and more)
+- [Rsync](https://linux.die.net/man/1/rsync)
+- [Lustre](https://wiki.lustre.org/Backing_Up_a_Lustre_File_System)
 
-<!-- More categories here -->
+### Monitoring Systems
 
+- [Nagios](https://www.nagios.org/)
+- [Icinga](https://icinga.com/)
+- [Zabbix](https://www.zabbix.com/)
+- [DataDog](https://www.datadoghq.com/)
+
+### Network Security  Firewall 
+
+- [VyOS](https://vyos.io/)
+- [OPNsense](https://opnsense.org/)
+- [PFsense](https://www.pfsense.org/)
+- [Untangle](https://www.vialynk.com/untangle)
+
+### Vulnerability Assessment and Management
+
+- [Nessus](https://explore.skillbuilder.aws/learn/external-ecommerce;view=none;redirectURL=?ctldoc-catalog-0=se-security)
+- [OpenVAS](https://www.openvas.org/)
+- [Nexpose](https://www.rapid7.com/products/nexpose/)
+- [Qualys](https://www.qualys.com/)
+- [NMAP](https://nmap.org/)
+- [Metasploit](https://www.metasploit.com/)
+- [InsightVM](https://www.rapid7.com/products/insightvm/)
+
+### Threat  Hunters
+
+- [Bazaar](https://bazaar.abuse.ch/)
+- [OpenIOC](https://github.com/fireeye/OpenIOC_1.1)
+- [Sigma](https://github.com/SigmaHQ/sigma)
+- [threatconnect](https://threatconnect.com/)
+- [threatq](https://www.threatq.com/)
+
+### PenTesting Operating Systems
+
+- [ParrotOS](https://www.parrotsec.org/)
+- [Kali](https://www.kali.org/)
+- [BlackArch](https://blackarch.org/)
+- [BackBox](https://www.backbox.org/)
+
+
+### Full Privacy Based Linux Distros
+
+- [SubGraph](https://subgraph.com/)
+- [QubeOS](https://www.qubes-os.org/)
+- [Whonix](https://www.whonix.org/)
+- [Tails](https://tails.net/index.es.html)
+
+### Web Application Security
+
+- [OWASP](https://owasp.org/)
+- [Burp Suite](https://portswigger.net/burp)
+- [ZAP (Zed Attack Proxy)](https://www.zaproxy.org/)
+- [Nginx Proxy](https://nginxproxymanager.com/)
+- [CloudFlare](https://www.cloudflare.com/)
+- [SSL Config Builder](https://ssl-config.mozilla.org/)
+- [Nginx Config Builder](https://www.digitalocean.com/community/tools/nginx?global.app.lang=es)
+
+
+
+_________________________________
 ## Learning and Skill Development
 
 Nurture your cybersecurity prowess with diverse learning resources:
@@ -71,7 +149,13 @@ Stay informed with timely security news and insights from trusted sources:
 - [Dark Reading](https://www.darkreading.com/)
 - ... (and more)
 
-<!-- More categories here -->
+### Penetration Testing and CTF Platforms
+
+- [Hack The Box](https://www.hackthebox.com/)
+- [TryHackMe](https://tryhackme.com/)
+- [PicoCTF](https://picoctf.org/)
+- [VulnHub](https://www.vulnhub.com/)
+- [OverTheWire Wargames](https://overthewire.org/wargames/)
 
 ## Note
 
@@ -116,109 +200,28 @@ Remember, the cybersecurity landscape is perpetually evolving. Dive into the pro
 
 
 
-# Cybersecurity and IT Security Resources
 
-## Security Tools and Platforms
 
-### Intrusion Detection and Prevention Systems (IDS/IPS)
 
-- [CrowdSec](https://www.crowdsec.net/)
-- [Fail2Ban](https://www.fail2ban.org/)
-- [Wazuh](https://wazuh.com/)
-- [Suricata](https://suricata.io/)
-- [Snort](https://www.snort.org/)
-- [Zeek (formerly Bro)](https://zeek.org/)
-- [Cisco Firepower](https://www.cisco.com/c/es_es/products/security/firepower-1000-series/index.html)
-- [OSSEC](https://www.ossec.net/)
-- [IpFire](https://www.ipfire.org/)
-- [OpenVAS](https://openvas.org/)
-- [Scapy](https://scapy.net/)
-- [ModSecurity](https://github.com/SpiderLabs/ModSecurity)
-- [Security Onion](https://securityonionsolutions.com/)
-- [Brocade Intrusion Manager](https://www.broadcom.com/solutions/enterprise-security/enterprise-security-solutions/)
-- [Symantec Network Security](https://www.symantec.com/products/network-security)
-- [Trellix](https://www.trellix.com/es-es/index.html)
-- [Juniper Networks Sky Advanced Threat Prevention](https://www.juniper.net/)
-- [Palo Alto Networks Threat Prevention](https://www.paloaltonetworks.com/cyberpedia/)
-- [Fortinet Intrusion Prevention System](https://www.fortinet.com/products/next-generation-firewall)
 
-Make sure to visit the respective websites of these tools to learn more about their features, installation, and usage.
 
-### Security Information and Event Management (SIEM)
 
-- [Splunk](https://www.splunk.com/en_us/products/enterprise-security.html)
-- [Qradar](https://www.ibm.com/es-es/qradar)
-- [LogRythm](https://logrhythm.com/products/logrhythm-siem/)
-- [SolarWinds](https://try.solarwinds.com/)
-- [ArcSight](https://www.microfocus.com/en-us/cyberres/secops/arcsight-recon)
-- [Wazuh](https://wazuh.com/)
-- [Security Onion](https://securityonionsolutions.com/)
 
-### Extended Detection and Response (XDR)
 
-- [Cortex](https://www.paloaltonetworks.es/resources/datasheets/cortex-xdr)
-- [Cynet](https://www.cynet.com/)
-- [CrowdStryke](https://www.crowdstrike.com/cybersecurity-101/what-is-xdr/)
-- [SentinelOne](https://www.sentinelone.com/)
 
-### Disaster Recovery Plan (DRP)
 
-- [DRBD](https://linbit.com/drbd/)
-- [bareos](https://www.bareos.com/)
-- [Rsync](https://linux.die.net/man/1/rsync)
-- [Lustre](https://wiki.lustre.org/Backing_Up_a_Lustre_File_System)
 
-### Monitoring 
 
-- [Nagios](https://www.nagios.org/)
-- [Icinga](https://icinga.com/)
-- [Zabbix](https://www.zabbix.com/)
-- [DataDog](https://www.datadoghq.com/)
 
-### Network Security  Firewall 
 
-- [VyOS](https://vyos.io/)
-- [OPNsense](https://opnsense.org/)
-- [PFsense](https://www.pfsense.org/)
-- [Untangle](https://www.vialynk.com/untangle)
 
-### Vulnerability Assessment and Management
 
-- [Nessus](https://explore.skillbuilder.aws/learn/external-ecommerce;view=none;redirectURL=?ctldoc-catalog-0=se-security)
-- [OpenVAS](https://www.openvas.org/)
-- [Nexpose](https://www.rapid7.com/products/nexpose/)
-- [Qualys](https://www.qualys.com/)
-- [NMAP](https://nmap.org/)
-- [Metasploit](https://www.metasploit.com/)
-- [InsightVM](https://www.rapid7.com/products/insightvm/)
 
-### Penetration Testing Operating systems
 
-- [ParrotOS](https://www.parrotsec.org/)
-- [Kali](https://www.kali.org/)
-- [BlackArch](https://blackarch.org/)
-- [BackBox](https://www.backbox.org/)
 
-### Privacy based distros
 
-- [SubGraph](https://subgraph.com/)
-- [QubeOS](https://www.qubes-os.org/)
-- [Whonix](https://www.whonix.org/)
-- [Tails](https://tails.net/index.es.html)
 
-### Penetration Testing and CTF Platforms
 
-- [Hack The Box](https://www.hackthebox.com/)
-- [TryHackMe](https://tryhackme.com/)
-- [PicoCTF](https://picoctf.org/)
-- [VulnHub](https://www.vulnhub.com/)
-- [OverTheWire Wargames](https://overthewire.org/wargames/)
-
-### Web Application Security
-
-- [OWASP](https://owasp.org/)
-- [Burp Suite](https://portswigger.net/burp)
-- [ZAP (Zed Attack Proxy)](https://www.zaproxy.org/)
 
 ### Cloud Security
 
@@ -243,14 +246,6 @@ Make sure to visit the respective websites of these tools to learn more about th
 - [VeraCrypt](https://www.veracrypt.fr/)
 - [GPG (GNU Privacy Guard)](https://gnupg.org/)
 - [Tor Browser](https://www.torproject.org/)
-
-## Forensisc tools
-
-### Logs checker
-
-### Registry checker
-
-### Mail checker
 
 
 
