@@ -5,7 +5,7 @@
   <p align="center">
     A curated list of AI resources categorized by professional domains.
     <br>
-    <a href="https://github.com/yourusername/ai-professional-resources"><strong>Explore the resources »</strong></a>
+<!--     <a href="https://github.com/yourusername/ai-professional-resources"><strong>Explore the resources »</strong></a> -->
   </p>
 </p>
 
@@ -13,10 +13,15 @@
 ## Table of Contents
 
 - [Data Science](#data-science)
+- [Cybersecurity](#cybersecurity)
 - [Machine Learning](#machine-learning)
+- [Big Data](#big-data)
+- [Databases](#databases)
 - [Natural Language Processing](#natural-language-processing)
 - [Computer Vision](#computer-vision)
 - [Robotics](#robotics)
+- [MultiMedia creation](#multimedia)
+- [Images](#images)
 - [All](#list)
 - [Contributing](#contributing)
 - [License](#license)
