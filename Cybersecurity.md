@@ -23,7 +23,7 @@ Welcome to a curated compilation of cybersecurity and IT security resources. Whe
 
 Empower your security stance with advanced tools for intrusion detection and prevention:
 
-| Website                                                | Website                                              | Website                                      | Website                                      |
+|                                                 |                                               |                                       |                                       |
 | ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
 | [CrowdSec](https://www.crowdsec.net/)                   | [Fail2Ban](https://www.fail2ban.org/)               | [Wazuh](https://wazuh.com/)                 | [Suricata](https://suricata.io/)           |
 | [Snort](https://www.snort.org/)                        | [Zeek (formerly Bro)](https://zeek.org/)           | [Cisco Firepower](https://www.cisco.com/)   | [OSSEC](https://www.ossec.net/)            |
