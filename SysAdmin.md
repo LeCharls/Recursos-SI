@@ -4,13 +4,15 @@ This repository contains a list of popular sysadmin tools that are commonly used
 
 The tools are categorized into different sections based on their functionality.
 
-## Table of Contents
+## Table of Contents That a SysAdmin will Manage
 
 - [Version Control](#)
 - [Automation manager](#)
 - [Virtualization](#)
 - [Clusterization](#)
 - [Storage management](#)
+- [Mobile Device Management (MDM)](#)
+- [Services & Support management](#)
 - [Inventory management](#)
 - [Backup management](#)
 - [Local Domain Server](#)
@@ -48,6 +50,7 @@ The tools are categorized into different sections based on their functionality.
 | Virtualization           | [VMware](https://www.vmware.com/), [VirtualBox](https://www.virtualbox.org/), [KVM](https://www.linux-kvm.org/), [Hyper-V](https://www.microsoft.com/en-us/cloud-platform/server-virtualization), [Xen](https://xenproject.org/) |
 | Clusterization           | [Kubernetes](https://kubernetes.io/), [Docker Swarm](https://docs.docker.com/engine/swarm/), [Mesos](https://mesos.apache.org/), [Amazon ECS](https://aws.amazon.com/ecs/), [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine) |
 | Storage Management       | [EMC ViPR](https://www.dellemc.com/en-us/storage/vipr-controller.htm), [NetApp ONTAP](https://www.netapp.com/), [IBM Spectrum Scale](https://www.ibm.com/cloud/spectrum-scale), [ZFS](https://zfsonlinux.org/), [GlusterFS](https://www.gluster.org/) |
+| Services & Support management       | [glpi](https://glpi-project.org/es/),[Jira service management](https://www.atlassian.com/software/jira/service-management) |
 | Backup Management        | [Veeam Backup & Replication](https://www.veeam.com/), [Commvault](https://www.commvault.com/), [Acronis Backup](https://www.acronis.com/), [Veritas Backup Exec](https://www.veritas.com/backup-exec.html), [Bacula](https://www.bacula.org/) |
 | Local Domain Server      | [Microsoft Active Directory](https://www.microsoft.com/en-us/cloud-platform/active-directory), [FreeIPA](https://www.freeipa.org/), [Zentyal](https://zentyal.com/), [Samba](https://www.samba.org/), [OpenLDAP](https://www.openldap.org/) |
 | Configuration Management | [Ansible](https://www.ansible.com/), [Puppet](https://puppet.com/), [Chef](https://www.chef.io/), [SaltStack](https://www.saltstack.com/), [Terraform](https://www.terraform.io/) |
