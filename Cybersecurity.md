@@ -85,7 +85,7 @@ Ensure seamless continuity with robust disaster recovery tools:
 
 | Website                                                | Website                                              | Website                                      | Website                                      |
 | ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-| [AWS Security Hub](https://aws.amazon.com/security-hub/) | [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/) | [Google Cloud Security](https://cloud.google.com/security) |                                           |
+| [AWS Security Hub](https://aws.amazon.com/security-hub/) | [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/) | [Google Cloud Security](https://cloud.google.com/security) |  [Oracle OCI Security](https://www.oracle.com/security/cloud-security/)                                        |
 
 
 ### Check Lists
