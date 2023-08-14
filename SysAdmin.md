@@ -11,6 +11,7 @@ The tools are categorized into different sections based on their functionality.
 - [Virtualization](#)
 - [Clusterization](#)
 - [Storage management](#)
+- [Invenotory management](#)
 - [Backup management](#)
 - [Local Domain Server](#)
 - [Configuration Management](#)
