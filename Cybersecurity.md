@@ -79,7 +79,7 @@ Ensure seamless continuity with robust disaster recovery tools:
 | Website                                                | Website                                              | Website                                      | Website                                      |
 | ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
 | [VyOS](https://vyos.io/) | [OPNsense](https://opnsense.org/) | [PFsense](https://www.pfsense.org/) | [Untangle](https://www.vialynk.com/untangle) |
-| [smoothwall](https://www.smoothwall.com/education/) ||||
+| [smoothwall](https://www.smoothwall.com/education/) | [arista](https://edge.arista.com/) |||
 
 ### Website Security
 
