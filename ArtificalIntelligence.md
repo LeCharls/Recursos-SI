@@ -17,6 +17,7 @@
 - [Machine Learning](#machine-learning)
 - [Big Data](#big-data)
 - [Databases](#databases)
+- [MacOS](#mac-users)
 - [Natural Language Processing](#natural-language-processing)
 - [Computer Vision](#computer-vision)
 - [Robotics](#robotics)
