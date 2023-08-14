@@ -81,6 +81,13 @@ Make sure to visit the respective websites of these tools to learn more about th
 - [BlackArch](https://blackarch.org/)
 - [BackBox](https://www.backbox.org/)
 
+### Privacy based distros
+
+- [SubGraph](https://subgraph.com/)
+- [QubeOS](https://www.qubes-os.org/)
+- [Whonix](https://www.whonix.org/)
+- [Tails](https://tails.net/index.es.html)
+
 ### Penetration Testing and CTF Platforms
 
 - [Hack The Box](https://www.hackthebox.com/)
