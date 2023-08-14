@@ -136,9 +136,6 @@ Ensure seamless continuity with robust disaster recovery tools:
 - [Burp Suite](https://portswigger.net/burp)
 - [ZAP (Zed Attack Proxy)](https://www.zaproxy.org/)
 
-
-
-
 _________________________________
 ## Learning and Skill Development
 
@@ -147,15 +144,16 @@ Nurture your cybersecurity prowess with diverse learning resources:
 - [Online Learning Platforms](#)
 - [Cybersecurity Learning Paths](#)
 - [Capture The Flag (CTF) Platforms](#)
-- ... (and more)
+- [Free Certifications](#)
+- [Curses and Certs](#Curses-And-Certs-Platforms)
 
-## Security News and Blogs
+### Security News and Blogs
 
 Stay informed with timely security news and insights from trusted sources:
 
 - [KrebsOnSecurity](https://krebsonsecurity.com/)
 - [Dark Reading](https://www.darkreading.com/)
-- ... (and more)
+- [Feedly](https://feedly.com/i/landing/threatIntelligence)
 
 ### Penetration Testing and CTF Platforms
 
@@ -165,9 +163,18 @@ Stay informed with timely security news and insights from trusted sources:
 - [VulnHub](https://www.vulnhub.com/)
 - [OverTheWire Wargames](https://overthewire.org/wargames/)
 
-## Note
 
-Remember, the cybersecurity landscape is perpetually evolving. Dive into the provided links tailored to your interests and requirements, and stay attuned to the latest trends and innovations.
+### Curses And Certs Platforms
+- [Google Cloud Certification](https://cloud.google.com/certification)
+- [AWS Certification](https://aws.amazon.com/certification/)
+- [CCNA Certification](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
+- [INCIBE Certifications](https://www.incibe.es/certificados)
+- [Cybrary Certifications](https://www.cybrary.it/catalog/certifications/)
+- [Microsoft Certification](https://learn.microsoft.com/en-us/certifications/)
+- [CCN Angeles](https://angeles.ccn-cert.cni.es/es/)
+- [Telefonica](https://www.fundaciontelefonica.com/empleabilidad/formacion-online/)
+ 
+
 
 
 
