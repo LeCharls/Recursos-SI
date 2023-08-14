@@ -49,6 +49,7 @@ Explore cutting-edge XDR solutions to fortify your defenses:
 | Website                                                | Website                                              | Website                                      | Website                                      |
 | ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
 | [Cortex](https://www.paloaltonetworks.es/resources/datasheets/cortex-xdr) | [Cynet](https://www.cynet.com/) | [CrowdStryke](https://www.crowdstrike.com/cybersecurity-101/what-is-xdr/) | [SentinelOne](https://www.sentinelone.com/) |
+| [sophos](https://www.sophos.com/es-es) ||||
 
 
 ### Disaster Recovery Plan (DRP)
