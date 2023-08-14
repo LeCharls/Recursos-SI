@@ -36,7 +36,6 @@ Make sure to visit the respective websites of these tools to learn more about th
 - [Wazuh](https://wazuh.com/)
 - [Security Onion](https://securityonionsolutions.com/)
 
-
 ### Extended Detection and Response (XDR)
 
 - [Cortex](https://www.paloaltonetworks.es/resources/datasheets/cortex-xdr)
@@ -44,13 +43,27 @@ Make sure to visit the respective websites of these tools to learn more about th
 - [CrowdStryke](https://www.crowdstrike.com/cybersecurity-101/what-is-xdr/)
 - [SentinelOne](https://www.sentinelone.com/)
 
-
 ### Disaster Recovery Plan (DRP)
 
 - [DRBD](https://linbit.com/drbd/)
 - [bareos](https://www.bareos.com/)
 - [Rsync](https://linux.die.net/man/1/rsync)
 - [Lustre](https://wiki.lustre.org/Backing_Up_a_Lustre_File_System)
+
+### Monitoring 
+
+- [Nagios](https://www.nagios.org/)
+- [Icinga](https://icinga.com/)
+- [Zabbix](https://www.zabbix.com/)
+- [DataDog](https://www.datadoghq.com/)
+
+### Network Security  Firewall 
+
+- [VyOS](https://vyos.io/)
+- [OPNsense](https://opnsense.org/)
+- [PFsense](https://www.pfsense.org/)
+- [Untangle](https://www.vialynk.com/untangle)
+
 
 ## Contributing
 
@@ -69,6 +82,13 @@ Please note that the information provided here is for informational purposes onl
 - [NMAP](https://nmap.org/)
 - [Metasploit](https://www.metasploit.com/)
 - [InsightVM](https://www.rapid7.com/products/insightvm/)
+
+### Penetration Testing Operating systems
+
+- [ParrotOS](https://www.parrotsec.org/)
+- [Kali](https://www.kali.org/)
+- [BlackArch](https://blackarch.org/)
+- [BackBox](https://www.backbox.org/)
 
 ### Penetration Testing and CTF Platforms
 
