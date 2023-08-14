@@ -82,11 +82,62 @@ The tools are categorized into different sections based on their functionality.
 | Processing Cluster        | [Hadoop](https://hadoop.apache.org/),[Spark](https://spark.apache.org/),[Kubernetes](https://kubernetes.io/),[Mesos](http://mesos.apache.org/),[IBM Spectrum Symphony](https://www.ibm.com/products/spectrum-symphony)  |
 | Virtualization Cluster    | [VMware vSphere ](https://www.vmware.com/products/vsphere.html),[Hyper-V Cluster](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/),[Proxmox](https://www.proxmox.com/proxmox-ve),[Red Hat Virtualization](https://www.redhat.com/en/technologies/virtualization),[XenServer](https://xenserver.org/)  |
 | Database Cluster          | [PostgreSQL Streaming Replication](https://www.postgresql.org/docs/current/warm-standby.html),[MySQL Group Replication](https://dev.mysql.com/doc/refman/8.0/en/group-replication.html),[Oracle RAC (Real Application Clusters)](https://www.oracle.com/database/technologies/rac.html),[CockroachDB](https://www.cockroachlabs.com/),[TiDB](https://pingcap.com/products/tidb/)     |
-| Meetings Software ||
-| Productivity & Contact ||
-| Mail Servers ||
-| Network Manager ||
-| Infraestructure ||
-| Online & Private Cloud ||
+| Meetings Software | [zoom.us](https://zoom.us/), [microsoft.com/en-us/microsoft-teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software), [meet.google.com](https://meet.google.com/), [webex.com](https://www.webex.com/), [gotomeeting.com](https://www.gotomeeting.com/) |
+| Productivity & Contact | [office.com](https://www.office.com/),[workspace.google.com](https://workspace.google.com/), [zoho.com/docs](https://www.zoho.com/docs/), [libreoffice.org](https://www.libreoffice.org/),[apple.com/iwork](https://www.apple.com/iwork/)   |
+| Mail Servers | [microsoft.com/en-us/exchange](https://www.microsoft.com/en-us/exchange), [postfix.org](http://www.postfix.org/),  [sendmail.org](https://www.sendmail.org/), [exim.org](https://www.exim.org/),[zimbra.com](https://www.zimbra.com/)      |
+| Network Manager | [solarwinds.com/network-performance-monitor](https://www.solarwinds.com/network-performance-monitor), [cisco.com/c/en/us/products/cloud-systems-management/prime-infrastructure](https://www.cisco.com/c/en/us/products/cloud-systems-management/prime-infrastructure/index.html),  [paessler.com/prtg](https://www.paessler.com/prtg), [nagios.com/products/nagios-xi](https://www.nagios.com/products/nagios-xi/), [manageengine.com/network-monitoring](https://www.manageengine.com/network-monitoring/)   |
+| Infraestructure |   [terraform.io](https://www.terraform.io/), [packer.io](https://www.packer.io/), [ansible.com/products/tower](https://www.ansible.com/products/tower),[puppet.com/products/puppet-enterprise](https://puppet.com/products/puppet-enterprise), [chef.io/products/chef-automate](https://www.chef.io/products/chef-automate/)     |
+| Online & Private Cloud |   [aws.amazon.com](https://aws.amazon.com/), [azure.microsoft.com](https://azure.microsoft.com/),  [cloud.google.com](https://cloud.google.com/), [ibm.com/cloud](https://www.ibm.com/cloud), [oracle.com/cloud](https://www.oracle.com/cloud/)   |
 
+# Cloud Suite
+
+## Cloud Service Providers
+
+| Tool             | Website URL                                     |
+|------------------|-------------------------------------------------|
+| Amazon Web Services (AWS) | [aws.amazon.com](https://aws.amazon.com/) |
+| Microsoft Azure  | [azure.microsoft.com](https://azure.microsoft.com/) |
+| Google Cloud Platform (GCP) | [cloud.google.com](https://cloud.google.com/) |
+| IBM Cloud        | [ibm.com/cloud](https://www.ibm.com/cloud) |
+| Oracle Cloud     | [oracle.com/cloud](https://www.oracle.com/cloud/) |
+
+## Cloud Management Platforms
+
+| Tool             | Website URL                                     |
+|------------------|-------------------------------------------------|
+| VMware vRealize Suite | [vmware.com/products/vrealize-suite.html](https://www.vmware.com/products/vrealize-suite.html) |
+| OpenStack        | [openstack.org](https://www.openstack.org/)   |
+| Microsoft Azure Stack | [azure.microsoft.com/en-us/products/azure-stack](https://azure.microsoft.com/en-us/products/azure-stack/) |
+| Google Anthos    | [cloud.google.com/anthos](https://cloud.google.com/anthos) |
+| Red Hat Cloud Suite | [redhat.com/en/technologies/cloud-computing/cloud-suite](https://www.redhat.com/en/technologies/cloud-computing/cloud-suite) |
+
+## Cloud Security Solutions
+
+| Tool             | Website URL                                     |
+|------------------|-------------------------------------------------|
+| Palo Alto Prisma Cloud | [paloaltonetworks.com/prisma/cloud](https://www.paloaltonetworks.com/prisma/cloud) |
+| Trend Micro Cloud One | [trendmicro.com/cloudone](https://www.trendmicro.com/cloudone) |
+| Check Point CloudGuard | [checkpoint.com/products/cloud-security](https://www.checkpoint.com/products/cloud-security/) |
+| Cisco Cloud Security | [cisco.com/c/en/us/products/security/cloud-security](https://www.cisco.com/c/en/us/products/security/cloud-security/) |
+| Symantec CloudSOC | [symantec.com/cloud/cloudsoc.html](https://www.symantec.com/cloud/cloudsoc.html) |
+
+## Cloud DevOps Tools
+
+| Tool             | Website URL                                     |
+|------------------|-------------------------------------------------|
+| Jenkins          | [jenkins.io](https://www.jenkins.io/)         |
+| CircleCI         | [circleci.com](https://circleci.com/)       |
+| Travis CI        | [travis-ci.com](https://www.travis-ci.com/) |
+| GitLab CI/CD     | [gitlab.com](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) |
+| Azure DevOps     | [azure.microsoft.com/en-us/services/devops](https://azure.microsoft.com/en-us/services/devops/) |
+
+## Cloud Analytics Platforms
+
+| Tool             | Website URL                                     |
+|------------------|-------------------------------------------------|
+| Amazon Redshift  | [aws.amazon.com/redshift](https://aws.amazon.com/redshift/) |
+| Google BigQuery  | [cloud.google.com/bigquery](https://cloud.google.com/bigquery/) |
+| Snowflake        | [snowflake.com](https://www.snowflake.com/) |
+| Microsoft Azure Synapse Analytics | [azure.microsoft.com/en-us/services/synapse-analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/) |
+| IBM Cloud Pak for Data | [ibm.com/cloud/cloud-pak-for-data](https://www.ibm.com/cloud/cloud-pak-for-data) |
 
