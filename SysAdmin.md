@@ -40,7 +40,7 @@ The tools are categorized into different sections based on their functionality.
 - [Meetings Software](#)
 - [Productivity & Contact](#)
 - [Mail Servers](#)
-- [Network Manager]
+- [Network Manager](#)
 - [Infraestructure](#)
 - [Online & Private Cloud](#)
 
