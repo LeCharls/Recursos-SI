@@ -17,6 +17,7 @@ Welcome to a curated compilation of cybersecurity and IT security resources. Whe
 - [Vulnerability Databases and Threat Intelligence](#vulnerability-databases-and-threat-intelligence)
 - [Security Tools Repositories](#security-tools-repositories)
 - [Security and breach bounty](#)
+- [Security Auditor Tools, Reources and platforms](#)
 
 ## Security Tools and Platforms Blueteam
 
