@@ -25,6 +25,7 @@ The tools are categorized into different sections based on their functionality.
 - [VPN & ZeroTrustSoftware](#)
 - [Databases servers](#)
 - [Routers & Switches](#)
+- [Firewall](#)
 - [SAI](#)
 - [Access Point](#)
 - [Biometric Access Control](#)
