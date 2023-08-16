@@ -1,5 +1,9 @@
 # Herramientas útiles para desarrollo web y buenas prácticas, seguridad informática, administración de sistemas, infraestructura, virtualización y variedad.  
 
+por ver
+
+https://info-savvy.com/free-forensic-investigation-tools-for-it-security-expert/
+
 Madre de las bestias en seguridad:
 
 - https://www.ibm.com/es-es/qradar
