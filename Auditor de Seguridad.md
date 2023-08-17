@@ -19,6 +19,11 @@ Welcome to a curated compilation of cybersecurity and IT security resources. Whe
 - [Security and breach bounty](#)
 - [Security Auditor Tools, Reources and platforms](#)
 
+openscap 
+PILAR magerit
+Autopsy
+CAAT's
+
 ## Security Tools and Platforms Blueteam
 
 ### Intrusion Detection and Prevention Systems (IDS/IPS)
