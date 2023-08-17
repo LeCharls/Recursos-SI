@@ -8,6 +8,7 @@ The tools are categorized into different sections based on their functionality.
 
 - [Version Control](#)
 - [Automation manager](#)
+- [Maquinas Virtuales](#)
 - [Virtualization](#)
 - [Clusterization](#)
 - [Storage management](#)
@@ -50,6 +51,7 @@ The tools are categorized into different sections based on their functionality.
 
 
 
+https://www.graalvm.org/ ????
 
 # IT Infrastructure Tools
 
