@@ -6,7 +6,7 @@
 - [Probar la eficacia de los controles de seguridad presentes](#control-de-eficacia-de-seguridad-mediante-pentesting)	
 - [Analizar los registros y logs de seguridad](#analizar-los-registros-y-logs-de-seguridad)
 - [Investigar incidentes de seguridad](#investigar-incidentes-de-seguridad)	
-- [Revisar cumplimiento de las regulaciones legales en materia de seguridad](#)
+- [Revisar cumplimiento de las regulaciones legales en materia de seguridad](#caats-computer-assisted-audit-techniques)
 - [Concienciar en materia de seguridad](#)
 - [Calcular el riesgo, probabilidades, frecuencia   de incidentes  de seguridad](#)
 - [Identificar causalidades, focos y objetivos y origenes de incidentes de seguridad](#)
