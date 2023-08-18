@@ -32,16 +32,16 @@
 | MDR (Managed detection and response) | CrowdStrike Falcon, SentinelOne |
 | SIEM (Security Information and Event Management) | Wazuh, ELK Stack, Splunk |
 | Firewall | Pfsense, OPNsense, VyOS |
-| Proxy | Squid, Privoxy |
+| Proxy | Squid, Privoxy, nginx porxy manager, Cloudflare |
 | AntiSpam | SpamAssassin, MailScanner |
 | AntiPhishing | PhishTank, Google Safe Browsing |
 | DLP (Data Loss Prevention) | OpenDLP, CryptoBlocker |
 | SOAR (Security Orchestration, Automation and Response) | Phantom, Demisto |
 | EDR (Endpoint Detection and Response) | Carbon Black, SentinelOne |
 | UTM (Unified Threat Management) | FortiGate, Sophos UTM |
-| Antivirus | ClamAV, Avast Free Antivirus |
+| Antivirus | ClamAV, Norton, Kaspersky, Avast Free Antivirus |
 | Monitoring | Nagios, Icinga2, Prometheus |
-| WAF (Web Application Firewall) | ModSecurity, OpenWAF |
+| WAF (Web Application Firewall) | Cloudflare, ModSecurity, OpenWAF |
 | ZeroTrust | Zscaler Zero Trust Exchange |
 | VPN | OpenVPN, WireGuard |
 | SOC (Security Operations Center) | OpenSOC |
