@@ -1,4 +1,4 @@
-| Site Generateors for Single Page Application, Server Side G Frameworks    |
+| Site Generateors for Single Page Application, Static Side Generation (SSG) Frameworks  |
 |-------------------------------------------|
 | [reactjs.org](https://reactjs.org/) |
 | [nextjs.org](https://nextjs.org/)   |
@@ -16,7 +16,7 @@
 | [ionicframework](https://ionicframework.com/)  |
 | [tumult](https://tumult.com/hype/) |
 
-| Site Generateors for Single Page Application, Server Side Rendering Frameworks |
+| Site Generateors for Single Page Application, Server Side Rendering (SSR) Frameworks |
 |-------------------------------------------|
 | [nextjs.org](https://nextjs.org/)   |
 | [nuxtjs.org](https://nuxtjs.org/)   |
@@ -28,6 +28,11 @@
 | [afterjs.com](https://afterjs.com/) |
 | [quasar.dev/ssr](https://quasar.dev/ssr)   |
 | [kit.svelte.dev](https://kit.svelte.dev/) |
+
+| Site Generateors for Single Page Application, Client Side Rendering (CSR) Frameworks |
+|-------------------------------------------|
+
+Incremental Static Regeneration (ISR)
 
 |ServerLess|
 |-------------------------------------------|
