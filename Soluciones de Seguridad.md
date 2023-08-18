@@ -31,7 +31,7 @@
 | XDR (Extended Detection and Response) | OpenXDR, MISP |
 | MDR (Managed detection and response) | CrowdStrike Falcon, SentinelOne |
 | SIEM (Security Information and Event Management) | Wazuh, ELK Stack, Splunk |
-| Firewall | Pfsense, OPNsense |
+| Firewall | Pfsense, OPNsense, VyOS |
 | Proxy | Squid, Privoxy |
 | AntiSpam | SpamAssassin, MailScanner |
 | AntiPhishing | PhishTank, Google Safe Browsing |
