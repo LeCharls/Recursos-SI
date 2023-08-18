@@ -8,7 +8,9 @@
 - [Investigar incidentes de seguridad](#)	Mandiant, FireEye, CrowdStrike
 - [Revisar cumplimiento de las regulaciones legales en materia de seguridad](#)
 - [Concienciar en materia de seguridad](#)
-- [Calcular el riesgo, probabilidades, frecuencia causalidades  de incidentes  de seguridad](#)
+- [Calcular el riesgo, probabilidades, frecuencia   de incidentes  de seguridad](#)
+- [Identificar causalidades, focos y objetivos y origenes de incidentes de seguridad](#)
+
 
 ## Auditorias de seguridad?
 
