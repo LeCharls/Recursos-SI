@@ -63,6 +63,18 @@ En este repositorio, encontrarás una lista de herramientas ampliamente utilizad
 | [Nmap](url) | Realiza escaneos de red para descubrir hosts, puertos abiertos y servicios en una red. |
 | [DNSDumpster](url) | Proporciona información sobre registros DNS y dominios, como subdominios y direcciones IP asociadas. |
 
+### Recolectar datos de la plataforma/entorno/equipo
+| Herramienta | Info |
+|----------------------|------------------------|
+| [Lynis]() | auditar servidores Linux |
+| [AuditD](https://linux.die.net/man/8/auditd) |  demonio que captura eventos y lo almacena |
+| [REMnux](https://remnux.org/) | Audit code and analyzing malware  |
+| [Auditpol]()  | Programa de Política de Auditoría en Windows |
+| [ManageEngine AD Aduit Plus](https://www.manageengine.com/products/active-directory-audit/) | ayuda a mantener su ecosistema de Windows Server seguro y compatible al proporcionar una visibilidad completa de todas las actividades  |
+| [netwrix](https://www.netwrix.es/active_directory_auditing.html)|  |
+| [Solar Winds](https://www.solarwinds.com/es/security-event-manager)|  |
+| [logRythm](https://logrhythm.com/)| SIEM |
+
 ### Identificar riesgos y vulnerabilidades de seguridad
 
 | Herramienta | Info |
