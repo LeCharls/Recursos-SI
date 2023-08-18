@@ -72,18 +72,26 @@ En este repositorio, encontrarás una lista de herramientas ampliamente utilizad
 | [OpenVAS](url) | Escáner de vulnerabilidades de código abierto que verifica sistemas en busca de problemas de seguridad. |
 | [OWASP ZAP](url) | Herramienta de prueba de seguridad de aplicaciones web para encontrar vulnerabilidades en aplicaciones web. |
 | [Shodan](url) | Un motor de búsqueda que encuentra dispositivos conectados a Internet, incluidos servidores, cámaras, enrutadores, etc. |
+| [Nexpose](url) | Nexpose, la opción local de Rapid7 para el software de gestión de vulnerabilidades, supervisa las exposiciones en tiempo real y se adapta a las nuevas amenazas con datos actualizados, lo que garantiza que siempre pueda actuar en el momento del impacto. |
+| [Qualys](#) |    |
+| [securityscorecard](#)|    |
 
-### Control de eficacia de seguridad mediante Pentesting
+
+### Control de eficacia de seguridad mediante Pentesting (Red Team)
 
 | Herramienta | Info |
 |----------------------|------------------------|
 | [Burp Suite](url) | Suite de herramientas para pruebas de seguridad en aplicaciones web, que identifica vulnerabilidades y realiza pruebas de penetración. |
 | [Wireshark](url) | Un analizador de protocolos de red que captura y analiza el tráfico para detectar problemas de seguridad y rendimiento. |
 | [Metasploit](url) | Una plataforma de pruebas de penetración que permite a los investigadores probar vulnerabilidades y ejecutar ataques controlados. |
+| [Sqlmap](#)|  |
+| [Jhon](#)|  |
+| [Hydra](#)|  |
 | [Kali Linux](url) | Una distribución de Linux diseñada para pruebas de penetración y seguridad, con una amplia gama de herramientas preinstaladas. |
 | [Parrot OS](url) | Un sistema operativo de seguridad que incluye herramientas para pruebas de penetración, análisis forense y anonimato en línea. |
 | [BackBox](url) | Una distribución de Linux para pruebas de penetración y seguridad que proporciona una amplia gama de herramientas. |
 | [BlackArch](url) | Una distribución Linux especializada en seguridad y pruebas de penetración con más de 2000 herramientas. |
+| [AirCrackNG](#)|  |
 
 ### Analizar los registros y logs de seguridad
 
