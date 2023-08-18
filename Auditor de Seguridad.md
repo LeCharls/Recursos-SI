@@ -62,6 +62,7 @@ En este repositorio, encontrarás una lista de herramientas ampliamente utilizad
 | [GHDB](url) | Recopila técnicas de búsqueda en Google para descubrir servidores y dispositivos mal configurados o expuestos. |
 | [Nmap](url) | Realiza escaneos de red para descubrir hosts, puertos abiertos y servicios en una red. |
 | [DNSDumpster](url) | Proporciona información sobre registros DNS y dominios, como subdominios y direcciones IP asociadas. |
+| [maltego](https://www.maltego.com/) |  Buscar info sobre personas de manera eficiente |
 
 ### Recolectar datos de la plataforma/entorno/equipo
 | Herramienta | Info |
