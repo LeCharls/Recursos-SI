@@ -50,7 +50,7 @@
 
 # Herramientas de Ciberseguridad y Auditoría
 
-En este repositorio, encontrarás una lista de herramientas ampliamente utilizadas en el ámbito de la ciberseguridad y la auditoría. Estas herramientas son esenciales para diversas tareas, como búsqueda de información pasiva, identificación de riesgos y vulnerabilidades, pruebas de penetración, análisis de registros y logs, y más.
+En este apartado, encontrarás una lista de herramientas ampliamente utilizadas en el ámbito de la ciberseguridad y la auditoría. Estas herramientas son esenciales para diversas tareas, como búsqueda de información pasiva, identificación de riesgos y vulnerabilidades, pruebas de penetración, análisis de registros y logs, y más.
 
 ## Con qué lo hace?
 ### Búsqueda de información pasiva
