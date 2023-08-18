@@ -26,11 +26,11 @@
 
 | Security Control | Open Source or Free Software Solutions |
 |---|---|
-| IPS (Intrusion Prevention System) | Snort, Suricata, Bro |
+| IPS (Intrusion Prevention System) | Wazuh, Snort, Suricata, Bro |
 | IDS (Intrusion Detection System) | Snort, Suricata, Bro |
 | XDR (Extended Detection and Response) | OpenXDR, MISP |
 | MDR (Managed detection and response) | CrowdStrike Falcon, SentinelOne |
-| SIEM (Security Information and Event Management) | ELK Stack, Splunk |
+| SIEM (Security Information and Event Management) | Wazuh, ELK Stack, Splunk |
 | Firewall | Pfsense, OPNsense |
 | Proxy | Squid, Privoxy |
 | AntiSpam | SpamAssassin, MailScanner |
@@ -40,7 +40,7 @@
 | EDR (Endpoint Detection and Response) | Carbon Black, SentinelOne |
 | UTM (Unified Threat Management) | FortiGate, Sophos UTM |
 | Antivirus | ClamAV, Avast Free Antivirus |
-| Monitoring | Nagios, Prometheus |
+| Monitoring | Nagios, Icinga2, Prometheus |
 | WAF (Web Application Firewall) | ModSecurity, OpenWAF |
 | ZeroTrust | Zscaler Zero Trust Exchange |
 | VPN | OpenVPN, WireGuard |
