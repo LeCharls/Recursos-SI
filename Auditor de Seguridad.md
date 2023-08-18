@@ -38,13 +38,25 @@
 ### - [Arriba se indican sus tareas](#)
 
 ## Con que lo hace?
-### Identificar riesgos de seguridad
+### Busqueda de info pasiva
+| Herramienta | Info |
+|----------------------|------------------------|
+| google Dorks |   |
+| haveibeenpwned |   |
+| GHDB |   |
+| Nmap |   |
+| dnsdumpster |   |
+
+
+### Identificar riesgos y vulnerabilidades  de seguridad
 | Herramienta | Info |
 |----------------------|------------------------|
 | Nmap |   |
 | Nessus |  |
 | OpenVAS  |   |
 | OWASP ZAP |   |
+| Shodan|   |
+| | |
 
 ### Control de eficacia de seguridad mediante Pentesting
 | Herramienta | Info |
