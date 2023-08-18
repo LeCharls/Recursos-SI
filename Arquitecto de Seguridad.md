@@ -26,11 +26,10 @@ This document provides a reference list of various cybersecurity solutions categ
 
 | Solution                                       | URL                                                |
 |-----------------------------------------------|----------------------------------------------------|
-| Cisco Firepower NGIPS                         | [Link](https://www.cisco.com/c/en/us/products/security/firepower-next-generation-intrusion-prevention-system/index.html) |
-| Palo Alto Networks IPS                        | [Link](https://www.paloaltonetworks.com/network-security/ips) |
-| Snort                                         | [Link](https://www.snort.org/) |
-| McAfee Network Security Platform              | [Link](https://www.mcafee.com/enterprise/en-us/products/network-security-platform.html) |
-| Fortinet Intrusion Prevention System          | [Link](https://www.fortinet.com/products/ips.html) |
+| Cisco Firepower NGIPS                         | [cisco ngips](https://www.cisco.com/c/en/us/products/security/ngips/index.html) |
+| Palo Alto Networks IPS                        | [paloaltonetworks](https://www.paloaltonetworks.com/network-security/advanced-threat-prevention) |
+| Snort                                         | [snort](https://www.snort.org/) |
+| Fortinet Intrusion Prevention System          | [fortiguard](https://www.fortinet.com/support/support-services/fortiguard-security-subscriptions/intrusion-prevention) |
 
 ## Intrusion Detection System
 
@@ -127,10 +126,11 @@ This document provides a reference list of various cybersecurity solutions categ
 | Solution                                       | URL                                                |
 |-----------------------------------------------|----------------------------------------------------|
 | CrowdStrike Falcon                            | [Link](https://www.crowdstrike.com/) |
-| Carbon Black (VMware Carbon Black)             | [Link](https://www.carbonblack.com/products/endpoint-security-platform/) |
-| SentinelOne                                   | [Link](https://www.sentinelone.com/) |
+| Carbon Black (VMware Carbon Black)            | [Link](https://www.carbonblack.com/products/endpoint-security-platform/) |
+| SentinelOne                                   | [sentinelone](https://www.sentinelone.com/) |
 | Sophos Intercept X                            | [Link](https://www.sophos.com/en-us/products/intercept-x.aspx) |
 | McAfee MVISION EDR                            | [Link](https://www.mcafee.com/enterprise/en-us/products/mvision-endpoint-detection-response.html) |
+| Trellix                                       | [trellix](https://www.trellix.com/en-us/products/edr.html) |
 
 ## Unified Threat Management (UTM)
 
