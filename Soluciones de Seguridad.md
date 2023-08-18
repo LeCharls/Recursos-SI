@@ -19,9 +19,10 @@
 - [ZeroTrust](#)
 - [VPN](#)
 - [SOC (Security Operations Center)](#)
-- [HoneyPot](#)
+- [HoneyPots](#)
 - [Backups](#)
 - [AntiDDoS](#)
+- [Security API](#)
 
 This document provides a reference list of various cybersecurity solutions categorized by their respective functionalities.
 ## Intrusion Detection and Prevention
