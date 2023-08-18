@@ -1,96 +1,95 @@
-| URL                                       | Classification       |
-|-------------------------------------------|----------------------|
-| https://vercel.com/                       | Related to frameworks |
-| https://mui.com/material-ui/guides/routing/| Related to frameworks |
-| https://www.devwares.com/windframe/        | Related to frameworks |
-| https://tumult.com/hype/                   | Related to frameworks |
-| https://nextjs.org/                       | Related to frameworks |
+| Frameworks                                       |
+|-------------------------------------------|
+| https://vercel.com/                       |
+| https://mui.com/material-ui/guides/routing/|
+| https://www.devwares.com/windframe/        |
+| https://tumult.com/hype/                   |
+| https://nextjs.org/                       |
 
 
-| URL                                         | Classification     |
-|---------------------------------------------|--------------------|
-| https://www.stackbit.com/pricing            | Related to builders |
-| https://mdbgo.com/                          | Related to builders |
-| https://www.odoo.com/                       | Related to builders |
-| https://builder.io/                        | Related to builders |
-| https://versoly.com/tailwind-page-builder  | Related to builders |
-| https://tailwind.build/                    | Related to builders |
-| https://carrd.co/                          | Related to builders |
-| https://mobirise.com/es/                  | Related to builders |
-| https://pinegrow.com/                     | Related to builders |
-| https://pingendo.com/                     | Related to builders |
-| https://startertemplates.com/?page-builder=elementor | Related to builders |
-| https://webflow.com/                     | Related to builders |
-| https://es.squarespace.com/              | Related to builders |
-| https://squareup.com/es/es/online-store | Related to builders |
-| https://www.weebly.com/es              | Related to builders |
-| https://www.ecwid.com                 | Related to builders |
-| https://astro.build/               | Related to builders |
+| builders                                         |
+|---------------------------------------------|
+| https://www.stackbit.com/pricing            |
+| https://mdbgo.com/                          |
+| https://www.odoo.com/                       | 
+| https://builder.io/                        | 
+| https://versoly.com/tailwind-page-builder  | 
+| https://tailwind.build/                    | 
+| https://carrd.co/                          | 
+| https://mobirise.com/es/                  | 
+| https://pinegrow.com/                     | 
+| https://pingendo.com/                     | 
+| https://startertemplates.com/?page-builder=elementor | 
+| https://webflow.com/                     | 
+| https://es.squarespace.com/              | 
+| https://squareup.com/es/es/online-store | 
+| https://www.weebly.com/es              | 
+| https://www.ecwid.com                 | 
+| https://astro.build/               | 
 
 
-
-| URL                                            | Classification       |
-|------------------------------------------------|----------------------|
-| https://tailblocks.cc/                         | Related to tailwindcss |
-| https://nerdcave.com/tailwind-cheat-sheet     | Related to tailwindcss |
-| https://winden.dev/                           | Related to tailwindcss |
-| https://underscoretw.com/docs/installation/   | Related to tailwindcss |
-| https://webflow.com/made-in-webflow/tailwindcss | Related to tailwindcss |
-| https://dev.to/cruip/25-places-where-you-can-get-free-tailwind-css-components-47lm | Related to tailwindcss |
-| https://devdojo.com/tails                    | Related to tailwindcss |
-| https://play.tailwindcss.com/               | Related to tailwindcss |
-| https://tailwindcss.com/                   | Related to tailwindcss |
-| https://tailwind.ws/                         | Related to tailwindcss |
-
-
-| URL                                         | Classification     |
-|---------------------------------------------|--------------------|
-| https://michalsnik.github.io/aos/            | Related to libraries |
-| https://fontawesome.com/search               | Related to libraries |
-| https://tailwind-elements.com/               | Related to libraries |
-| https://www.tailwindtoolbox.com/             | Related to libraries |
-| https://tailwindui.com/components/           | Related to libraries |
-| https://shuffle.dev/tailwind                | Related to libraries |
-| https://www.tailwindtoolbox.com/             | Related to libraries |
-| https://tailwindtemplates.co/               | Related to libraries |
-| https://scrollrevealjs.org/             | Related to libraries |
-| https://wowjs.uk/                  | Related to libraries |
-| https://animate.style/            | Related to libraries |
-| https://greensock.com/           | Related to libraries |
-| https://www.minimamente.com/project/magic/ | Related to libraries |
-| https://animejs.com/            | Related to libraries |
-| https://popmotion.io/          | Related to libraries |
-| https://threejs.org/          | Related to libraries |
+| TailwindCss                                            | 
+|------------------------------------------------|
+| https://tailblocks.cc/                         | 
+| https://nerdcave.com/tailwind-cheat-sheet     | 
+| https://winden.dev/                           | 
+| https://underscoretw.com/docs/installation/   | 
+| https://webflow.com/made-in-webflow/tailwindcss | 
+| https://dev.to/cruip/25-places-where-you-can-get-free-tailwind-css-components-47lm | 
+| https://devdojo.com/tails                    | 
+| https://play.tailwindcss.com/               | 
+| https://tailwindcss.com/                   | 
+| https://tailwind.ws/                         | 
 
 
-| URL                                      | Classification     |
-|------------------------------------------|--------------------|
-| https://bootstrapstudio.io/             | Related to bootstrap |
-| https://getbootstrap.com/              | Related to bootstrap |
-| https://startbootstrap.com/           | Related to bootstrap |
-| https://shuffle.dev/components/bootstrap | Related to bootstrap |
+| libraries                                         |
+|---------------------------------------------|
+| https://michalsnik.github.io/aos/            | 
+| https://fontawesome.com/search               | 
+| https://tailwind-elements.com/               | 
+| https://www.tailwindtoolbox.com/             | 
+| https://tailwindui.com/components/           | 
+| https://shuffle.dev/tailwind                | 
+| https://www.tailwindtoolbox.com/             | 
+| https://tailwindtemplates.co/               | 
+| https://scrollrevealjs.org/             | 
+| https://wowjs.uk/                  | 
+| https://animate.style/            | 
+| https://greensock.com/           | 
+| https://www.minimamente.com/project/magic/ | 
+| https://animejs.com/            | 
+| https://popmotion.io/          | 
+| https://threejs.org/          | 
 
 
-| URL                                    | Classification     |
-|----------------------------------------|--------------------|
-| https://tailpress.io/                 | Related to wordpress |
+| bootstrap                                      | 
+|------------------------------------------|
+| https://bootstrapstudio.io/             | 
+| https://getbootstrap.com/              | 
+| https://startbootstrap.com/           | 
+| https://shuffle.dev/components/bootstrap | 
 
 
-| URL                                           | Classification      |
-|-----------------------------------------------|---------------------|
-| https://www.creative-tim.com/                 | Related to UI/UX libraries |
-| https://tailwindtoolbox.com/                  | Related to UI/UX libraries |
-| https://tailwindtemplates.co/                | Related to UI/UX libraries |
-| https://scrollrevealjs.org/                  | Related to UI/UX libraries |
-| https://wowjs.uk/                           | Related to UI/UX libraries |
-| https://animate.style/                     | Related to UI/UX libraries |
-| https://greensock.com/                    | Related to UI/UX libraries |
-| https://www.minimamente.com/project/magic/ | Related to UI/UX libraries |
-| https://animejs.com/                    | Related to UI/UX libraries |
-| https://popmotion.io/                  | Related to UI/UX libraries |
-| https://threejs.org/                  | Related to UI/UX libraries |
-| https://uiverse.io/             | Related to UI/UX libraries |
-| https://avvvatars.com/             | Related to UI/UX libraries |
+| tailwind   and wordpress                                 |
+|----------------------------------------|
+| https://tailpress.io/                 | 
+
+
+| UI/UX librarie                                           | 
+|-----------------------------------------------|
+| https://www.creative-tim.com/                 | 
+| https://tailwindtoolbox.com/                  | 
+| https://tailwindtemplates.co/                | 
+| https://scrollrevealjs.org/                  | 
+| https://wowjs.uk/                           | 
+| https://animate.style/                     | 
+| https://greensock.com/                    | 
+| https://www.minimamente.com/project/magic/ | 
+| https://animejs.com/                    | 
+| https://popmotion.io/                  | 
+| https://threejs.org/                  | 
+| https://uiverse.io/             | 
+| https://avvvatars.com/             | 
 
 
 
@@ -112,8 +111,8 @@
 | Microsoft Azure Cosmos DB | Globally distributed database service | [azure.microsoft.com/services/cosmos-db](https://azure.microsoft.com/services/cosmos-db)|
 
 
-| URL                                           | Classification      |
-|-----------------------------------------------|---------------------|
-| https://visualgo.net/en            | Related to Data structures |
+| Data structures                                           |
+|-----------------------------------------------|
+| https://visualgo.net/en            | |
 
 
