@@ -26,7 +26,7 @@
 
 | Security Control | Open Source or Free Software Solutions |
 |---|---|
-| IPS (Intrusion Prevention System) | Wazuh,  Snort, Suricata, Bro, OSSEC, SENTINEL, Fail2Ban, Netfilter |
+| IPS (Intrusion Prevention System) | Wazuh,  Snort, Suricata, Bro, OSSEC, SENTINEL, Fail2Ban, Netfilter, SolarWinds, Sagan, Splunk, Wips-ng,  |
 | IDS (Intrusion Detection System) | Snort, Zeek, Suricata, Bro, OSSEC, SENTINEL, SshGuard, Fail2Ban, Netfilter |
 | XDR (Extended Detection and Response) | OpenXDR, MISP, OSSEC, SENTINEL, Cortex XDR, AlienVault USM |
 | MDR (Managed detection and response) | CrowdStrike Falcon, SentinelOne, Carbon Black, Sophos MDR, Tanium, Perch Security |
