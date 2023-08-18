@@ -89,6 +89,19 @@ En este repositorio, encontrarás una lista de herramientas ampliamente utilizad
 | [Qualys](https://www.qualys.com/) |    |
 | [securityscorecard](https://securityscorecard.com/)|    |
 
+### Vulnerability Databases
+| Herramienta | Info |
+|-----------------------------|-------------------------------------------------|
+| National Vulnerability Database (NVD) | [NVD](https://nvd.nist.gov/)             |
+| Common Vulnerabilities and Exposures (CVE) | [CVE](https://cve.mitre.org/)         |
+| Open Vulnerability and Assessment Language (OVAL) | [OVAL](https://oval.cisecurity.org/) |
+| Exploit Database (Exploit-DB) | [Exploit-DB](https://www.exploit-db.com/) |
+| SecurityFocus                | [SecurityFocus](https://www.securityfocus.com/) |
+| Common Weakness Enumeration (CWE) | [CWE](https://cwe.mitre.org/) |
+| Rapid7 VulnDB                | [Rapid7 VulnDB](https://vulndb.cyberriskanalytics.com/) |
+| CERT Vulnerability Notes    | [CERT Vulnerability Notes](https://www.kb.cert.org/vuls/) |
+| Packet Storm                | [Packet Storm](https://packetstormsecurity.com/) |
+| Full Disclosure             | [Full Disclosure](http://seclists.org/fulldisclosure/) |
 
 ### Control de eficacia de seguridad mediante Pentesting (Red Team)
 
@@ -158,4 +171,5 @@ Estas herramientas están diseñadas para evaluar y mejorar la seguridad de sist
 | [OpenSCAP](https://www.open-scap.org/) | Herramienta de auditoría que ayuda a los profesionales a analizar y evaluar datos para detectar fraudes y riesgos. |
 | [OpenSAMM](https://www.opensamm.org/) | Software de análisis de datos que permite a los auditores detectar anomalías y patrones en grandes conjuntos de datos. |
 | [PILAR](https://pilar.ccn-cert.cni.es/index.php/pilar/pilar-basic) | PILAR es un conjunto de herramientas EAR (Entorno de Análisis de Riesgos) cuya función es el análisis y la gestión de riesgos de un sistema de información siguiendo la metodología Magerit  |
+
 
