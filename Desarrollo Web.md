@@ -1,14 +1,89 @@
-| Frameworks                                       |
+| Site Generateors for Single Page Application, Server Side G Frameworks    |
+|-------------------------------------------|
+| [reactjs.org](https://reactjs.org/) |
+| [nextjs.org](https://nextjs.org/)   |
+| [vuejs.org](https://vuejs.org/)     |
+| [jekyllrb.com](https://jekyllrb.com/) |
+| [webpack.js.org](https://webpack.js.org/) |
+| [framer.com](https://www.framer.com/) |
+| [gohugo.io](https://gohugo.io/)     |
+| [gatsbyjs.com](https://www.gatsbyjs.com/) |
+| [svelte.dev](https://svelte.dev/)   |
+| [angular.io](https://angular.io/)   |
+| [nuxtjs.org](https://nuxtjs.org/)   |
+| [11ty.dev](https://www.11ty.dev/)   |
+| [astro.build](https://astro.build/) |
+| [ionicframework](https://ionicframework.com/)  |
+| [tumult](https://tumult.com/hype/) |
+
+| Site Generateors for Single Page Application, Server Side Rendering Frameworks |
+|-------------------------------------------|
+| [nextjs.org](https://nextjs.org/)   |
+| [nuxtjs.org](https://nuxtjs.org/)   |
+| [sapper.svelte.dev](https://sapper.svelte.dev/) |
+| [angular.io/guide/universal](https://angular.io/guide/universal) |
+| [blitzjs.com](https://blitzjs.com/) |
+| [redwoodjs.com](https://redwoodjs.com/) |
+| [rendora.io](https://rendora.io/)  |
+| [afterjs.com](https://afterjs.com/) |
+| [quasar.dev/ssr](https://quasar.dev/ssr)   |
+| [kit.svelte.dev](https://kit.svelte.dev/) |
+
+|ServerLess|
 |-------------------------------------------|
 | https://vercel.com/                       |
-| https://mui.com/material-ui/guides/routing/|
-| https://www.devwares.com/windframe/        |
-| https://tumult.com/hype/                   |
-| https://nextjs.org/                       |
+| https://www.serverless.com/               |
 
+
+| CSS Frameworks                            |
+|-------------------------------------------|
+| tailwindsCss |
+| SCSS |
+| BootSTrap |
+| LESS |
+| Bulma |
+
+| UI                             |
+|-------------------------------------------|
+| MaterialUI  |
+| Ant Design  |
+| Headless UI  |
+| Chakra UI  |
+| Alpine.js  |
+| daisyUI  |
+| Flutter  |
+| Radix UI |
+| Shadcn UI  |
+| Flowbite |
+| Semantic UI |
+
+| CMS                             |
+|-------------------------------------------|
+| Firebase  |
+| Prisma  |
+| HNetlifyCMS |
+| Shopify  |
+| Ghost  |
+| Supabase  |
+| Notion  |
+| Contentful |
+| Strapi |
+| Flotiq |
+| Sanity |
+| CloudCannon |
+| Forestry |
+| Tina |
+| Drizzle ORM |
+| Joomla |
+| Wordpress |
+
+|Templates|
+|----|
+| https://www.builtatlightspeed.com/ |
 
 | builders                                         |
 |---------------------------------------------|
+| https://www.devwares.com/windframe/  |
 | https://www.stackbit.com/pricing            |
 | https://mdbgo.com/                          |
 | https://www.odoo.com/                       | 
@@ -115,4 +190,6 @@
 |-----------------------------------------------|
 | https://visualgo.net/en            | |
 
-
+| Cloud |
+|--|
+| https://www.heroku.com/ |
