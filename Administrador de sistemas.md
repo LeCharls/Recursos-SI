@@ -112,6 +112,9 @@ https://nxlog.co/downloads/nxlog-ce#nxlog-community-edition
 | Infraestructure |   [terraform.io](https://www.terraform.io/), [packer.io](https://www.packer.io/), [ansible.com/products/tower](https://www.ansible.com/products/tower),[puppet.com/products/puppet-enterprise](https://puppet.com/products/puppet-enterprise), [chef.io/products/chef-automate](https://www.chef.io/products/chef-automate/)     |
 | Online & Private Cloud |   [aws.amazon.com](https://aws.amazon.com/), [azure.microsoft.com](https://azure.microsoft.com/),  [cloud.google.com](https://cloud.google.com/), [ibm.com/cloud](https://www.ibm.com/cloud), [oracle.com/cloud](https://www.oracle.com/cloud/)   |
 
+
+https://www.apexsql.com/products/sql-tools-bundle-operations/ #fixtool
+
 # Cloud Suite
 
 ## Cloud Service Providers
