@@ -23,7 +23,9 @@
 - [Codigo Deontológico](#)
 
 
-## Objetivo: "Valor agregado a la empresa"
+## Objetivo: 
+### - Valor agregado a la empresa
+### - No morir en el intento
 ## Beneficios: 
 ### - Identificación y correción de problemas de seguridad
 ### - Optimización de procesos
