@@ -3,7 +3,7 @@
 ## Que Hace?
 
 - [Identificar y evaluar los riesgos de seguridad](#identificar-riesgos-y-vulnerabilidades--de-seguridad) 
-- [Probar la eficacia de los controles de seguridad presentes](#)	
+- [Probar la eficacia de los controles de seguridad presentes](#control-de-eficacia-de-seguridad-mediante-pentesting)	
 - [Analizar los registros y logs de seguridad](#)
 - [Investigar incidentes de seguridad](#)	
 - [Revisar cumplimiento de las regulaciones legales en materia de seguridad](#)
