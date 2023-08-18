@@ -93,6 +93,7 @@ En este repositorio, encontrarás una lista de herramientas ampliamente utilizad
 
 | Herramienta | Info |
 |----------------------|------------------------|
+| [lansweeper](https://www.lansweeper.com/lp/vulnerability-management/) | La solución de gestión de activos de ciberseguridad  para IT  |
 | [Sqlmap](https://sqlmap.org/)| sqlmap es una herramienta de prueba de penetración de código abierto que automatiza el proceso de detección y explotación de fallas de inyección de SQL y toma de control. |
 | [Kali Linux](https://www.kali.org/) | Una distribución de Linux diseñada para pruebas de penetración y seguridad, con una amplia gama de herramientas preinstaladas. |
 | [Parrot OS](https://www.parrotsec.org/) | Un sistema operativo de seguridad que incluye herramientas para pruebas de penetración, análisis forense y anonimato en línea. |
