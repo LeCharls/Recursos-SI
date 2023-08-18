@@ -51,23 +51,7 @@ The tools are categorized into different sections based on their functionality.
 
 
 
-https://www.graalvm.org/ maquina virtual
-https://neo4j.com/ bases de datos
-https://www.visual-paradigm.com/download/community.jsp esquemas visuales
-https://www.embarcadero.com/es/products/delphi/starter/free-download IDE free
-https://resources.sw.siemens.com/hu-HU/download-solid-edge-community-edition 3d CAD Software
-https://www.qualys.com/community-edition/ security 
-https://info.veracode.com/security-labs-community-edition-signup.html security 
-https://cpl.thalesgroup.com/encryption/ciphertrust-platform-community-edition security
-https://otrscommunityedition.com/news/2022-05-06/otrs-community-edition-version-6-0-34-released/ security
-https://www.openiam.com/download-a-trial security 
-https://www.openproject.org/download-and-installation/
-https://start.paloaltonetworks.com/sign-up-for-community-edition-cxo
-https://www.sep.de/download-support/download-community-edition/
-https://www.omnis.net/community-edition/?lang=es
-https://www.nutanix.com/mx/products/register
-https://www.splunk.com/en_us/download.html
-https://nxlog.co/downloads/nxlog-ce#nxlog-community-edition
+
 
 
 # IT Infrastructure Tools
@@ -113,7 +97,7 @@ https://nxlog.co/downloads/nxlog-ce#nxlog-community-edition
 | Online & Private Cloud |   [aws.amazon.com](https://aws.amazon.com/), [azure.microsoft.com](https://azure.microsoft.com/),  [cloud.google.com](https://cloud.google.com/), [ibm.com/cloud](https://www.ibm.com/cloud), [oracle.com/cloud](https://www.oracle.com/cloud/)   |
 
 
-https://www.apexsql.com/products/sql-tools-bundle-operations/ #fixtool
+
 
 # Cloud Suite
 
@@ -167,3 +151,24 @@ https://www.apexsql.com/products/sql-tools-bundle-operations/ #fixtool
 | Microsoft Azure Synapse Analytics | [azure.microsoft.com/en-us/services/synapse-analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/) |
 | IBM Cloud Pak for Data | [ibm.com/cloud/cloud-pak-for-data](https://www.ibm.com/cloud/cloud-pak-for-data) |
 
+
+
+_______________________________________________________
+https://www.graalvm.org/ maquina virtual
+https://neo4j.com/ bases de datos
+https://www.visual-paradigm.com/download/community.jsp esquemas visuales
+https://www.embarcadero.com/es/products/delphi/starter/free-download IDE free
+https://resources.sw.siemens.com/hu-HU/download-solid-edge-community-edition 3d CAD Software
+https://www.qualys.com/community-edition/ security 
+https://info.veracode.com/security-labs-community-edition-signup.html security 
+https://cpl.thalesgroup.com/encryption/ciphertrust-platform-community-edition security
+https://otrscommunityedition.com/news/2022-05-06/otrs-community-edition-version-6-0-34-released/ security
+https://www.openiam.com/download-a-trial security 
+https://www.openproject.org/download-and-installation/
+https://start.paloaltonetworks.com/sign-up-for-community-edition-cxo
+https://www.sep.de/download-support/download-community-edition/
+https://www.omnis.net/community-edition/?lang=es
+https://www.nutanix.com/mx/products/register
+https://www.splunk.com/en_us/download.html
+https://nxlog.co/downloads/nxlog-ce#nxlog-community-edition
+https://www.apexsql.com/products/sql-tools-bundle-operations/ #fixtool
