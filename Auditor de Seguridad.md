@@ -104,7 +104,7 @@ En este repositorio, encontrarás una lista de herramientas ampliamente utilizad
 ### CAAT's Computer-Assisted Audit Techniques
 | Herramienta | Info |
 |----------------------|------------------------|
-| [ACL](url) | Herramienta de auditoría que ayuda a los profesionales a analizar y evaluar datos para detectar fraudes y riesgos. |
-| [IDEA](url) | Software de análisis de datos que permite a los auditores detectar anomalías y patrones en grandes conjuntos de datos. |
-| [Arbutus Analyzer](url) | Proporciona análisis de datos y herramientas de auditoría para ayudar en la detección de fraudes y errores. |
+| [OpenSCAP](https://www.open-scap.org/) | Herramienta de auditoría que ayuda a los profesionales a analizar y evaluar datos para detectar fraudes y riesgos. |
+| [OpenSAMM](https://www.opensamm.org/) | Software de análisis de datos que permite a los auditores detectar anomalías y patrones en grandes conjuntos de datos. |
+| [PILAR](https://pilar.ccn-cert.cni.es/index.php/pilar/pilar-basic) | PILAR es un conjunto de herramientas EAR (Entorno de Análisis de Riesgos) cuya función es el análisis y la gestión de riesgos de un sistema de información siguiendo la metodología Magerit  |
 
