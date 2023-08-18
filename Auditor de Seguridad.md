@@ -27,10 +27,12 @@
 ## Beneficios: 
 ### - Identificación y correción de problemas de seguridad
 ### - Optimización de procesos
-### - Reducir costos, Mejora de la eficiencia
+### - Reducir costos,
+### - Mejora de la eficiencia
 ## Resultados:
 ### - Mejora de confianza
 ### - Satisfacción del personal
 ### -  Mejora de la reputación
 
 ## Como?: "Jornada intensiva y coffe :stuck_out_tongue_closed_eyes:"
+### - [Arriba se indican sus tareas](#)
