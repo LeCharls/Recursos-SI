@@ -3,6 +3,7 @@
 - [IPS (Intrusion Prevention System)](#)
 - [IDS (Intrusion Detection System)](#)
 - [XDR (Extended Detection and Response)](#)
+- [MDR (Managed detection and response)](#)
 - [SIEM (Security Information and Event Management)](#)
 - [Firewall](#)
 - [Proxy](#)
@@ -20,6 +21,7 @@
 - [SOC (Security Operations Center)](#)
 - [HoneyPot](#)
 - [Backups](#)
+- [AntiDDoS](#)
 
 This document provides a reference list of various cybersecurity solutions categorized by their respective functionalities.
 ## Intrusion Detection and Prevention
@@ -28,58 +30,58 @@ This document provides a reference list of various cybersecurity solutions categ
 |-----------------------------------------------|----------------------------------------------------|
 | Cisco Firepower NGIPS                         | [cisco ngips](https://www.cisco.com/c/en/us/products/security/ngips/index.html) |
 | Palo Alto Networks IPS                        | [paloaltonetworks](https://www.paloaltonetworks.com/network-security/advanced-threat-prevention) |
-| Snort                                         | [snort](https://www.snort.org/) |
+| Snort                                         | [Snort](https://www.snort.org/) |
 | Fortinet Intrusion Prevention System          | [fortiguard](https://www.fortinet.com/support/support-services/fortiguard-security-subscriptions/intrusion-prevention) |
+| Wazuh                                | [wazuh](https://wazuh.com/) |
 
 ## Intrusion Detection System
 
 | Solution                                       | URL                                                |
 |-----------------------------------------------|----------------------------------------------------|
-| Suricata                                      | [Link](https://suricata-ids.org/) |
-| IBM QRadar                                    | [Link](https://www.ibm.com/security/security-intelligence/qradar) |
-| AlienVault USM                                | [Link](https://www.alienvault.com/products/usm) |
-| McAfee Intrusion Detection and Prevention System | [Link](https://www.mcafee.com/enterprise/en-us/products/intrusion-detection-prevention-system.html) |
-| Darktrace                                     | [Link](https://www.darktrace.com/) |
+| Suricata                                      | [suricata](https://suricata-ids.org/) |
+| IBM QRadar                                    | [qradar](https://www.ibm.com/security/security-intelligence/qradar) |
+| Wazuh                                | [wazuh](https://wazuh.com/) |
+| Darktrace                                     | [darktrace](https://www.darktrace.com/) |
 
 ## Extended Detection and Response (XDR)
 
 | Solution                                       | URL                                                |
 |-----------------------------------------------|----------------------------------------------------|
-| CrowdStrike Falcon XDR                        | [Link](https://www.crowdstrike.com/products/falcon/xdr/) |
-| Microsoft Defender for Endpoint               | [Link](https://www.microsoft.com/en-us/microsoft-365/security/endpoint-defender) |
-| Carbon Black Cloud                            | [Link](https://www.carbonblack.com/products/cloud) |
-| SentinelOne XDR                               | [Link](https://www.sentinelone.com/platform/xdr/) |
-| Trend Micro XDR                               | [Link](https://www.trendmicro.com/en_us/business/products/xdr.html) |
+| CrowdStrike Falcon XDR                        | [Falcom Platform](https://www.crowdstrike.com/products/endpoint-security/) |
+| Microsoft Defender for Endpoint               | [Microsoft ](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint) |
+| VMWare security                            | [Vmware](https://www.vmware.com/security.html) |
+| SentinelOne XDR                               | [Sentinel One](https://www.sentinelone.com/platform/singularity-xdr-protection/) |
+| Trend Micro XDR                               | [trendmicro](https://www.trendmicro.com/en_us/business/products/detection-response/xdr.html) |
 
 ## Security Information and Event Management (SIEM)
 
 | Solution                                       | URL                                                |
 |-----------------------------------------------|----------------------------------------------------|
-| Splunk Enterprise Security                    | [Link](https://www.splunk.com/en_us/software/splunk-security-information-and-event-management.html) |
-| IBM QRadar                                    | [Link](https://www.ibm.com/security/security-intelligence/qradar) |
-| LogRhythm SIEM                               | [Link](https://logrhythm.com/siem/) |
-| McAfee Enterprise Security Manager            | [Link](https://www.mcafee.com/enterprise/en-us/products/enterprise-security-manager.html) |
-| Sumo Logic                                    | [Link](https://www.sumologic.com/) |
+| Splunk Enterprise Security                    | [splunk](https://www.splunk.com/en_us/products/enterprise-security.html) |
+| IBM QRadar                                    | [qradar](https://www.ibm.com/security/security-intelligence/qradar) |
+| LogRhythm SIEM                               | [logrhythm](https://logrhythm.com/siem/) |
+| skyhighsecurity            | [skyhighsecurity](https://www.skyhighsecurity.com/) |
+| Sumo Logic                                    | [sumologic](https://www.sumologic.com/) |
+| Wazuh                                | [wazuh](https://wazuh.com/) |
 
 ## Firewalls
 
 | Solution                                       | URL                                                |
 |-----------------------------------------------|----------------------------------------------------|
-| Cisco ASA Firewall                            | [Link](https://www.cisco.com/c/en/us/products/security/asa-5500-series-next-generation-firewalls/index.html) |
-| Palo Alto Networks Firewall                   | [Link](https://www.paloaltonetworks.com/network-security/firewalls) |
-| Fortinet FortiGate                            | [Link](https://www.fortinet.com/products/next-generation-firewall.html) |
-| Check Point Firewall                          | [Link](https://www.checkpoint.com/products/next-generation-firewall/) |
-| Juniper Networks SRX Series Firewall          | [Link](https://www.juniper.net/us/en/products/security/srx-series/) |
+| Cisco ASA Firewall                            | [Cisco](https://www.cisco.com/c/en/us/products/security/asa-firepower-services/index.html) |
+| Palo Alto Networks Firewall                   | [PA NGFW](https://www.paloaltonetworks.com/network-security/next-generation-firewall-hardware) |
+| Fortinet FortiGate                            | [Fortinet NGFW](https://www.fortinet.com/products/next-generation-firewall.html) |
+| Check Point Firewall                          | [CheckPoint NGFW](https://www.checkpoint.com/products/next-generation-firewall/) |
+| Juniper Networks SRX Series Firewall          | [juniper NGFW](https://www.juniper.net/us/en/solutions/next-gen-firewall.html) |
 
 ## Proxy
 
 | Solution                                       | URL                                                |
 |-----------------------------------------------|----------------------------------------------------|
-| Squid Proxy                                   | [Link](http://www.squid-cache.org/) |
-| Blue Coat ProxySG                             | [Link](https://www.broadcom.com/products/cyber-security/secure-proxy) |
-| Zscaler Internet Access                       | [Link](https://www.zscaler.com/products/internet-access) |
-| McAfee Web Gateway                            | [Link](https://www.mcafee.com/enterprise/en-us/products/web-gateway.html) |
-| Sophos XG Firewall                            | [Link](https://www.sophos.com/en-us/products/next-gen-firewall.aspx) |
+| Squid Proxy                                   | [Squid](http://www.squid-cache.org/) |
+| Blue Coat ProxySG                             | [ProxySG](https://www.servicepilot.com/es/integration/monitoreo-blue-coat-proxysg/) |
+| Zscaler Internet Access                       | [Zscaler](https://www.zscaler.es/products/zscaler-internet-access) |
+| Sophos XG Firewall                            | [Sophos](https://www.sophos.com/en-us/products/next-gen-firewall.aspx) |
 
 ## AntiSpam
 
