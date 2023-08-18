@@ -79,21 +79,20 @@ En este repositorio, encontrarás una lista de herramientas ampliamente utilizad
 
 | Herramienta | Info |
 |----------------------|------------------------|
-| [Nmap](url) | Realiza escaneos de red para descubrir hosts, puertos abiertos y servicios en una red. |
-| [Nessus](url) | Realiza análisis de vulnerabilidades en sistemas y redes, identificando posibles fallos de seguridad. |
-| [OpenVAS](url) | Escáner de vulnerabilidades de código abierto que verifica sistemas en busca de problemas de seguridad. |
-| [OWASP ZAP](url) | Herramienta de prueba de seguridad de aplicaciones web para encontrar vulnerabilidades en aplicaciones web. |
-| [Shodan](url) | Un motor de búsqueda que encuentra dispositivos conectados a Internet, incluidos servidores, cámaras, enrutadores, etc. |
-| [Nexpose](url) | Nexpose, la opción local de Rapid7 para el software de gestión de vulnerabilidades, supervisa las exposiciones en tiempo real y se adapta a las nuevas amenazas con datos actualizados, lo que garantiza que siempre pueda actuar en el momento del impacto. |
-| [Qualys](#) |    |
-| [securityscorecard](#)|    |
+| [Nmap](https://nmap.org/) | Realiza escaneos de red para descubrir hosts, puertos abiertos y servicios en una red. |
+| [lansweeper](https://www.lansweeper.com/lp/vulnerability-management/) | La solución de gestión de activos de ciberseguridad  para IT  |
+| [Nessus](https://www.tenable.com/downloads/nessus?loginAttempted=true) | Realiza análisis de vulnerabilidades en sistemas y redes, identificando posibles fallos de seguridad. |
+| [OpenVAS](https://openvas.org/) | Escáner de vulnerabilidades de código abierto que verifica sistemas en busca de problemas de seguridad. |
+| [OWASP ZAP](https://www.zaproxy.org/) | Herramienta de prueba de seguridad de aplicaciones web para encontrar vulnerabilidades en aplicaciones web. |
+| [Nexpose](https://www.rapid7.com/products/nexpose/) | Nexpose, la opción local de Rapid7 para el software de gestión de vulnerabilidades, supervisa las exposiciones en tiempo real y se adapta a las nuevas amenazas con datos actualizados, lo que garantiza que siempre pueda actuar en el momento del impacto. |
+| [Qualys](https://www.qualys.com/) |    |
+| [securityscorecard](https://securityscorecard.com/)|    |
 
 
 ### Control de eficacia de seguridad mediante Pentesting (Red Team)
 
 | Herramienta | Info |
 |----------------------|------------------------|
-| [lansweeper](https://www.lansweeper.com/lp/vulnerability-management/) | La solución de gestión de activos de ciberseguridad  para IT  |
 | [Sqlmap](https://sqlmap.org/)| sqlmap es una herramienta de prueba de penetración de código abierto que automatiza el proceso de detección y explotación de fallas de inyección de SQL y toma de control. |
 | [Kali Linux](https://www.kali.org/) | Una distribución de Linux diseñada para pruebas de penetración y seguridad, con una amplia gama de herramientas preinstaladas. |
 | [Parrot OS](https://www.parrotsec.org/) | Un sistema operativo de seguridad que incluye herramientas para pruebas de penetración, análisis forense y anonimato en línea. |
