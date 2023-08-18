@@ -3,9 +3,9 @@
 ## Que Hace?
 
 - [Identificar y evaluar los riesgos de seguridad](#) 
-- [Probar la eficacia de los controles de seguridad presentes](#)	, , , , , , 
-- [Analizar los registros y logs de seguridad](#)	Splunk, ELK Stack, ArcSight
-- [Investigar incidentes de seguridad](#)	Mandiant, FireEye, CrowdStrike
+- [Probar la eficacia de los controles de seguridad presentes](#)	
+- [Analizar los registros y logs de seguridad](#)
+- [Investigar incidentes de seguridad](#)	
 - [Revisar cumplimiento de las regulaciones legales en materia de seguridad](#)
 - [Concienciar en materia de seguridad](#)
 - [Calcular el riesgo, probabilidades, frecuencia   de incidentes  de seguridad](#)
@@ -39,6 +39,7 @@
 
 ## Con que lo hace?
 ### Busqueda de info pasiva
+
 | Herramienta | Info |
 |----------------------|------------------------|
 | google Dorks |   |
@@ -49,6 +50,7 @@
 
 
 ### Identificar riesgos y vulnerabilidades  de seguridad
+
 | Herramienta | Info |
 |----------------------|------------------------|
 | Nmap |   |
@@ -59,6 +61,7 @@
 | | |
 
 ### Control de eficacia de seguridad mediante Pentesting
+
 | Herramienta | Info |
 |----------------------|------------------------|
 | Burp Suite |   |
@@ -69,5 +72,29 @@
 | BackBox |    |
 | BlackArch |    |
 
+
+### Analizar los registros y logs de seguridad
+
+| Herramienta | Info |
+|----------------------|------------------------|
+| Splunk | |
+| ELK Stack | |
+| ArcSight | |
+
+
+### Investigar incidentes de seguridad
+
+| Herramienta | Info |
+|----------------------|------------------------|
+| Mandiant | |
+| FireEye | |
+| CrowdStrike | |
+
+### CAAT's Computer-Assisted Audit Techniques
+| Herramienta | Info |
+|----------------------|------------------------|
+|  | |
+|  | |
+|  | |
 
 
