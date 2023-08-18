@@ -84,14 +84,47 @@ En este repositorio, encontrarás una lista de herramientas ampliamente utilizad
 | [Burp Suite](url) | Suite de herramientas para pruebas de seguridad en aplicaciones web, que identifica vulnerabilidades y realiza pruebas de penetración. |
 | [Wireshark](url) | Un analizador de protocolos de red que captura y analiza el tráfico para detectar problemas de seguridad y rendimiento. |
 | [Metasploit](url) | Una plataforma de pruebas de penetración que permite a los investigadores probar vulnerabilidades y ejecutar ataques controlados. |
-| [Sqlmap](#)|  |
-| [Jhon](#)|  |
-| [Hydra](#)|  |
-| [Kali Linux](url) | Una distribución de Linux diseñada para pruebas de penetración y seguridad, con una amplia gama de herramientas preinstaladas. |
-| [Parrot OS](url) | Un sistema operativo de seguridad que incluye herramientas para pruebas de penetración, análisis forense y anonimato en línea. |
-| [BackBox](url) | Una distribución de Linux para pruebas de penetración y seguridad que proporciona una amplia gama de herramientas. |
-| [BlackArch](url) | Una distribución Linux especializada en seguridad y pruebas de penetración con más de 2000 herramientas. |
-| [AirCrackNG](#)|  |
+| [Sqlmap](https://sqlmap.org/)| sqlmap es una herramienta de prueba de penetración de código abierto que automatiza el proceso de detección y explotación de fallas de inyección de SQL y toma de control. |
+| [Kali Linux](https://www.kali.org/) | Una distribución de Linux diseñada para pruebas de penetración y seguridad, con una amplia gama de herramientas preinstaladas. |
+| [Parrot OS](https://www.parrotsec.org/) | Un sistema operativo de seguridad que incluye herramientas para pruebas de penetración, análisis forense y anonimato en línea. |
+| [BackBox](https://www.backbox.org/) | Una distribución de Linux para pruebas de penetración y seguridad que proporciona una amplia gama de herramientas. |
+| [BlackArch](https://blackarch.org/) | Una distribución Linux especializada en seguridad y pruebas de penetración con más de 2000 herramientas. |
+| [AirCrackNG](https://www.aircrack-ng.org/) | Herramienta para pruebas de penetración en redes inalámbricas, incluyendo cracking de claves WEP/WPA. |
+| [Nessus](https://www.tenable.com/tenable-for-education/nessus-essentials) | Herramienta de análisis de vulnerabilidades que escanea sistemas y redes para identificar posibles fallos de seguridad. |
+| [Wireshark](https://www.wireshark.org/download.html) | Un analizador de protocolos de red que captura y analiza el tráfico para detectar problemas de seguridad y rendimiento. |
+| [Nmap](https://nmap.org/) | Realiza escaneos de red para descubrir hosts, puertos abiertos y servicios en una red. |
+| [Nuclei](https://github.com/projectdiscovery/nuclei) | Herramienta de escaneo rápida y personalizable para descubrir vulnerabilidades en aplicaciones web. |
+| [Simple Backdoor Scanner PHP](https://github.com/tinwaninja/Simple-Backdoor-Scanner-PHP) | Escanea archivos PHP en busca de puertas traseras comunes. |
+| [SecLists](https://github.com/danielmiessler/SecLists) | Una colección de listas de seguridad utilizadas para descubrir posibles problemas. |
+| [PHP Shell Detector](https://github.com/emposha/PHP-Shell-Detector) | Detecta shells PHP maliciosos en los archivos de un sitio web. |
+| [Loki](https://github.com/Neo23x0/Loki) | Herramienta de detección de indicadores de compromiso (IoC) en logs y archivos. |
+| [Crypton](https://github.com/Gh0stroot/Crypton) | Herramienta de cifrado de archivos y comunicaciones. |
+| [Black Hat Ethical Hacking](https://github.com/blackhatethicalhacking) | Repositorio con recursos y herramientas de hacking ético. |
+| [URLVoid](https://www.urlvoid.com/) | Escanea URLs en busca de posibles amenazas y contenido malicioso. |
+| [urlscan.io](https://urlscan.io/) | Analiza y captura información sobre las solicitudes de una URL. |
+| [Who.is](https://who.is/) | Proporciona información sobre registros de dominio y WHOIS. |
+| [Any.Run](https://any.run/) | Plataforma de análisis de malware en tiempo real. |
+| [Pentest-Tools](https://pentest-tools.com/) | Ofrece diversas herramientas de pruebas de penetración en línea. |
+| [HostedScan](https://hostedscan.com/) | Escanea subdominios en busca de vulnerabilidades. |
+| [SSL Labs](https://www.ssllabs.com/ssltest/) | Prueba la configuración SSL/TLS de un servidor. |
+| [SecurityHeaders](https://securityheaders.com/) | Escanea encabezados HTTP para evaluar la seguridad del sitio. |
+| [Mozilla Observatory](https://observatory.mozilla.org/) | Evalúa la seguridad de un sitio web en función de las mejores prácticas. |
+| [SiteLock](https://www.sitelock.com/free-website-scan/) | Escanea sitios web en busca de malware y vulnerabilidades. |
+| [DNSDumpster](https://dnsdumpster.com/) | Proporciona información sobre registros DNS y dominios, como subdominios y direcciones IP asociadas. |
+| [Nikto2](https://cirt.net/Nikto2) | Escanea servidores web en busca de vulnerabilidades y problemas de configuración. |
+| [Burp Suite](https://portswigger.net/burp) | Suite de herramientas para pruebas de seguridad en aplicaciones web, que identifica vulnerabilidades y realiza pruebas de penetración. |
+| [Metasploit](https://www.metasploit.com/) | Una plataforma de pruebas de penetración que permite a los investigadores probar vulnerabilidades y ejecutar ataques controlados. |
+| [w3af](https://w3af.org/) | Herramienta de auditoría y explotación de aplicaciones web. |
+| [Sysinternals Suite](https://learn.microsoft.com/es-es/sysinternals/downloads/sysinternals-suite) | Colección de herramientas de administración y solución de problemas para Windows. |
+| [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | Conjunto de módulos de PowerShell para pruebas de penetración y post-explotación. |
+| [Armitage](https://github.com/topics/armitage) | Interfaz gráfica para Metasploit que simplifica la gestión de pruebas de penetración. |
+| [Shodan](https://www.shodan.io/) | Motor de búsqueda que encuentra dispositivos conectados a Internet y sus vulnerabilidades. |
+| [Censys](https://censys.io/) | Plataforma de búsqueda de Internet que escanea y cataloga dispositivos y servicios. |
+| [Palo Alto Networks](https://www.paloaltonetworks.es/) | Ofrece soluciones de seguridad y herramientas para la evaluación de redes. |
+| [DorkSearch](https://dorksearch.com/) | Herramienta de búsqueda de Google Dorks para descubrir vulnerabilidades. |
+
+Estas herramientas están diseñadas para evaluar y mejorar la seguridad de sistemas, redes y aplicaciones mediante pruebas de penetración y análisis exhaustivo.
+
 
 ### Analizar los registros y logs de seguridad
 
