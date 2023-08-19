@@ -1,0 +1,152 @@
+# Introducción
+
+Para prevenir hay que:
+- Concienciar
+- Tener sentido común
+- Realizar buenas prácticas en materia
+
+En la mayoría de casos se debe aceptar el riesgo residual y gestionarlo de manera óptima 
+en función de los recursos disponibles.
+
+Imprementar Seguridad implica:
+
+Analizar riesgos: Estudiar las posibilidades y sus conescuencias sobre los activos y la empresa.
+Gestionar riesgos: Valorar las diferentes medidas y decidir la solución mas adecuada, ademas de definir
+el riesgo residual que se asume o no.
+Gobernanza: Adaptar las operaciones de la empresa a las medidas de seguridad sin afectar a la
+continuidad y optimizando procesos.
+Vigilancia: Seguimiento y monitorización de las medidas de seguridad
+Planes de contingencia: determinar las medidas a adoptar en caso de ocurrencia del incidente.
+Mantenimiento y mejora continua: manteer, actualizar y mejorar las medidas de seguridad.
+
+Amenazas:
+
+### Caracteristicas del Ciberespionaje (ciberataques Crime-as-service)
+#### de Origen: Estados, nichos, organizaciones, sociedades, colectivos, industias o empresas
+#### su uso: generalmente, ataques dirigidos( amenazas persistentes avanzadas apt)
+#### las victimas: sector publico>informacion politica, sector privado>informacion economica valiosa
+#### el objetivo: ventaja politica, economica, estategica o social
+#### atribucion: al ser variada, es indeterminada y es dificil la atribucion
+
+### Caracteristicas de la Amenaza hibrida  (Piramide del daño)
+
+### Nivel 3: Acciones por estados
+#### Nivel 2: Acciones por actores ajenos con fines de lucro
+##### Nivel 1: Acciones por exempleados, actores ajenos a la materia, usuarios desconocedores
+
+### Caracteristicas de ataques dirigidos APT (Advanced persistent threat)
+
+objetivo: recabar mucha informacion y util de la victima para planificar ataque mas efectivo
+Capacidad de desarrollo: exploits y vulnerabilidades
+Persistencia: mantenerse en el objetivo a pesar de reinicios, actualizaciones o formateos
+Cifrado: cifrado y poner claves en la informacion 
+tecnicas de exfiltracion: potocolos usados para la extraccion de datos
+ocultacion: usar rootkit, bootkit para ser invisible
+resistencia a ingenieria inversa: dificultar el analisis de codigo 
+
+Vectores de infeccion: Web Exploit Kit, Phishing, USB 
+
+pasos:
+- Reconocimineto y busqueda de info
+- crear malware
+- entrega del malware
+- Explotar la vulnerabilidad de la victima
+- instalarse en la maquina de la victima
+- control y acceso a la maquina
+- accion sobre la maquina (extraccion, borrado, copia, reenvio, sincronizacion, encriptado)
+
+## Tipos de codigo:
+
+- ransomware
+- troyano
+- gusano
+- rootkit
+- bootkit
+- adware
+- spyware
+- mitm
+
+## Deep Web
+
+Red tor: proyecto creado por la marina de EEUU con fin the fortalecer comunicaciones y anonimato
+En TOR los datos no viajan de forma directa, sino a traver de saltos entre nodos proxy que permiten el anonimato del orgien.
+TOR se encarga de crear circuitos virtuales compuestos por 3 nodos aleatoriamente escogidos, y en cada comunicacion
+la traico de datos pasa a traves de esos nodos asignados.
+El elemento de orgien cifra la comunicacion con la clave publica del ultimo nodo.
+
+Bitcoin es la moneda electronica cifrada, descentralizxada, p2p, las transacciones se registran el la base de datos BlockChain, protocolo 
+sustenatado por la red de mineros, que controlan la moneda y protegen el sistema evitando transacciones fraudulentas y anulacion.
+Es un sistema usado que evade impuestos.
+
+## Aplicaciones
+En base a la ram disponible en el equipo, la instalacion de programas, y su ejecucion en el arranque o simultaneo puede afectar al
+rendimiento.
+
+La instalacion de programas debe llevar seguimiento y autorizacion, dado que puede afectar la instalacion de software no autrizado que
+pudiera contener malware, o acciones de segurimiento y obtencion de datos de manera intrusiva.
+
+- software debe ser legal
+- debe tener soporte a largo plazo
+- certificados en compatibilidad
+- consideraciones en vulnerabilidades con SO legacy
+
+Buenas practicas en cuestion de software:
+
+- trabajar con non-root
+- no ejecutar "de origen desconocido/dudoso"
+- evitar macros mediante la desactivacion de ejecucion automatica
+
+Cifrado de datos
+
+Convertir texto plano en texto ilegible, mediante funciones de resumen HASH y encriptado con claves, y claves publicas y privadas para comunicaciones
+
+Objetivos de cifrado:
+
+- Cifrado de disco
+- Cifrado de carpetas
+- Cifrado de Documentos
+
+Cortafuegos o firewalls
+
+monitores las concexiones entrantes y salientes de la red o equipo.
+
+diseñados para bloquear acceso o salidas no autorizadas, perimiendo el resto de las autorizadas y legitimas.
+
+buenas practicas:
+
+- no permitir conexiones a fuentes desconocidas 
+- permitir conexiones entrantes legitimas y en conocimiento, bloquear el resto
+- criterios y normas de trafico saliente
+
+
+Consecuancias del codigo maligno
+
+- Borrado
+- alterar archivos y carpetas
+- consumir recursos
+- acceso inautorizado
+- escalado de privilgios
+- propagar infeccion
+- extraer y filtrar o publicar datos
+- cifrar archivos, discos, y carpetas, o BIOS?
+
+metodos de herramientas anitmalware:
+
+- filtrado entrante y saliente de contenido y programas
+- proteccion web, correo, conexiones, descargar, archivos, ejecutables, redes
+- analisis de usb, conexiones de red, perifericos,  ficheros en disco, registros, y comparar con bases de datos de manera periodica
+
+aplicaciones anti malware:
+
+Escaner de acceso: examniar archivos o programas al abrirlos 
+escaner a demanda: analizar cuando se quiera
+escaner de correo: detectar malware en archivos, url malignas o phishing
+cotrnol de firmas:  deteccion de codigo malware en archivos
+control de ransomware: control sobre cambios ilegitimos sobre carpetas y archivos
+metodos herusiticos: aalisis de anomalias en archivos y procesos
+
+## Navegacion segura y correo:
+
+
+
+
