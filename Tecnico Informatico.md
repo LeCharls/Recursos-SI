@@ -23,3 +23,24 @@
 |  17 | YUMI (Your Universal Multiboot Installer) | Create multiboot USBs           | [Website](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) |
 |  18 | MultiBootUSB                    | Create multiboot USBs                      | [Website](http://multibootusb.org/)    |
 |  19 | Ventoy2Disk (Ventoy's installation utility) | Ventoy installation            | [Website](https://ventoy.net/)        |
+
+# Mantenimiento y Reparación de Sistemas
+
+| Acción                   | Herramienta                            | Descripción                                     | Enlace                              |
+|--------------------------|---------------------------------------|-------------------------------------------------|-------------------------------------|
+| Reparar el arranque      | AOMEI Partition Assistant Standard    | Repara el sector de arranque de discos/USB      | [Enlace](https://www.ubackup.com/) |
+|                          | Paragon Hard Disk Manager Free        | Repara el sector de arranque, clona y gestiona  | [Enlace](https://www.paragon-software.com/) |
+| Reparar discos           | EaseUS Partition Master Free          | Repara discos dañados, recupera datos, formatea | [Enlace](https://www.easeus.com/partition-manager/) |
+|                          | Paragon Hard Disk Manager Free        | Repara discos dañados, clona y gestiona         | [Enlace](https://www.paragon-software.com/) |
+| Clonar el sistema        | AOMEI Backupper Standard              | Clona el sistema a un disco/USB                 | [Enlace](https://www.ubackup.com/) |
+|                          | Paragon Hard Disk Manager Free        | Clona discos y particiones                     | [Enlace](https://www.paragon-software.com/) |
+| Reparar el registro      | Reg Organizer                        | Repara el registro, elimina entradas no deseadas | [Enlace](https://www.chemtable.com/) |
+|                          | CCleaner                              | Limpia el registro, elimina archivos temporales | [Enlace](https://www.ccleaner.com/) |
+| Hacer copia de seguridad | AOMEI Backupper Standard              | Copias de seguridad de archivos, discos, etc.  | [Enlace](https://www.ubackup.com/) |
+|                          | Macrium Reflect Free                  | Copias de seguridad de archivos, discos, etc.  | [Enlace](https://www.macrium.com/reflectfree) |
+| Escanear en busca de virus | Malwarebytes Anti-Malware            | Escanea en busca de virus y amenazas          | [Enlace](https://www.malwarebytes.com/) |
+|                          | Avast Free Antivirus                 | Escanea en busca de virus y amenazas          | [Enlace](https://www.avast.com/) |
+| Eliminar virus           | Malwarebytes Anti-Malware            | Elimina virus y amenazas                      | [Enlace](https://www.malwarebytes.com/) |
+|                          | Avast Free Antivirus                 | Elimina virus y amenazas                      | [Enlace](https://www.avast.com/) |
+| ISOs de sistemas         | Windows 10 ISO Downloader            | Descarga la ISO de Windows 10                 | [Enlace](https://www.heidoc.net/) |
+| operativos               | Windows 7 ISO Downloader             | Descarga la ISO de Windows 7                  | [Enlace](https://www.heidoc.net/) |
