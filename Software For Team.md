@@ -1,39 +1,39 @@
 # Notas
 
-https://obsidian.md/
-https://keep.google.com/
-https://www.onenote.com/
-https://www.notion.so/
+- [obsidian](https://obsidian.md/)
+- [google](https://keep.google.com/)
+- [onenote](https://www.onenote.com/)
+- [notion](https://www.notion.so/)
 
 # Team Chat
 
-https://slack.com/
-https://www.chanty.com/es/
-https://discord.com/
+- [slack](https://slack.com/)
+- [chanty](https://www.chanty.com/es/)
+- [discord](https://discord.com/)
 
 # Gestionar proyectos
 
-https://trello.com/
-https://asana.com/
-https://www.atlassian.com/es/software/jira
-https://clickup.com/
+- [trello](https://trello.com/)
+- [asana](https://asana.com/)
+- [jira](https://www.atlassian.com/es/software/jira)
+- [clickup](https://clickup.com/)
 
 # Esquemas, notas, y pizzarras
 
-https://app.diagrams.net/
-https://miro.com/es/
-https://www.lucidchart.com/
+- [diagrams](https://app.diagrams.net/)
+- [miro](https://miro.com/es/)
+- [lucidchart](https://www.lucidchart.com/)
 
 # Video Conferencias y chat
 
-https://mail.google.com/chat/u/0/?hl=es#onboarding
-https://zoom.us/es
-https://meet.google.com/
-https://www.microsoft.com/es-es/microsoft-teams/download-app
-https://www.webex.com/es/video-conferencing.html
+- [hangouts](https://mail.google.com/chat/u/0/?hl=es#onboarding)
+- [zoom](https://zoom.us/es)
+- [meet](https://meet.google.com/)
+- [teams](https://www.microsoft.com/es-es/microsoft-teams/download-app)
+- [webex](https://www.webex.com/es/video-conferencing.html)
 
 # Diseño
 
-https://www.figma.com/
-https://www.canva.com/
-https://creately.com/es/home/
+- [figma](https://www.figma.com/)
+- [canva](https://www.canva.com/)
+- [creately](https://creately.com/es/home/)
