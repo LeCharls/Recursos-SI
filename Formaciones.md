@@ -104,6 +104,9 @@
 ## Books
 - [Cisco Umbrella](https://umbrella.cisco.com/)
 
+## Blogs
+- [Webflow Website Security Checklist](https://webflow.com/blog/website-security-checklist)
+
 ## LinkedIn Learning & PCB Certification
 - [LinkedIn Learning Free Learning Paths](https://www.classcentral.com/report/linkedin-learning-free-learning-paths/)
 
