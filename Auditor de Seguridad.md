@@ -67,7 +67,7 @@ En este apartado, encontrarás una lista de herramientas ampliamente utilizadas 
 ### Recolectar datos de la plataforma/entorno/equipo
 | Herramienta | Info |
 |----------------------|------------------------|
-| [Lynis]() | auditar servidores Linux |
+| [Lynis](https://cisofy.com/lynis/) | auditar servidores Linux |
 | [AuditD](https://linux.die.net/man/8/auditd) |  demonio que captura eventos y lo almacena |
 | [REMnux](https://remnux.org/) | Audit code and analyzing malware  |
 | [Auditpol]()  | Programa de Política de Auditoría en Windows |
@@ -75,6 +75,18 @@ En este apartado, encontrarás una lista de herramientas ampliamente utilizadas 
 | [netwrix](https://www.netwrix.es/active_directory_auditing.html)|  |
 | [Solar Winds](https://www.solarwinds.com/es/security-event-manager)|  |
 | [logRythm](https://logrhythm.com/)| SIEM |
+
+### Programs especializados en auditoria
+
+| Herramienta | Info |
+|----------------------|------------------------|
+| [Lynis](https://cisofy.com/lynis/) | auditar servidores Linux |
+| [open-audit](https://www.open-audit.org/) ||
+| [active-directory-audit](https://www.manageengine.com/products/active-directory-audit/) ||
+| [qualityze](https://www.qualityze.com/)||
+| [netwrix](https://www.netwrix.es/active_directory_auditing.html)||
+| [iauditor](https://safetyculture.com/es/iauditor/)||
+| [auditnet](https://www.auditnet.org/audit_programs)||
 
 ### Identificar riesgos y vulnerabilidades de seguridad
 
@@ -147,7 +159,6 @@ En este apartado, encontrarás una lista de herramientas ampliamente utilizadas 
 | [DorkSearch](https://dorksearch.com/) | Herramienta de búsqueda de Google Dorks para descubrir vulnerabilidades. |
 
 Estas herramientas están diseñadas para evaluar y mejorar la seguridad de sistemas, redes y aplicaciones mediante pruebas de penetración y análisis exhaustivo.
-
 
 ### Analizar los registros y logs de seguridad
 
