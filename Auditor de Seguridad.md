@@ -121,6 +121,7 @@ https://attack.mitre.org/
 
 | Herramienta | Info |
 |----------------------|------------------------|
+| [wadcoms](https://wadcoms.github.io/) | es una hoja de trucos interactiva que contiene una lista seleccionada de herramientas de seguridad ofensivas y sus respectivos comandos, para usarse en entornos Windows/AD |
 | [Sqlmap](https://sqlmap.org/)| sqlmap es una herramienta de prueba de penetración de código abierto que automatiza el proceso de detección y explotación de fallas de inyección de SQL y toma de control. |
 | [Kali Linux](https://www.kali.org/) | Una distribución de Linux diseñada para pruebas de penetración y seguridad, con una amplia gama de herramientas preinstaladas. |
 | [Parrot OS](https://www.parrotsec.org/) | Un sistema operativo de seguridad que incluye herramientas para pruebas de penetración, análisis forense y anonimato en línea. |
