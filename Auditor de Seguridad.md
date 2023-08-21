@@ -163,6 +163,12 @@ https://attack.mitre.org/
 
 Estas herramientas están diseñadas para evaluar y mejorar la seguridad de sistemas, redes y aplicaciones mediante pruebas de penetración y análisis exhaustivo.
 
+### Analizar aplicaciones y web
+
+| Herramienta | Info |
+|----------------------|------------------------|
+| [OWASP](https://cheatsheetseries.owasp.org/) | tremenda utilidad |
+
 ### Analizar los registros y logs de seguridad
 
 | Herramienta | Info |
