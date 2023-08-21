@@ -19,13 +19,12 @@ This is a curated list of development tools and services that can be helpful for
 ## Image Tools
 
 - **[Scrutinizer](https://scrutinizer-ci.com/)**: Online code scanner (SaaS) for PHP, Ruby, Python.
-- **[Coverity](https://www.synopsys.com/coverity.html)**: Online code scanner (SaaS) for Java, C/C++, C#.
+- **[Coverity](https://www.synopsys.com/)**: Online code scanner (SaaS) for Java, C/C++, C#.
 
 ## Testing
 
 - **[Saucelabs](https://www.saucelabs.com/)**: Selenium-based testing platform (SaaS).
 - **[Browserstack](https://www.browserstack.com/)**: Selenium-based testing platform (SaaS).
-- **[blitz.io](https://www.blitz.io/)**: Website/API load testing (SaaS).
 - **[Browserling](https://www.browserling.com/)**: Interactive cross-browser testing (commercial).
 
 ## Code Review
